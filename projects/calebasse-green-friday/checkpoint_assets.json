@@ -1,0 +1,235 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-green-friday",
+  "pipeline_type": "animation",
+  "stage": "assets",
+  "status": "completed",
+  "timestamp": "2026-11-23T20:29:48.945149+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "asset_manifest": {
+      "version": "1.0",
+      "assets": [
+        {
+          "id": "product-jujube",
+          "type": "image",
+          "path": "public/products/p0.jpg",
+          "source_tool": "web_download",
+          "scene_id": "A6",
+          "provider": "calebasse.com (Cloudinary)",
+          "original_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+          "license": "Calebasse brand asset \u2014 user confirmed affiliation and permission (2026-10-13)",
+          "cost_usd": 0.0,
+          "format": "jpg"
+        },
+        {
+          "id": "product-mandarine",
+          "type": "image",
+          "path": "public/products/p1.jpg",
+          "source_tool": "web_download",
+          "scene_id": "A6",
+          "provider": "calebasse.com (Cloudinary)",
+          "original_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+          "license": "Calebasse brand asset \u2014 user confirmed affiliation and permission (2026-10-13)",
+          "cost_usd": 0.0,
+          "format": "jpg"
+        },
+        {
+          "id": "product-voyage",
+          "type": "image",
+          "path": "public/products/p2.jpg",
+          "source_tool": "web_download",
+          "scene_id": "A6",
+          "provider": "calebasse.com (Cloudinary)",
+          "original_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+          "license": "Calebasse brand asset \u2014 user confirmed affiliation and permission (2026-10-13)",
+          "cost_usd": 0.0,
+          "format": "jpg"
+        },
+        {
+          "id": "product-goji",
+          "type": "image",
+          "path": "public/products/p3.jpg",
+          "source_tool": "web_download",
+          "scene_id": "A6",
+          "provider": "calebasse.com (Cloudinary)",
+          "original_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+          "license": "Calebasse brand asset \u2014 user confirmed affiliation and permission (2026-10-13)",
+          "cost_usd": 0.0,
+          "format": "jpg"
+        },
+        {
+          "id": "product-decouverte",
+          "type": "image",
+          "path": "public/products/p77.jpg",
+          "source_tool": "web_download",
+          "scene_id": "C3",
+          "provider": "calebasse.com (Cloudinary)",
+          "original_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+          "license": "Calebasse brand asset \u2014 user confirmed affiliation and permission (2026-10-13)",
+          "cost_usd": 0.0,
+          "format": "jpg"
+        },
+        {
+          "id": "product-beaute",
+          "type": "image",
+          "path": "public/products/p76.jpg",
+          "source_tool": "web_download",
+          "scene_id": "C3",
+          "provider": "calebasse.com (Cloudinary)",
+          "original_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+          "license": "Calebasse brand asset \u2014 user confirmed affiliation and permission (2026-10-13)",
+          "cost_usd": 0.0,
+          "format": "jpg"
+        },
+        {
+          "id": "font-poppins-400",
+          "type": "font",
+          "path": "public/fonts/Poppins-400.woff2",
+          "source_tool": "web_download",
+          "scene_id": "A1",
+          "provider": "Google Fonts",
+          "license": "SIL OFL 1.1",
+          "cost_usd": 0.0,
+          "format": "woff2"
+        },
+        {
+          "id": "font-poppins-500",
+          "type": "font",
+          "path": "public/fonts/Poppins-500.woff2",
+          "source_tool": "web_download",
+          "scene_id": "A1",
+          "provider": "Google Fonts",
+          "license": "SIL OFL 1.1",
+          "cost_usd": 0.0,
+          "format": "woff2"
+        },
+        {
+          "id": "font-poppins-600",
+          "type": "font",
+          "path": "public/fonts/Poppins-600.woff2",
+          "source_tool": "web_download",
+          "scene_id": "A1",
+          "provider": "Google Fonts",
+          "license": "SIL OFL 1.1",
+          "cost_usd": 0.0,
+          "format": "woff2"
+        },
+        {
+          "id": "font-poppins-700",
+          "type": "font",
+          "path": "public/fonts/Poppins-700.woff2",
+          "source_tool": "web_download",
+          "scene_id": "A1",
+          "provider": "Google Fonts",
+          "license": "SIL OFL 1.1",
+          "cost_usd": 0.0,
+          "format": "woff2"
+        },
+        {
+          "id": "font-poppins-800",
+          "type": "font",
+          "path": "public/fonts/Poppins-800.woff2",
+          "source_tool": "web_download",
+          "scene_id": "A1",
+          "provider": "Google Fonts",
+          "license": "SIL OFL 1.1",
+          "cost_usd": 0.0,
+          "format": "woff2"
+        },
+        {
+          "id": "brand-logo_color",
+          "type": "image",
+          "path": "public/brand/logo_color.svg",
+          "source_tool": "web_download",
+          "scene_id": "A8",
+          "provider": "calebasse.com",
+          "license": "Calebasse brand asset \u2014 user permission",
+          "cost_usd": 0.0,
+          "format": "svg"
+        },
+        {
+          "id": "brand-logo_inline",
+          "type": "image",
+          "path": "public/brand/logo_inline.svg",
+          "source_tool": "web_download",
+          "scene_id": "A8",
+          "provider": "calebasse.com",
+          "license": "Calebasse brand asset \u2014 user permission",
+          "cost_usd": 0.0,
+          "format": "svg"
+        },
+        {
+          "id": "comp-A-remotion",
+          "type": "animation",
+          "path": "SceneA.tsx",
+          "source_tool": "hand_authored_atelier",
+          "scene_id": "A1",
+          "cost_usd": 0.0,
+          "subtype": "bespoke composition",
+          "generation_summary": "Hand-authored (atelier); characters, phone, banner and page drawn in code"
+        },
+        {
+          "id": "comp-C-remotion",
+          "type": "animation",
+          "path": "SceneC.tsx",
+          "source_tool": "hand_authored_atelier",
+          "scene_id": "C1",
+          "cost_usd": 0.0,
+          "subtype": "bespoke composition",
+          "generation_summary": "Hand-authored (atelier); characters, phone, banner and page drawn in code"
+        },
+        {
+          "id": "comp-shared-remotion",
+          "type": "animation",
+          "path": "shared.tsx",
+          "source_tool": "hand_authored_atelier",
+          "scene_id": "A1",
+          "cost_usd": 0.0,
+          "subtype": "bespoke composition",
+          "generation_summary": "Hand-authored (atelier); characters, phone, banner and page drawn in code"
+        },
+        {
+          "id": "comp-A-hyperframes",
+          "type": "animation",
+          "path": "hf-a/index.html",
+          "source_tool": "hand_authored_atelier",
+          "scene_id": "A1",
+          "cost_usd": 0.0,
+          "subtype": "bespoke composition",
+          "generation_summary": "Hand-authored (atelier); characters, phone, banner and page drawn in code"
+        },
+        {
+          "id": "comp-C-hyperframes",
+          "type": "animation",
+          "path": "hf-c/index.html",
+          "source_tool": "hand_authored_atelier",
+          "scene_id": "C1",
+          "cost_usd": 0.0,
+          "subtype": "bespoke composition",
+          "generation_summary": "Hand-authored (atelier); characters, phone, banner and page drawn in code"
+        },
+        {
+          "id": "comp-hf-builder",
+          "type": "animation",
+          "path": "hf-build/build.mjs",
+          "source_tool": "hand_authored_atelier",
+          "scene_id": "A1",
+          "cost_usd": 0.0,
+          "subtype": "bespoke composition",
+          "generation_summary": "Hand-authored (atelier); characters, phone, banner and page drawn in code"
+        }
+      ],
+      "total_cost_usd": 0.0,
+      "metadata": {
+        "note": "No generated media: every visual is code-drawn except the real Calebasse product photos and logo.",
+        "prices_verified": "artifacts/products.json (card-by-card, 2026-11-23)"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy-fullrun"
+  }
+}

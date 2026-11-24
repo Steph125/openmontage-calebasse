@@ -1,0 +1,68 @@
+{
+ "n": 6,
+ "text": "Mon nom chinois signifie : apaiser l'esprit. On me prépare plutôt quand la nuit tombe.",
+ "file": "voice/e6.wav",
+ "dur": 5.075,
+ "words": [
+  {
+   "w": "Mon",
+   "s": 0.0
+  },
+  {
+   "w": "nom",
+   "s": 0.14
+  },
+  {
+   "w": "chinois",
+   "s": 0.3
+  },
+  {
+   "w": "signifie",
+   "s": 1.18
+  },
+  {
+   "w": ":",
+   "s": 1.68
+  },
+  {
+   "w": "apaiser",
+   "s": 1.98
+  },
+  {
+   "w": "l'esprit.",
+   "s": 2.12
+  },
+  {
+   "w": "On",
+   "s": 3.1
+  },
+  {
+   "w": "me",
+   "s": 3.18
+  },
+  {
+   "w": "prépare",
+   "s": 3.32
+  },
+  {
+   "w": "plutôt",
+   "s": 3.82
+  },
+  {
+   "w": "quand",
+   "s": 4.1
+  },
+  {
+   "w": "la",
+   "s": 4.26
+  },
+  {
+   "w": "nuit",
+   "s": 4.56
+  },
+  {
+   "w": "tombe.",
+   "s": 4.56
+  }
+ ]
+}

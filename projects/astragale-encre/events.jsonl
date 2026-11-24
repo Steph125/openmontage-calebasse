@@ -1,0 +1,8 @@
+{"ts": "2026-09-30T04:14:57.965589+00:00", "tool": "pixabay_music", "event": "start", "output_path": "projects/astragale-encre/public/music_guzheng.mp3"}
+{"ts": "2026-09-30T04:14:58.156629+00:00", "tool": "pixabay_music", "event": "finish", "output_path": "projects/astragale-encre/public/music_guzheng.mp3", "success": false, "cost_usd": 0.0, "duration_s": 0.19}
+{"ts": "2026-09-30T04:14:58.159226+00:00", "tool": "pixabay_music", "event": "start", "output_path": "projects/astragale-encre/public/music_flute.mp3"}
+{"ts": "2026-09-30T04:14:58.245405+00:00", "tool": "pixabay_music", "event": "finish", "output_path": "projects/astragale-encre/public/music_flute.mp3", "success": false, "cost_usd": 0.0, "duration_s": 0.08}
+{"ts": "2026-09-30T04:19:38.301011+00:00", "tool": "video_compose", "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\astragale-encre\\assets\\sample\\sample_v1.mp4"}
+{"ts": "2026-09-30T04:24:27.467384+00:00", "tool": "video_compose", "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\astragale-encre\\assets\\sample\\sample_v1.mp4", "success": true, "cost_usd": 0.0, "duration_s": 289.16}
+{"ts": "2026-09-30T04:26:35.182937+00:00", "tool": "video_compose", "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\astragale-encre\\assets\\sample\\sample_v2.mp4"}
+{"ts": "2026-09-30T04:29:46.085891+00:00", "tool": "video_compose", "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\astragale-encre\\assets\\sample\\sample_v2.mp4", "success": true, "cost_usd": 0.0, "duration_s": 190.9}

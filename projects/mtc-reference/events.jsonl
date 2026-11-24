@@ -1,0 +1,12 @@
+{"ts": "2026-09-30T03:51:22.944611+00:00", "tool": "video_analyzer", "event": "start"}
+{"ts": "2026-09-30T03:51:22.950733+00:00", "tool": "video_downloader", "depth": 1, "event": "start"}
+{"ts": "2026-09-30T03:51:31.013473+00:00", "tool": "video_downloader", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 8.06}
+{"ts": "2026-09-30T03:51:31.018733+00:00", "tool": "transcriber", "depth": 1, "event": "start"}
+{"ts": "2026-09-30T03:52:09.947153+00:00", "tool": "transcriber", "depth": 1, "event": "error", "error": "open() got an unexpected keyword argument 'metadata_errors'", "duration_s": 38.93}
+{"ts": "2026-09-30T03:52:09.989580+00:00", "tool": "scene_detect", "depth": 1, "event": "start", "output_path": "projects\\mtc-reference\\reference\\scenes.json"}
+{"ts": "2026-09-30T03:52:12.421064+00:00", "tool": "scene_detect", "depth": 1, "event": "finish", "output_path": "projects\\mtc-reference\\reference\\scenes.json", "success": true, "cost_usd": 0.0, "duration_s": 2.43}
+{"ts": "2026-09-30T03:52:13.464764+00:00", "tool": "frame_sampler", "depth": 1, "event": "start"}
+{"ts": "2026-09-30T03:52:14.672070+00:00", "tool": "frame_sampler", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 1.21}
+{"ts": "2026-09-30T03:52:14.676819+00:00", "tool": "audio_energy", "depth": 1, "event": "start"}
+{"ts": "2026-09-30T03:52:16.529197+00:00", "tool": "audio_energy", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 1.85}
+{"ts": "2026-09-30T03:52:16.532638+00:00", "tool": "video_analyzer", "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 53.59}

@@ -1,0 +1,76 @@
+{
+ "n": 7,
+ "text": "En Chine, on m'infuse en fleurs entières. Je m'épanouis dans la tasse… et dans les jardins d'automne.",
+ "file": "voice/e7.wav",
+ "dur": 5.186,
+ "words": [
+  {
+   "w": "En",
+   "s": 0.0
+  },
+  {
+   "w": "Chine,",
+   "s": 0.12
+  },
+  {
+   "w": "on",
+   "s": 0.8
+  },
+  {
+   "w": "m'infuse",
+   "s": 0.94
+  },
+  {
+   "w": "en",
+   "s": 1.26
+  },
+  {
+   "w": "fleurs",
+   "s": 1.38
+  },
+  {
+   "w": "entières.",
+   "s": 2.78
+  },
+  {
+   "w": "Je",
+   "s": 3.04
+  },
+  {
+   "w": "m'épanouis",
+   "s": 3.14
+  },
+  {
+   "w": "dans",
+   "s": 3.66
+  },
+  {
+   "w": "la",
+   "s": 3.78
+  },
+  {
+   "w": "tasse…",
+   "s": 4.08
+  },
+  {
+   "w": "et",
+   "s": 4.14
+  },
+  {
+   "w": "dans",
+   "s": 4.24
+  },
+  {
+   "w": "les",
+   "s": 4.36
+  },
+  {
+   "w": "jardins",
+   "s": 4.62
+  },
+  {
+   "w": "d'automne.",
+   "s": 4.74
+  }
+ ]
+}

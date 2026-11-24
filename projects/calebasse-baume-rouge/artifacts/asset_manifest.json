@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "assets": [
+    {
+      "id": "ingredients_plants",
+      "type": "image",
+      "path": "public/img/ingredients_plants.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "lifestyle_table",
+      "type": "image",
+      "path": "public/img/lifestyle_table.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "texture_finger",
+      "type": "image",
+      "path": "public/img/texture_finger.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "tin_open",
+      "type": "image",
+      "path": "public/img/tin_open.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "tin_top",
+      "type": "image",
+      "path": "public/img/tin_top.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "comp",
+      "type": "animation",
+      "path": "Scene.tsx",
+      "source_tool": "hand_authored_atelier",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "metadata": {
+    "sources": "assets/source/sources.json + pexels_credits.json",
+    "prep": "projects/calebasse-brand/catalog/prep_log_batch2.json"
+  }
+}

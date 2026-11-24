@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-ginseng-allee",
+  "pipeline_type": "animation",
+  "stage": "edit",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:30.764160+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": false,
+  "human_approved": false,
+  "artifacts": {
+    "edit_decisions": {
+      "version": "1.0",
+      "render_runtime": "remotion",
+      "composition_mode": "atelier",
+      "renderer_family": "product-reveal",
+      "cuts": [
+        {
+          "id": "all",
+          "source": "bespoke:GinsengAllee",
+          "in_seconds": 0,
+          "out_seconds": 13.0,
+          "reason": "composition atelier unique"
+        }
+      ],
+      "bespoke": {
+        "entry": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-ginseng-allee\\index.tsx",
+        "composition_id": "GinsengAllee",
+        "art_direction": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-ginseng-allee\\art-direction.md"
+      },
+      "metadata": {
+        "audio": "muet (choix utilisateur)"
+      }
+    }
+  }
+}

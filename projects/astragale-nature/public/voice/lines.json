@@ -1,0 +1,44 @@
+[
+ {
+  "i": 1,
+  "who": "E",
+  "text": "Maîtresse, pourquoi gardez-vous cette vieille racine ? Elle n'a rien de beau.",
+  "file": "voice/l1.wav",
+  "dur": 3.9
+ },
+ {
+  "i": 2,
+  "who": "M",
+  "text": "C'est l'astragale. Huang Qi : le chef jaune. Pour les anciens, la première des plantes qui fortifient.",
+  "file": "voice/l2.wav",
+  "dur": 6.326
+ },
+ {
+  "i": 3,
+  "who": "E",
+  "text": "Elle ? Si ordinaire ?",
+  "file": "voice/l3.wav",
+  "dur": 1.172
+ },
+ {
+  "i": 4,
+  "who": "M",
+  "text": "Pendant des années, sous la terre, elle s'enfonce en silence, et amasse sa force. On dit qu'elle soutient le Qi, l'énergie qui nous protège.",
+  "file": "voice/l4.wav",
+  "dur": 7.832
+ },
+ {
+  "i": 5,
+  "who": "E",
+  "text": "Alors, la vraie force ne se voit pas…",
+  "file": "voice/l5.wav",
+  "dur": 2.169
+ },
+ {
+  "i": 6,
+  "who": "M",
+  "text": "Elle se cultive. Comme la tienne.",
+  "file": "voice/l6.wav",
+  "dur": 2.043
+ }
+]

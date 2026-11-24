@@ -1,0 +1,108 @@
+{
+ "n": 9,
+ "text": "Dans ma tasse, une racine dorée, des boutons de rose et de petites baies rouges. On me prépare au lendemain d'une nuit bien trop courte.",
+ "file": "voice/e9.wav",
+ "dur": 6.993,
+ "words": [
+  {
+   "w": "Dans",
+   "s": 0.0
+  },
+  {
+   "w": "ma",
+   "s": 0.14
+  },
+  {
+   "w": "tasse,",
+   "s": 0.3
+  },
+  {
+   "w": "une",
+   "s": 0.98
+  },
+  {
+   "w": "racine",
+   "s": 1.1
+  },
+  {
+   "w": "dorée,",
+   "s": 1.58
+  },
+  {
+   "w": "des",
+   "s": 2.18
+  },
+  {
+   "w": "boutons",
+   "s": 2.26
+  },
+  {
+   "w": "de",
+   "s": 2.56
+  },
+  {
+   "w": "rose",
+   "s": 2.66
+  },
+  {
+   "w": "et",
+   "s": 2.9
+  },
+  {
+   "w": "de",
+   "s": 2.9
+  },
+  {
+   "w": "petites",
+   "s": 3.02
+  },
+  {
+   "w": "baies",
+   "s": 3.36
+  },
+  {
+   "w": "rouges.",
+   "s": 4.58
+  },
+  {
+   "w": "On",
+   "s": 4.58
+  },
+  {
+   "w": "me",
+   "s": 4.86
+  },
+  {
+   "w": "prépare",
+   "s": 4.98
+  },
+  {
+   "w": "au",
+   "s": 5.42
+  },
+  {
+   "w": "lendemain",
+   "s": 5.52
+  },
+  {
+   "w": "d'une",
+   "s": 5.84
+  },
+  {
+   "w": "nuit",
+   "s": 6.18
+  },
+  {
+   "w": "bien",
+   "s": 6.28
+  },
+  {
+   "w": "trop",
+   "s": 6.5
+  },
+  {
+   "w": "courte.",
+   "s": 6.5
+  }
+ ]
+}

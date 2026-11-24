@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "render_runtime": "remotion",
+  "composition_mode": "atelier",
+  "renderer_family": "product-reveal",
+  "cuts": [
+    {
+      "id": "all",
+      "source": "bespoke:GinsengAllee",
+      "in_seconds": 0,
+      "out_seconds": 13.0,
+      "reason": "composition atelier unique"
+    }
+  ],
+  "bespoke": {
+    "entry": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-ginseng-allee\\index.tsx",
+    "composition_id": "GinsengAllee",
+    "art_direction": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-ginseng-allee\\art-direction.md"
+  },
+  "metadata": {
+    "audio": "muet (choix utilisateur)"
+  }
+}

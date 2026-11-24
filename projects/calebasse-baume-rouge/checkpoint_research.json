@@ -1,0 +1,163 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-baume-rouge",
+  "pipeline_type": "animation",
+  "stage": "research",
+  "status": "completed",
+  "timestamp": "2026-11-23T21:17:07.300528+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": false,
+  "human_approved": false,
+  "artifacts": {
+    "research_brief": {
+      "version": "1.0",
+      "topic": "Calebasse \u2014 Baume Panac\u00e9 Rouge (texture)",
+      "research_date": "2026-11-23",
+      "research_summary": "R\u00e9f\u00e9rence : Film texture Vivienne Sabo : cama\u00efeu rose-mauve, tube en l\u00e9vitation avec reflet, macro de l'\u00e9tiquette, vagues de cr\u00e8me en tr\u00e8s gros plan, noisette de cr\u00e8me, spatule, tube pos\u00e9 sur la cr\u00e8me. 9 plans courts (~1,3 s), lumi\u00e8re douce. Produit choisi dans le catalogue complet (1 011 fiches) : Baume Panac\u00e9 Rouge. Seuls produits \u00ab texture \u00bb du catalogue : les baumes. Le Rouge a une vraie couleur (lithosperme) qui fait \u00e9cho au cama\u00efeu de la r\u00e9f\u00e9rence, et il est de saison (chauffant).",
+      "landscape": {
+        "existing_content": [
+          {
+            "title": "R\u00e9f\u00e9rence Pinterest 1GukzHSpw",
+            "url": "https://pin.it/1GukzHSpw",
+            "source": "Pinterest",
+            "angle": "r\u00e9f\u00e9rence visuelle",
+            "what_it_covers": "Film texture Vivienne Sabo : cama\u00efeu rose-mauve, tube en l\u00e9vitation avec reflet, macro de l'\u00e9tiquette, vagues de cr\u00e8me en tr\u00e8s gros plan, noisette de cr\u00e8me, spatule, tube pos\u00e9 sur la cr\u00e8me. 9 plans courts (~1,3 s), lumi\u00e8re douce.",
+            "what_it_misses": "Pas de marque Calebasse ni de produit de pharmacop\u00e9e chinoise"
+          },
+          {
+            "title": "Baume Panac\u00e9 Rouge - Soin Botanique Cibl\u00e9",
+            "url": "https://calebasse.com/produits/baume-panace-rouge-soin-botanique-cible-5314",
+            "source": "calebasse.com",
+            "angle": "galerie produit (visuels de marque)",
+            "what_it_covers": "6 visuels de galerie, 4\u2605 (2 avis)",
+            "what_it_misses": "aucune vid\u00e9o produit"
+          },
+          {
+            "title": "Page Green Friday Calebasse",
+            "url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+            "source": "calebasse.com",
+            "angle": "campagne en cours",
+            "what_it_covers": "identit\u00e9 de campagne",
+            "what_it_misses": "pas de vid\u00e9o"
+          }
+        ],
+        "saturated_angles": [
+          "rendus IA photor\u00e9alistes g\u00e9n\u00e9riques"
+        ],
+        "underserved_gaps": [
+          "la m\u00eame grammaire appliqu\u00e9e \u00e0 des plantes MTC r\u00e9elles, avec leurs vraies photos"
+        ]
+      },
+      "data_points": [
+        {
+          "claim": "Baume Panac\u00e9 Rouge - Soin Botanique Cibl\u00e9 \u2014 4\u2605 (2 avis) ; ingr\u00e9dients : mono-plante",
+          "source_url": "https://calebasse.com/produits/baume-panace-rouge-soin-botanique-cible-5314",
+          "source_name": "fiche produit calebasse.com",
+          "credibility": "primary_source",
+          "surprise_factor": "expected",
+          "usable_as": "choix produit / textes"
+        },
+        {
+          "claim": "Alternative \u00e9tudi\u00e9e : Baume Panac\u00e9 Blanc - Soin Botanique Rafra\u00eechissant \u2014 \u2013\u2605 (0 avis)",
+          "source_url": "https://calebasse.com/produits/baume-panace-blanc-soin-botanique-rafraichissant-5313",
+          "source_name": "fiche produit calebasse.com",
+          "credibility": "primary_source",
+          "surprise_factor": "expected",
+          "usable_as": "produit alternatif"
+        },
+        {
+          "claim": "Alternative \u00e9tudi\u00e9e : Baume Citronnelle - Soin V\u00e9g\u00e9tal d'\u00c9t\u00e9 \u2014 4.5\u2605 (2 avis)",
+          "source_url": "https://calebasse.com/produits/xiang-mao-gao-baume-citronnelle-soin-vegetal-dete-5285",
+          "source_name": "fiche produit calebasse.com",
+          "credibility": "primary_source",
+          "surprise_factor": "expected",
+          "usable_as": "produit alternatif"
+        },
+        {
+          "claim": "Les all\u00e9gations th\u00e9rapeutiques sont interdites ; n'afficher que des noms de produits, des faits d'origine/pr\u00e9paration et des sensations.",
+          "source_url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/allegations-nutritionnelles-et-de-sante",
+          "source_name": "DGCCRF",
+          "credibility": "primary_source",
+          "surprise_factor": "expected",
+          "usable_as": "garde-fou textes"
+        }
+      ],
+      "audience_insights": {
+        "common_questions": [
+          "Comment s'utilise ce produit ?",
+          "D'o\u00f9 vient-il ?",
+          "Qu'est-ce qui le distingue ?"
+        ],
+        "misconceptions": [],
+        "knowledge_level": "Client\u00e8le Calebasse et curieux de MTC sur Instagram"
+      },
+      "angles_discovered": [
+        {
+          "name": "Calebasse \u2014 Baume Panac\u00e9 Rouge (texture)",
+          "hook": "Cama\u00efeu rouge lithosperme : la bo\u00eete flotte avec son reflet, macro du couvercle \u00ab Baume Panac\u00e9 Rouge \u00bb, vagues de baume rouge en tr\u00e8s gros p",
+          "type": "evergreen",
+          "why_now": "Format de la r\u00e9f\u00e9rence choisie par l'utilisateur",
+          "grounded_in": [
+            "Seuls produits \u00ab texture \u00bb du catalogue : les baumes. Le Rouge a une vraie couleur (lithosperme) qui fait \u00e9cho au cama\u00efeu de la r\u00e9f\u00e9rence, et il est de saison (chauffant)."
+          ]
+        },
+        {
+          "name": "M\u00eame grammaire avec Baume Panac\u00e9 Blanc",
+          "hook": "La r\u00e9f\u00e9rence appliqu\u00e9e \u00e0 Baume Panac\u00e9 Blanc",
+          "type": "evergreen",
+          "why_now": "alternative produit",
+          "grounded_in": [
+            "\u2013\u2605 (0 avis)"
+          ]
+        },
+        {
+          "name": "M\u00eame grammaire avec Baume Citronnelle",
+          "hook": "La r\u00e9f\u00e9rence appliqu\u00e9e \u00e0 Baume Citronnelle",
+          "type": "evergreen",
+          "why_now": "alternative produit",
+          "grounded_in": [
+            "4.5\u2605 (2 avis)"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://pin.it/1GukzHSpw",
+          "title": "R\u00e9f\u00e9rence",
+          "used_for": "grammaire visuelle",
+          "reliability": "primary"
+        },
+        {
+          "url": "https://calebasse.com/produits/baume-panace-rouge-soin-botanique-cible-5314",
+          "title": "Baume Panac\u00e9 Rouge - Soin Botanique Cibl\u00e9",
+          "used_for": "produit, photos, ingr\u00e9dients",
+          "reliability": "primary"
+        },
+        {
+          "url": "https://calebasse.com/produits/baume-panace-blanc-soin-botanique-rafraichissant-5313",
+          "title": "Baume Panac\u00e9 Blanc - Soin Botanique Rafra\u00eechissant",
+          "used_for": "produit, photos, ingr\u00e9dients",
+          "reliability": "primary"
+        },
+        {
+          "url": "https://calebasse.com/produits/xiang-mao-gao-baume-citronnelle-soin-vegetal-dete-5285",
+          "title": "Baume Citronnelle - Soin V\u00e9g\u00e9tal d'\u00c9t\u00e9",
+          "used_for": "produit, photos, ingr\u00e9dients",
+          "reliability": "primary"
+        },
+        {
+          "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/allegations-nutritionnelles-et-de-sante",
+          "title": "DGCCRF all\u00e9gations",
+          "used_for": "garde-fous textes",
+          "reliability": "primary"
+        }
+      ],
+      "metadata": {
+        "reference_dir": "projects\\_references\\ref3-1GukzHSpw",
+        "products": [
+          "5314"
+        ]
+      }
+    }
+  }
+}

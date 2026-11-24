@@ -1,0 +1,100 @@
+{
+ "n": 4,
+ "text": "Mes graines ont la forme de petites gouttes. En français, je porte le nom d'un personnage de la Bible qui a beaucoup pleuré.",
+ "file": "voice/e4.wav",
+ "dur": 6.687,
+ "words": [
+  {
+   "w": "Mes",
+   "s": 0.0
+  },
+  {
+   "w": "graines",
+   "s": 0.14
+  },
+  {
+   "w": "ont",
+   "s": 0.48
+  },
+  {
+   "w": "la",
+   "s": 0.56
+  },
+  {
+   "w": "forme",
+   "s": 0.68
+  },
+  {
+   "w": "de",
+   "s": 0.94
+  },
+  {
+   "w": "petites",
+   "s": 1.12
+  },
+  {
+   "w": "gouttes.",
+   "s": 2.4
+  },
+  {
+   "w": "En",
+   "s": 2.56
+  },
+  {
+   "w": "français,",
+   "s": 3.5
+  },
+  {
+   "w": "je",
+   "s": 3.66
+  },
+  {
+   "w": "porte",
+   "s": 3.94
+  },
+  {
+   "w": "le",
+   "s": 4.2
+  },
+  {
+   "w": "nom",
+   "s": 4.38
+  },
+  {
+   "w": "d'un",
+   "s": 4.44
+  },
+  {
+   "w": "personnage",
+   "s": 4.98
+  },
+  {
+   "w": "de",
+   "s": 5.18
+  },
+  {
+   "w": "la",
+   "s": 5.28
+  },
+  {
+   "w": "Bible",
+   "s": 5.54
+  },
+  {
+   "w": "qui",
+   "s": 5.88
+  },
+  {
+   "w": "a",
+   "s": 6.0
+  },
+  {
+   "w": "beaucoup",
+   "s": 6.22
+  },
+  {
+   "w": "pleuré.",
+   "s": 6.22
+  }
+ ]
+}

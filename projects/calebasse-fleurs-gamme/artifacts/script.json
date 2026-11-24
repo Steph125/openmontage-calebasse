@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "title": "calebasse-fleurs-gamme",
+  "total_duration_seconds": 20.0,
+  "sections": [
+    {
+      "id": "B1",
+      "text": "colour curtains open on the rose macro",
+      "start_seconds": 0.0,
+      "end_seconds": 0.6
+    },
+    {
+      "id": "B2",
+      "text": "Rose: macro + kinetic word → bag hero, real buds bursting, seal, name",
+      "start_seconds": 0.6,
+      "end_seconds": 4.333333333333333
+    },
+    {
+      "id": "B3",
+      "text": "Osmanthus: fresh-flower macro → bag, drawn golden florets",
+      "start_seconds": 4.333333333333333,
+      "end_seconds": 8.066666666666666
+    },
+    {
+      "id": "B4",
+      "text": "Camomille: macro → bag, drawn pompons",
+      "start_seconds": 8.066666666666666,
+      "end_seconds": 11.8
+    },
+    {
+      "id": "B5",
+      "text": "Jasmin: sambac macro → bag, real jasmine blooms + petals",
+      "start_seconds": 11.8,
+      "end_seconds": 15.533333333333333
+    },
+    {
+      "id": "B6",
+      "text": "Finale on forest: four arches, four bags, « Nos fleurs à infuser », logo, calebasse.com",
+      "start_seconds": 15.533333333333333,
+      "end_seconds": 20.0
+    }
+  ],
+  "metadata": {
+    "narration": "none (muet)",
+    "on_screen_text": "see Scene.tsx; no health claims"
+  }
+}

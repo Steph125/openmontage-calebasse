@@ -1,0 +1,134 @@
+{
+  "version": "1.0",
+  "concept_options": [
+    {
+      "id": "main",
+      "title": "Calebasse — De la plante au flacon (3 choses comptent)",
+      "hook": "« Une plante, trois choses comptent » : la loupe révèle LA SOURCE (terroirs d'origine), LE GESTE (préparations traditionnelles), LE CONTRÔLE (identifier, contrôler, tracer) — tirés mot pour mot de la ",
+      "narrative_structure": "story",
+      "visual_approach": "« Une plante, trois choses comptent » : la loupe révèle LA SOURCE (terroirs d'origine), LE GESTE (préparations traditionnelles), LE CONTRÔLE (identifier, contrôler, tracer) — tirés mot pour mot de la page Laboratoire. Fil rouge : une tranche de racine d'astragale (photo du site) en monochrome, la balance s'équilibre, transition vert forêt, carton logo + « Fabriqué en France ».",
+      "target_platform": "instagram",
+      "target_duration_seconds": 24,
+      "key_points": [
+        "papier quadrillé monochrome",
+        "loupe révélatrice",
+        "mise au point flou → net",
+        "balance physique minimaliste",
+        "carton sombre + logo"
+      ],
+      "why_this_works": "L'astragale est le best-seller du catalogue (4,8★, 106 avis) ; le format « 3 choses » colle exactement aux trois étapes « Remonter à la source, respecter les gestes, contrôler chaque étape ».",
+      "grounded_in": [
+        "https://pin.it/4XmSh6mGp",
+        "https://calebasse.com/produits/huang-qi-sheng-astragale-4498"
+      ]
+    },
+    {
+      "id": "alt1",
+      "title": "Variante produit : Jujube Fruit entier bio",
+      "hook": "Même grammaire, produit Jujube Fruit entier bio",
+      "narrative_structure": "story",
+      "visual_approach": "Même construction que la proposition principale, appliquée à Jujube Fruit entier bio - Da zao",
+      "target_platform": "instagram",
+      "target_duration_seconds": 24,
+      "key_points": [
+        "même grammaire de référence",
+        "produit alternatif"
+      ],
+      "why_this_works": "Alternative étudiée — 4.8★ (129 avis)",
+      "grounded_in": [
+        "https://calebasse.com/produits/da-zao-fruits-de-jujube-3755"
+      ]
+    },
+    {
+      "id": "alt2",
+      "title": "Variante produit : Baies de Goji premium",
+      "hook": "Même grammaire, produit Baies de Goji premium",
+      "narrative_structure": "story",
+      "visual_approach": "Même construction que la proposition principale, appliquée à Baies de Goji premium – le goji rouge, fruit de la jeunesse éternelle",
+      "target_platform": "instagram",
+      "target_duration_seconds": 24,
+      "key_points": [
+        "même grammaire de référence",
+        "produit alternatif"
+      ],
+      "why_this_works": "Alternative étudiée — 4.9★ (98 avis)",
+      "grounded_in": [
+        "https://calebasse.com/produits/gou-qi-zi-baies-de-goji-3832"
+      ]
+    }
+  ],
+  "selected_concept": {
+    "concept_id": "main",
+    "rationale": "Validé par l'utilisateur (produit et concept principal).",
+    "modifications": [
+      "Garde : papier quadrillé monochrome, loupe révélatrice, mise au point flou → net, balance physique minimaliste, carton sombre + logo",
+      "Change : contenu = la démarche qualité Calebasse (faits de la page Laboratoire), noir → vert forêt de la marque, produit fil rouge : Racine d'astragale"
+    ]
+  },
+  "production_plan": {
+    "pipeline": "animation",
+    "renderer_family": "product-reveal",
+    "composition_mode": "atelier",
+    "delivery_promise": {
+      "promise_type": "motion_led",
+      "motion_required": true,
+      "tone_mode": "premium_product_ad",
+      "quality_floor": "broadcast",
+      "approved_fallback": null
+    },
+    "stages": [
+      {
+        "stage": "assets",
+        "tools": [
+          {
+            "tool_name": "image_selector",
+            "role": "photos produit (galerie Cloudinary du site) + images libres d'ingrédients/décors si besoin",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          }
+        ],
+        "approach": "vraies photos produit détourées"
+      },
+      {
+        "stage": "compose",
+        "tools": [
+          {
+            "tool_name": "video_compose",
+            "role": "rendu Remotion atelier 1080x1920",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          }
+        ],
+        "approach": "Remotion (choix utilisateur)"
+      }
+    ],
+    "render_runtime": "remotion",
+    "music_source": {
+      "source_type": "none",
+      "mood_direction": "muet (choix utilisateur)",
+      "estimated_cost_usd": 0.0
+    },
+    "voice_selection": {
+      "provider": "none",
+      "rationale": "muet (choix utilisateur)",
+      "estimated_cost_usd": 0.0
+    },
+    "decision_log_ref": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-3-gestes\\decision_log.json"
+  },
+  "cost_estimate": {
+    "total_estimated_usd": 0.0,
+    "line_items": [
+      {
+        "tool": "video_compose",
+        "operation": "rendu local",
+        "estimated_usd": 0.0
+      }
+    ],
+    "budget_verdict": "within_budget"
+  },
+  "approval": {
+    "status": "approved",
+    "user_notes": "Réponse utilisateur 2026-11-23 : « oui pour tout, installe rembg, muet, d'une traite »",
+    "approved_budget_usd": 0.0
+  }
+}

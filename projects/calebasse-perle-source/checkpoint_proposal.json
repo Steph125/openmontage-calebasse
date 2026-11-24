@@ -1,0 +1,285 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-perle-source",
+  "pipeline_type": "animation",
+  "stage": "proposal",
+  "status": "completed",
+  "timestamp": "2026-11-23T21:24:04.232423+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "proposal_packet": {
+      "version": "1.0",
+      "concept_options": [
+        {
+          "id": "main",
+          "title": "Calebasse \u2014 Poudre de perle (la source)",
+          "hook": "\u00ab Perles d'eau douce finement broy\u00e9es \u00bb : le pot vert sous une lumi\u00e8re tamis\u00e9e de feuillage, une perle qui roule, le pot en l\u00e9vitation perl\u00e9 de gouttes, une gerbe d'eau, le pot sur un \u00eelot de mousse a",
+          "narrative_structure": "story",
+          "visual_approach": "\u00ab Perles d'eau douce finement broy\u00e9es \u00bb : le pot vert sous une lumi\u00e8re tamis\u00e9e de feuillage, une perle qui roule, le pot en l\u00e9vitation perl\u00e9 de gouttes, une gerbe d'eau, le pot sur un \u00eelot de mousse au milieu de l'eau, carton CALEBASSE.",
+          "target_platform": "instagram",
+          "target_duration_seconds": 16,
+          "key_points": [
+            "lumi\u00e8re filtr\u00e9e par les plantes",
+            "l\u00e9vitation + gouttes",
+            "gerbe d'eau",
+            "diorama mousse + eau",
+            "carton sobre"
+          ],
+          "why_this_works": "Le r\u00e9cit du produit est litt\u00e9ralement l'eau douce (4,8\u2605, 61 avis) ; l'eau et la nature de la r\u00e9f\u00e9rence deviennent son origine.",
+          "grounded_in": [
+            "https://pin.it/11ASPTq0T",
+            "https://calebasse.com/produits/zhen-zhu-fen-poudre-de-perle-4279"
+          ]
+        },
+        {
+          "id": "alt1",
+          "title": "Variante produit : Reishi Extrait BIO",
+          "hook": "M\u00eame grammaire, produit Reishi Extrait BIO",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Reishi Extrait BIO - S\u00e9r\u00e9nit\u00e9 & long\u00e9vit\u00e9",
+          "target_platform": "instagram",
+          "target_duration_seconds": 16,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 5\u2605 (1 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/reishi-extrait-bio-serenite-and-longevite-5304"
+          ]
+        },
+        {
+          "id": "alt2",
+          "title": "Variante produit : Cord\u00e9e des Montagnes",
+          "hook": "M\u00eame grammaire, produit Cord\u00e9e des Montagnes",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Cord\u00e9e des Montagnes - L'\u00c9lixir de la Jeunesse - Huang jing",
+          "target_platform": "instagram",
+          "target_duration_seconds": 16,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 4.8\u2605 (13 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/huang-jing-cordee-des-montagnes-3812"
+          ]
+        }
+      ],
+      "selected_concept": {
+        "concept_id": "main",
+        "rationale": "Valid\u00e9 par l'utilisateur (produit et concept principal).",
+        "modifications": [
+          "Garde : lumi\u00e8re filtr\u00e9e par les plantes, l\u00e9vitation + gouttes, gerbe d'eau, diorama mousse + eau, carton sobre",
+          "Change : flacon ambr\u00e9 \u2192 pot vert de la marque + une perle, l'eau devient le r\u00e9cit (perles d'eau douce), carton vert for\u00eat au lieu du noir"
+        ]
+      },
+      "production_plan": {
+        "pipeline": "animation",
+        "renderer_family": "product-reveal",
+        "composition_mode": "atelier",
+        "delivery_promise": {
+          "promise_type": "motion_led",
+          "motion_required": true,
+          "tone_mode": "premium_product_ad",
+          "quality_floor": "broadcast",
+          "approved_fallback": null
+        },
+        "stages": [
+          {
+            "stage": "assets",
+            "tools": [
+              {
+                "tool_name": "image_selector",
+                "role": "photos produit (galerie Cloudinary du site) + images libres d'ingr\u00e9dients/d\u00e9cors si besoin",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "vraies photos produit d\u00e9tour\u00e9es"
+          },
+          {
+            "stage": "compose",
+            "tools": [
+              {
+                "tool_name": "video_compose",
+                "role": "rendu Remotion atelier 1080x1920",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "Remotion (choix utilisateur)"
+          }
+        ],
+        "render_runtime": "remotion",
+        "music_source": {
+          "source_type": "none",
+          "mood_direction": "muet (choix utilisateur)",
+          "estimated_cost_usd": 0.0
+        },
+        "voice_selection": {
+          "provider": "none",
+          "rationale": "muet (choix utilisateur)",
+          "estimated_cost_usd": 0.0
+        },
+        "decision_log_ref": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-perle-source\\decision_log.json"
+      },
+      "cost_estimate": {
+        "total_estimated_usd": 0.0,
+        "line_items": [
+          {
+            "tool": "video_compose",
+            "operation": "rendu local",
+            "estimated_usd": 0.0
+          }
+        ],
+        "budget_verdict": "within_budget"
+      },
+      "approval": {
+        "status": "approved",
+        "user_notes": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+        "approved_budget_usd": 0.0
+      }
+    },
+    "decision_log": {
+      "version": "1.0",
+      "project_id": "calebasse-perle-source",
+      "decisions": [
+        {
+          "decision_id": "d-runtime",
+          "stage": "proposal",
+          "category": "render_runtime_selection",
+          "subject": "Moteur de rendu",
+          "options_considered": [
+            {
+              "option_id": "remotion",
+              "label": "Remotion",
+              "score": 0.9,
+              "reason": "Choix utilisateur \u00ab on va partir sur remotion pour le moment \u00bb"
+            },
+            {
+              "option_id": "hyperframes",
+              "label": "HyperFrames",
+              "score": 0.6,
+              "reason": "Disponible",
+              "rejected_because": "Utilisateur : Remotion pour le moment"
+            }
+          ],
+          "selected": "remotion",
+          "reason": "Choix utilisateur",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-mode",
+          "stage": "proposal",
+          "category": "composition_mode",
+          "subject": "Mode de composition",
+          "options_considered": [
+            {
+              "option_id": "atelier",
+              "label": "Atelier",
+              "score": 0.9,
+              "reason": "Pub de marque soign\u00e9e"
+            },
+            {
+              "option_id": "templated",
+              "label": "Gabarits",
+              "score": 0.2,
+              "reason": "Rapide",
+              "rejected_because": "Rendu g\u00e9n\u00e9rique"
+            }
+          ],
+          "selected": "atelier",
+          "reason": "\u00ab le plus soign\u00e9 possible \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-music",
+          "stage": "proposal",
+          "category": "music_source",
+          "subject": "Musique",
+          "options_considered": [
+            {
+              "option_id": "none",
+              "label": "Muet",
+              "score": 1.0,
+              "reason": "Choix utilisateur"
+            },
+            {
+              "option_id": "pixabay_music",
+              "label": "Pixabay Music",
+              "score": 0.5,
+              "reason": "Libre de droits",
+              "rejected_because": "Utilisateur : muet"
+            }
+          ],
+          "selected": "none",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-concept",
+          "stage": "proposal",
+          "category": "concept_selection",
+          "subject": "Produit et concept",
+          "options_considered": [
+            {
+              "option_id": "main",
+              "label": "Calebasse \u2014 Poudre de perle (la source)",
+              "score": 0.9,
+              "reason": "Le r\u00e9cit du produit est litt\u00e9ralement l'eau douce (4,8\u2605, 61 avis) ; l'eau et la nature de la r\u00e9f\u00e9rence deviennent son origine."
+            },
+            {
+              "option_id": "alt1",
+              "label": "Variante produit : Reishi Extrait BIO",
+              "score": 0.6,
+              "reason": "Alternative \u00e9tudi\u00e9e \u2014 5\u2605 (1 avis)",
+              "rejected_because": "Produit principal valid\u00e9"
+            },
+            {
+              "option_id": "alt2",
+              "label": "Variante produit : Cord\u00e9e des Montagnes",
+              "score": 0.6,
+              "reason": "Alternative \u00e9tudi\u00e9e \u2014 4.8\u2605 (13 avis)",
+              "rejected_because": "Produit principal valid\u00e9"
+            }
+          ],
+          "selected": "main",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-approval-policy",
+          "stage": "proposal",
+          "category": "approval_policy",
+          "subject": "Validations des \u00e9tapes restantes",
+          "options_considered": [
+            {
+              "option_id": "full_run",
+              "label": "D'une traite",
+              "score": 0.9,
+              "reason": "Choix utilisateur"
+            },
+            {
+              "option_id": "per_gate",
+              "label": "\u00c9tape par \u00e9tape",
+              "score": 0.5,
+              "reason": "Plus de contr\u00f4le",
+              "rejected_because": "Utilisateur : d'une traite"
+            }
+          ],
+          "selected": "full_run",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb \u2014 script, scene_plan, assets et \u00e9chantillon pr\u00e9-autoris\u00e9s ; la publication reste soumise \u00e0 validation des vid\u00e9os finales.",
+          "user_visible": true,
+          "user_approved": true
+        }
+      ]
+    }
+  }
+}

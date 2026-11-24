@@ -1,0 +1,116 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-3-gestes",
+  "pipeline_type": "animation",
+  "stage": "scene_plan",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:26.186962+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "scene_plan": {
+      "version": "1.0",
+      "style_playbook": "custom",
+      "scenes": [
+        {
+          "id": "B1",
+          "type": "animation",
+          "script_section_id": "B1",
+          "description": "\u00ab Une plante, trois exigences. \u00bb \u2014 lens sweeps the line, astragale slices bottom-left",
+          "start_seconds": 0.0,
+          "end_seconds": 3.7333333333333334,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B2",
+          "type": "animation",
+          "script_section_id": "B2",
+          "description": "\u00ab 3 choses comptent \u00bb blur\u2192sharp",
+          "start_seconds": 3.7333333333333334,
+          "end_seconds": 6.666666666666667,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B3",
+          "type": "animation",
+          "script_section_id": "B3",
+          "description": "01 La source \u2014 choisir les terroirs d'origine (roots in the lens)",
+          "start_seconds": 6.666666666666667,
+          "end_seconds": 11.0,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B4",
+          "type": "animation",
+          "script_section_id": "B4",
+          "description": "02 Le geste \u2014 respecter les pr\u00e9parations traditionnelles (decoction in the lens)",
+          "start_seconds": 11.0,
+          "end_seconds": 15.333333333333334,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B5",
+          "type": "animation",
+          "script_section_id": "B5",
+          "description": "03 Le contr\u00f4le \u2014 identifier, contr\u00f4ler et tracer (balance settles)",
+          "start_seconds": 15.333333333333334,
+          "end_seconds": 20.0,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B6",
+          "type": "animation",
+          "script_section_id": "B6",
+          "description": "forest wipe \u2192 logo, \u00ab De la plante au flacon. \u00bb, Fabriqu\u00e9 en France, astragale bag",
+          "start_seconds": 20.0,
+          "end_seconds": 24.0,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        }
+      ],
+      "metadata": {
+        "beats": "scenes.md",
+        "art_direction": "art-direction.md"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy (\u00ab d'une traite \u00bb)"
+  }
+}

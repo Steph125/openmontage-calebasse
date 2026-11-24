@@ -1,0 +1,58 @@
+{
+ "products": [
+  {
+   "id": "jujube",
+   "image": "products/p0.jpg",
+   "name": "Jujube bio",
+   "sub": "Da zao · 100 g",
+   "pill": "-10 %",
+   "before": "11,90 €",
+   "now": "10,71 €"
+  },
+  {
+   "id": "mandarine",
+   "image": "products/p1.jpg",
+   "name": "Peau de mandarine",
+   "sub": "Chen pi · 100 g",
+   "pill": "-10 %",
+   "before": "9,70 €",
+   "now": "8,73 €"
+  },
+  {
+   "id": "voyage",
+   "image": "products/p2.jpg",
+   "name": "Coffret Voyage en Chine",
+   "sub": "Rituel & tradition",
+   "pill": "-25 %",
+   "before": "83,50 €",
+   "now": "62,62 €"
+  },
+  {
+   "id": "goji",
+   "image": "products/p3.jpg",
+   "name": "Baies de goji premium",
+   "sub": "Rouges & noires",
+   "pill": "-20 %",
+   "before": "23,80 €",
+   "now": "19,04 €"
+  },
+  {
+   "id": "decouverte",
+   "image": "products/p77.jpg",
+   "name": "Coffret Découverte de la MTC",
+   "sub": "1 coffret",
+   "pill": "-25 %",
+   "before": "88,90 €",
+   "now": "66,67 €"
+  },
+  {
+   "id": "beaute",
+   "image": "products/p76.jpg",
+   "name": "Coffret Beauté à la Chinoise",
+   "sub": "1 coffret",
+   "pill": "-20 %",
+   "before": "68,98 €",
+   "now": "55,18 €"
+  }
+ ]
+}

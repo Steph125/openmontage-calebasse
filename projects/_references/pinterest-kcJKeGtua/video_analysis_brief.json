@@ -1,0 +1,163 @@
+{
+  "version": "1.0",
+  "source": {
+    "type": "other_url",
+    "duration_seconds": 5.1,
+    "url": "https://pin.it/kcJKeGtua",
+    "title": "Black Friday AI content idea",
+    "resolution": "720x1280",
+    "platform_metadata": {
+      "uploader": "Ai.visual.lab",
+      "upload_date": "20251106",
+      "view_count": 0,
+      "like_count": 0,
+      "description": "31-Jan-2026 \u2014 Three people on ladders holding up a large black banner with the words \"BLACK FRIDAY\" in white letters. The banner is displayed in front of a smartphone screen, which shows a Yves Saint Laurent website. Black friday marketing, Black friday 2026, Black friday promotions"
+    }
+  },
+  "content_analysis": {
+    "summary": "",
+    "topics": [],
+    "target_audience": "general"
+  },
+  "structure_analysis": {
+    "total_scenes": 0,
+    "scenes": [],
+    "pacing_profile": {}
+  },
+  "keyframes": [
+    {
+      "timestamp": 0.0,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0001.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 0.34,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0002.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 0.68,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0003.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 1.02,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0004.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 1.36,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0005.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 1.7,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0006.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 2.04,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0007.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 2.38,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0008.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 2.72,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0009.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 3.06,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0010.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 3.4,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0011.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 3.74,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0012.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 4.08,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0013.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 4.42,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0014.jpg",
+      "description": ""
+    },
+    {
+      "timestamp": 4.76,
+      "scene_index": 0,
+      "path": "projects\\_references\\pinterest-kcJKeGtua\\keyframes\\frame_0015.jpg",
+      "description": ""
+    }
+  ],
+  "style_profile": {
+    "audio_energy_profile": {
+      "recommended_offset": 4.0,
+      "has_energy_data": true
+    },
+    "color_palette": {
+      "primary_colors": [],
+      "accent_colors": [],
+      "overall_mood": ""
+    },
+    "typography_observed": "",
+    "transition_types": [],
+    "music_style": "",
+    "subtitle_style": "",
+    "production_quality": "prosumer",
+    "closest_playbook": "",
+    "playbook_delta": ""
+  },
+  "replication_guidance": {
+    "suggested_pipeline": "animated-explainer",
+    "suggested_playbook": "flat-motion-graphics",
+    "key_elements_to_replicate": [],
+    "elements_requiring_custom_work": [],
+    "estimated_complexity": "simple",
+    "motion_required": false,
+    "creative_differentiation_seeds": []
+  },
+  "_analysis_meta": {
+    "depth": "standard",
+    "steps_completed": [
+      "metadata",
+      "download",
+      "scene_detect",
+      "keyframes_uniform",
+      "audio_energy"
+    ],
+    "steps_failed": [
+      "transcript_whisper: open() got an unexpected keyword argument 'metadata_errors'"
+    ],
+    "keyframe_count": 15,
+    "scene_count": 0,
+    "has_transcript": false,
+    "duration_seconds": 44.38
+  }
+}

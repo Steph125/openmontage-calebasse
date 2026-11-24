@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "entries": [
+    {
+      "platform": "instagram_reels",
+      "status": "pending_review",
+      "export_path": "renders/gf_A_remotion.mp4",
+      "timestamp": "2026-11-23T20:29:47.981504+00:00",
+      "metadata_used": {
+        "variant": "A-remotion"
+      }
+    },
+    {
+      "platform": "instagram_reels",
+      "status": "pending_review",
+      "export_path": "renders/gf_A_hyperframes.mp4",
+      "timestamp": "2026-11-23T20:29:47.981504+00:00",
+      "metadata_used": {
+        "variant": "A-hyperframes"
+      }
+    },
+    {
+      "platform": "instagram_reels",
+      "status": "pending_review",
+      "export_path": "renders/gf_C_remotion.mp4",
+      "timestamp": "2026-11-23T20:29:47.981504+00:00",
+      "metadata_used": {
+        "variant": "C-remotion"
+      }
+    },
+    {
+      "platform": "instagram_reels",
+      "status": "pending_review",
+      "export_path": "renders/gf_C_hyperframes.mp4",
+      "timestamp": "2026-11-23T20:29:47.981504+00:00",
+      "metadata_used": {
+        "variant": "C-hyperframes"
+      }
+    }
+  ],
+  "metadata": {
+    "animation_mode": "programmatic motion design (atelier), personnages vectoriels en pas de 2",
+    "hero_frame_notes": "A : 3,8 s (GREEN peint au-dessus de BLACK barré) ; C : 14,5 s (vitrine pleine + carton)",
+    "thumbnail_concept": "Couverture conseillée : A à ~4,5 s (« GREEN / BLACK barré / FRIDAY » + ouvriers), C à ~10 s (vitrine pleine, GREEN dans l'en-tête)",
+    "platform_notes": "Reels 9:16 ; Green Friday du 20 au 30 nov. 2026 ; ajouter un son tendance dans Instagram si souhaité ; légende sans allégation santé",
+    "ab_test": "comparer concept (A vs C) et moteur (Remotion vs HyperFrames) — 4 bras"
+  }
+}

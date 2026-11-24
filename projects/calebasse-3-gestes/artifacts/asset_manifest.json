@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "assets": [
+    {
+      "id": "bag_astragale",
+      "type": "image",
+      "path": "public/img/bag_astragale.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "bowl_astragale",
+      "type": "image",
+      "path": "public/img/bowl_astragale.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "cup_astragale",
+      "type": "image",
+      "path": "public/img/cup_astragale.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "cup_astragale",
+      "type": "image",
+      "path": "public/img/cup_astragale.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "comp",
+      "type": "animation",
+      "path": "Scene.tsx",
+      "source_tool": "hand_authored_atelier",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "metadata": {
+    "sources": "assets/source/sources.json + pexels_credits.json",
+    "prep": "projects/calebasse-brand/catalog/prep_log_batch2.json"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "title": "calebasse-goji-socle",
+  "total_duration_seconds": 10.0,
+  "sections": [
+    {
+      "id": "B1",
+      "text": "bag on the plinth under the sky — « Ningxia 37°N · Le berceau du goji »",
+      "start_seconds": 0.0,
+      "end_seconds": 3.7333333333333334
+    },
+    {
+      "id": "B2",
+      "text": "berries macro — « Classe premium · Première récolte »",
+      "start_seconds": 3.7333333333333334,
+      "end_seconds": 6.4
+    },
+    {
+      "id": "B3",
+      "text": "a hand presents the bag — « Du soleil, à portée de main. »",
+      "start_seconds": 6.4,
+      "end_seconds": 8.733333333333333
+    },
+    {
+      "id": "B4",
+      "text": "end card on the plinth face",
+      "start_seconds": 8.733333333333333,
+      "end_seconds": 10.0
+    }
+  ],
+  "metadata": {
+    "narration": "none (muet)",
+    "on_screen_text": "see Scene.tsx; no health claims"
+  }
+}

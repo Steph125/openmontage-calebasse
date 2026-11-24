@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-3-gestes",
+  "pipeline_type": "animation",
+  "stage": "script",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:25.935709+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "script": {
+      "version": "1.0",
+      "title": "calebasse-3-gestes",
+      "total_duration_seconds": 24.0,
+      "sections": [
+        {
+          "id": "B1",
+          "text": "\u00ab Une plante, trois exigences. \u00bb \u2014 lens sweeps the line, astragale slices bottom-left",
+          "start_seconds": 0.0,
+          "end_seconds": 3.7333333333333334
+        },
+        {
+          "id": "B2",
+          "text": "\u00ab 3 choses comptent \u00bb blur\u2192sharp",
+          "start_seconds": 3.7333333333333334,
+          "end_seconds": 6.666666666666667
+        },
+        {
+          "id": "B3",
+          "text": "01 La source \u2014 choisir les terroirs d'origine (roots in the lens)",
+          "start_seconds": 6.666666666666667,
+          "end_seconds": 11.0
+        },
+        {
+          "id": "B4",
+          "text": "02 Le geste \u2014 respecter les pr\u00e9parations traditionnelles (decoction in the lens)",
+          "start_seconds": 11.0,
+          "end_seconds": 15.333333333333334
+        },
+        {
+          "id": "B5",
+          "text": "03 Le contr\u00f4le \u2014 identifier, contr\u00f4ler et tracer (balance settles)",
+          "start_seconds": 15.333333333333334,
+          "end_seconds": 20.0
+        },
+        {
+          "id": "B6",
+          "text": "forest wipe \u2192 logo, \u00ab De la plante au flacon. \u00bb, Fabriqu\u00e9 en France, astragale bag",
+          "start_seconds": 20.0,
+          "end_seconds": 24.0
+        }
+      ],
+      "metadata": {
+        "narration": "none (muet)",
+        "on_screen_text": "see Scene.tsx; no health claims"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy (\u00ab d'une traite \u00bb)"
+  }
+}

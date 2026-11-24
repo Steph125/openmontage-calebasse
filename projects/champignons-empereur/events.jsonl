@@ -1,0 +1,4 @@
+{"ts": "2026-09-30T11:36:41.881136+00:00", "tool": "video_compose", "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\champignons-empereur\\renders\\draft_v1.mp4"}
+{"ts": "2026-09-30T11:39:31.876340+00:00", "tool": "video_compose", "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\champignons-empereur\\renders\\draft_v1.mp4", "success": true, "cost_usd": 0.0, "duration_s": 169.99}
+{"ts": "2026-09-30T11:40:15.669205+00:00", "tool": "video_compose", "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\champignons-empereur\\renders\\champignons-empereur_v1.mp4"}
+{"ts": "2026-09-30T11:42:31.499519+00:00", "tool": "video_compose", "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\champignons-empereur\\renders\\champignons-empereur_v1.mp4", "success": true, "cost_usd": 0.0, "duration_s": 135.83}

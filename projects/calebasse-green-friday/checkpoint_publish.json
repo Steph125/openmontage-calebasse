@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-green-friday",
+  "pipeline_type": "animation",
+  "stage": "publish",
+  "status": "awaiting_human",
+  "timestamp": "2026-11-23T20:29:51.079458+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": false,
+  "artifacts": {
+    "publish_log": {
+      "version": "1.0",
+      "entries": [
+        {
+          "platform": "instagram_reels",
+          "status": "pending_review",
+          "export_path": "renders/gf_A_remotion.mp4",
+          "timestamp": "2026-11-23T20:29:47.981504+00:00",
+          "metadata_used": {
+            "variant": "A-remotion"
+          }
+        },
+        {
+          "platform": "instagram_reels",
+          "status": "pending_review",
+          "export_path": "renders/gf_A_hyperframes.mp4",
+          "timestamp": "2026-11-23T20:29:47.981504+00:00",
+          "metadata_used": {
+            "variant": "A-hyperframes"
+          }
+        },
+        {
+          "platform": "instagram_reels",
+          "status": "pending_review",
+          "export_path": "renders/gf_C_remotion.mp4",
+          "timestamp": "2026-11-23T20:29:47.981504+00:00",
+          "metadata_used": {
+            "variant": "C-remotion"
+          }
+        },
+        {
+          "platform": "instagram_reels",
+          "status": "pending_review",
+          "export_path": "renders/gf_C_hyperframes.mp4",
+          "timestamp": "2026-11-23T20:29:47.981504+00:00",
+          "metadata_used": {
+            "variant": "C-hyperframes"
+          }
+        }
+      ],
+      "metadata": {
+        "animation_mode": "programmatic motion design (atelier), personnages vectoriels en pas de 2",
+        "hero_frame_notes": "A : 3,8 s (GREEN peint au-dessus de BLACK barr\u00e9) ; C : 14,5 s (vitrine pleine + carton)",
+        "thumbnail_concept": "Couverture conseill\u00e9e : A \u00e0 ~4,5 s (\u00ab GREEN / BLACK barr\u00e9 / FRIDAY \u00bb + ouvriers), C \u00e0 ~10 s (vitrine pleine, GREEN dans l'en-t\u00eate)",
+        "platform_notes": "Reels 9:16 ; Green Friday du 20 au 30 nov. 2026 ; ajouter un son tendance dans Instagram si souhait\u00e9 ; l\u00e9gende sans all\u00e9gation sant\u00e9",
+        "ab_test": "comparer concept (A vs C) et moteur (Remotion vs HyperFrames) \u2014 4 bras"
+      }
+    }
+  }
+}

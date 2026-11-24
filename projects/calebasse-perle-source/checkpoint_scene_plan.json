@@ -1,0 +1,101 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-perle-source",
+  "pipeline_type": "animation",
+  "stage": "scene_plan",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:34.102156+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "scene_plan": {
+      "version": "1.0",
+      "style_playbook": "custom",
+      "scenes": [
+        {
+          "id": "B1",
+          "type": "animation",
+          "script_section_id": "B1",
+          "description": "sunlit still life, a pearl rolls in \u2014 \u00ab La perle enti\u00e8re et rien d'autre. \u00bb",
+          "start_seconds": 0.0,
+          "end_seconds": 3.2,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B2",
+          "type": "animation",
+          "script_section_id": "B2",
+          "description": "levitation beaded with water \u2014 \u00ab Perles d'eau douce finement broy\u00e9es \u00bb",
+          "start_seconds": 3.2,
+          "end_seconds": 6.533333333333333,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B3",
+          "type": "animation",
+          "script_section_id": "B3",
+          "description": "real water column + splash",
+          "start_seconds": 6.533333333333333,
+          "end_seconds": 9.533333333333333,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B4",
+          "type": "animation",
+          "script_section_id": "B4",
+          "description": "the jar on a mossy rock in water \u2014 \u00ab N\u00e9e de l'eau douce. 0 additif, 0 excipient. \u00bb",
+          "start_seconds": 9.533333333333333,
+          "end_seconds": 13.666666666666666,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B5",
+          "type": "animation",
+          "script_section_id": "B5",
+          "description": "forest card: Poudre de perle \u00b7 Zhen zhu fen \u00b7 \u73cd\u73e0\u7c89, calebasse.com",
+          "start_seconds": 13.666666666666666,
+          "end_seconds": 16.0,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        }
+      ],
+      "metadata": {
+        "beats": "scenes.md",
+        "art_direction": "art-direction.md"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy (\u00ab d'une traite \u00bb)"
+  }
+}

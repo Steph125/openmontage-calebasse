@@ -1,0 +1,100 @@
+{
+  "version": "1.0",
+  "style_playbook": "custom",
+  "scenes": [
+    {
+      "id": "B1",
+      "type": "animation",
+      "script_section_id": "B1",
+      "description": "« Une plante, trois exigences. » — lens sweeps the line, astragale slices bottom-left",
+      "start_seconds": 0.0,
+      "end_seconds": 3.7333333333333334,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    },
+    {
+      "id": "B2",
+      "type": "animation",
+      "script_section_id": "B2",
+      "description": "« 3 choses comptent » blur→sharp",
+      "start_seconds": 3.7333333333333334,
+      "end_seconds": 6.666666666666667,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    },
+    {
+      "id": "B3",
+      "type": "animation",
+      "script_section_id": "B3",
+      "description": "01 La source — choisir les terroirs d'origine (roots in the lens)",
+      "start_seconds": 6.666666666666667,
+      "end_seconds": 11.0,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    },
+    {
+      "id": "B4",
+      "type": "animation",
+      "script_section_id": "B4",
+      "description": "02 Le geste — respecter les préparations traditionnelles (decoction in the lens)",
+      "start_seconds": 11.0,
+      "end_seconds": 15.333333333333334,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    },
+    {
+      "id": "B5",
+      "type": "animation",
+      "script_section_id": "B5",
+      "description": "03 Le contrôle — identifier, contrôler et tracer (balance settles)",
+      "start_seconds": 15.333333333333334,
+      "end_seconds": 20.0,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    },
+    {
+      "id": "B6",
+      "type": "animation",
+      "script_section_id": "B6",
+      "description": "forest wipe → logo, « De la plante au flacon. », Fabriqué en France, astragale bag",
+      "start_seconds": 20.0,
+      "end_seconds": 24.0,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    }
+  ],
+  "metadata": {
+    "beats": "scenes.md",
+    "art_direction": "art-direction.md"
+  }
+}

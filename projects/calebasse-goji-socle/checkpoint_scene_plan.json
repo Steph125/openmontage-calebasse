@@ -1,0 +1,86 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-goji-socle",
+  "pipeline_type": "animation",
+  "stage": "scene_plan",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:32.343539+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "scene_plan": {
+      "version": "1.0",
+      "style_playbook": "custom",
+      "scenes": [
+        {
+          "id": "B1",
+          "type": "animation",
+          "script_section_id": "B1",
+          "description": "bag on the plinth under the sky \u2014 \u00ab Ningxia 37\u00b0N \u00b7 Le berceau du goji \u00bb",
+          "start_seconds": 0.0,
+          "end_seconds": 3.7333333333333334,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B2",
+          "type": "animation",
+          "script_section_id": "B2",
+          "description": "berries macro \u2014 \u00ab Classe premium \u00b7 Premi\u00e8re r\u00e9colte \u00bb",
+          "start_seconds": 3.7333333333333334,
+          "end_seconds": 6.4,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B3",
+          "type": "animation",
+          "script_section_id": "B3",
+          "description": "a hand presents the bag \u2014 \u00ab Du soleil, \u00e0 port\u00e9e de main. \u00bb",
+          "start_seconds": 6.4,
+          "end_seconds": 8.733333333333333,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B4",
+          "type": "animation",
+          "script_section_id": "B4",
+          "description": "end card on the plinth face",
+          "start_seconds": 8.733333333333333,
+          "end_seconds": 10.0,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        }
+      ],
+      "metadata": {
+        "beats": "scenes.md",
+        "art_direction": "art-direction.md"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy (\u00ab d'une traite \u00bb)"
+  }
+}

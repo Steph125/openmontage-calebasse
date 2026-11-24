@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "title": "calebasse-perle-source",
+  "total_duration_seconds": 16.0,
+  "sections": [
+    {
+      "id": "B1",
+      "text": "sunlit still life, a pearl rolls in — « La perle entière et rien d'autre. »",
+      "start_seconds": 0.0,
+      "end_seconds": 3.2
+    },
+    {
+      "id": "B2",
+      "text": "levitation beaded with water — « Perles d'eau douce finement broyées »",
+      "start_seconds": 3.2,
+      "end_seconds": 6.533333333333333
+    },
+    {
+      "id": "B3",
+      "text": "real water column + splash",
+      "start_seconds": 6.533333333333333,
+      "end_seconds": 9.533333333333333
+    },
+    {
+      "id": "B4",
+      "text": "the jar on a mossy rock in water — « Née de l'eau douce. 0 additif, 0 excipient. »",
+      "start_seconds": 9.533333333333333,
+      "end_seconds": 13.666666666666666
+    },
+    {
+      "id": "B5",
+      "text": "forest card: Poudre de perle · Zhen zhu fen · 珍珠粉, calebasse.com",
+      "start_seconds": 13.666666666666666,
+      "end_seconds": 16.0
+    }
+  ],
+  "metadata": {
+    "narration": "none (muet)",
+    "on_screen_text": "see Scene.tsx; no health claims"
+  }
+}

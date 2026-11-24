@@ -1,0 +1,132 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-goji-socle",
+  "pipeline_type": "animation",
+  "stage": "proposal",
+  "status": "awaiting_human",
+  "timestamp": "2026-11-23T21:17:08.247074+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": false,
+  "artifacts": {
+    "proposal_packet": {
+      "version": "1.0",
+      "concept_options": [
+        {
+          "id": "main",
+          "title": "Calebasse \u2014 Baies de Goji premium (le socle)",
+          "hook": "Le sachet de goji sur un socle de pierre sous un ciel d'\u00e9t\u00e9, ombres de feuillage qui bougent, macro de l'\u00e9tiquette \u00ab Baies de Goji \u00bb puis des baies rouges par la fen\u00eatre du sachet, une main qui le sai",
+          "narrative_structure": "story",
+          "visual_approach": "Le sachet de goji sur un socle de pierre sous un ciel d'\u00e9t\u00e9, ombres de feuillage qui bougent, macro de l'\u00e9tiquette \u00ab Baies de Goji \u00bb puis des baies rouges par la fen\u00eatre du sachet, une main qui le saisit, carton \u00ab Premi\u00e8re r\u00e9colte \u00bb.",
+          "target_platform": "instagram",
+          "target_duration_seconds": 10,
+          "key_points": [
+            "socle + ciel + ombres v\u00e9g\u00e9tales",
+            "macro d'\u00e9tiquette",
+            "main qui saisit le produit",
+            "3 plans"
+          ],
+          "why_this_works": "Le produit rouge embl\u00e9matique (4,9\u2605, 98 avis) ; la r\u00e9colte d'\u00e9t\u00e9 justifie le ciel et la lumi\u00e8re de la r\u00e9f\u00e9rence.",
+          "grounded_in": [
+            "https://pin.it/3cn23RezE",
+            "https://calebasse.com/produits/gou-qi-zi-baies-de-goji-3832"
+          ]
+        },
+        {
+          "id": "alt1",
+          "title": "Variante produit : Baume Panac\u00e9 Rouge",
+          "hook": "M\u00eame grammaire, produit Baume Panac\u00e9 Rouge",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Baume Panac\u00e9 Rouge - Soin Botanique Cibl\u00e9",
+          "target_platform": "instagram",
+          "target_duration_seconds": 10,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 4\u2605 (2 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/baume-panace-rouge-soin-botanique-cible-5314"
+          ]
+        },
+        {
+          "id": "alt2",
+          "title": "Variante produit : Gua sha en pierre de bian",
+          "hook": "M\u00eame grammaire, produit Gua sha en pierre de bian",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Gua sha en pierre de bian",
+          "target_platform": "instagram",
+          "target_duration_seconds": 10,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 4.9\u2605 (7 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/gua-sha-en-pierre-de-bian-5172"
+          ]
+        }
+      ],
+      "selected_concept": {
+        "concept_id": "main",
+        "rationale": "Proposition principale (en attente de validation)",
+        "modifications": [
+          "Garde : socle + ciel + ombres v\u00e9g\u00e9tales, macro d'\u00e9tiquette, main qui saisit le produit, 3 plans",
+          "Change : rouge cosm\u00e9tique \u2192 rouge des baies, palmes \u2192 feuillage de goji, accroche \u00ab premi\u00e8re r\u00e9colte \u00bb (fait de la page produit)"
+        ]
+      },
+      "production_plan": {
+        "pipeline": "animation",
+        "renderer_family": "product-reveal",
+        "composition_mode": "atelier",
+        "delivery_promise": {
+          "promise_type": "motion_led",
+          "motion_required": true,
+          "tone_mode": "premium_product_ad",
+          "quality_floor": "broadcast",
+          "approved_fallback": null
+        },
+        "stages": [
+          {
+            "stage": "assets",
+            "tools": [
+              {
+                "tool_name": "image_selector",
+                "role": "photos produit (galerie Cloudinary du site) + images libres d'ingr\u00e9dients/d\u00e9cors si besoin",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "vraies photos produit d\u00e9tour\u00e9es"
+          },
+          {
+            "stage": "compose",
+            "tools": [
+              {
+                "tool_name": "video_compose",
+                "role": "rendu Remotion atelier 1080x1920",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "Remotion (choix utilisateur)"
+          }
+        ]
+      },
+      "cost_estimate": {
+        "total_estimated_usd": 0.0,
+        "line_items": [
+          {
+            "tool": "video_compose",
+            "operation": "rendu local",
+            "estimated_usd": 0.0
+          }
+        ],
+        "budget_verdict": "within_budget"
+      },
+      "approval": {
+        "status": "pending"
+      }
+    }
+  }
+}

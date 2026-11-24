@@ -1,0 +1,116 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-fleurs-gamme",
+  "pipeline_type": "animation",
+  "stage": "scene_plan",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:23.982670+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "scene_plan": {
+      "version": "1.0",
+      "style_playbook": "custom",
+      "scenes": [
+        {
+          "id": "B1",
+          "type": "animation",
+          "script_section_id": "B1",
+          "description": "colour curtains open on the rose macro",
+          "start_seconds": 0.0,
+          "end_seconds": 0.6,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B2",
+          "type": "animation",
+          "script_section_id": "B2",
+          "description": "Rose: macro + kinetic word \u2192 bag hero, real buds bursting, seal, name",
+          "start_seconds": 0.6,
+          "end_seconds": 4.333333333333333,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B3",
+          "type": "animation",
+          "script_section_id": "B3",
+          "description": "Osmanthus: fresh-flower macro \u2192 bag, drawn golden florets",
+          "start_seconds": 4.333333333333333,
+          "end_seconds": 8.066666666666666,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B4",
+          "type": "animation",
+          "script_section_id": "B4",
+          "description": "Camomille: macro \u2192 bag, drawn pompons",
+          "start_seconds": 8.066666666666666,
+          "end_seconds": 11.8,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B5",
+          "type": "animation",
+          "script_section_id": "B5",
+          "description": "Jasmin: sambac macro \u2192 bag, real jasmine blooms + petals",
+          "start_seconds": 11.8,
+          "end_seconds": 15.533333333333333,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "B6",
+          "type": "animation",
+          "script_section_id": "B6",
+          "description": "Finale on forest: four arches, four bags, \u00ab Nos fleurs \u00e0 infuser \u00bb, logo, calebasse.com",
+          "start_seconds": 15.533333333333333,
+          "end_seconds": 20.0,
+          "framing": "plein cadre 9:16",
+          "movement": "voir scenes.md",
+          "overlay_notes": "textes \u00e0 l'\u00e9cran sans all\u00e9gation",
+          "shot_language": {
+            "shot_size": "medium",
+            "camera_movement": "static"
+          }
+        }
+      ],
+      "metadata": {
+        "beats": "scenes.md",
+        "art_direction": "art-direction.md"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy (\u00ab d'une traite \u00bb)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "entries": [
+    {
+      "platform": "instagram_reels",
+      "status": "pending_review",
+      "export_path": "renders/calebasse_perle_source.mp4",
+      "timestamp": "2026-11-23T22:50:33.700600+00:00"
+    }
+  ],
+  "metadata": {
+    "animation_mode": "Remotion atelier",
+    "thumbnail_concept": "voir rapport",
+    "platform_notes": "Reels 9:16, muet"
+  }
+}

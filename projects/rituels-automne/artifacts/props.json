@@ -1,0 +1,599 @@
+{
+ "duration": 48,
+ "lines": [
+  {
+   "i": 1,
+   "text": "L'automne arrive. Pour la médecine chinoise, c'est la saison du Métal, et du Poumon.",
+   "file": "voice/n1.wav",
+   "dur": 5.437,
+   "words": [
+    {
+     "w": "l'automne",
+     "s": 0.0,
+     "e": 0.42
+    },
+    {
+     "w": "arrive.",
+     "s": 0.42,
+     "e": 0.74
+    },
+    {
+     "w": "Pour",
+     "s": 1.54,
+     "e": 1.82
+    },
+    {
+     "w": "la",
+     "s": 1.82,
+     "e": 1.96
+    },
+    {
+     "w": "médecine",
+     "s": 1.96,
+     "e": 2.38
+    },
+    {
+     "w": "chinoise,",
+     "s": 2.38,
+     "e": 3.0
+    },
+    {
+     "w": "c'est",
+     "s": 3.28,
+     "e": 3.48
+    },
+    {
+     "w": "la",
+     "s": 3.48,
+     "e": 3.6
+    },
+    {
+     "w": "saison",
+     "s": 3.6,
+     "e": 3.86
+    },
+    {
+     "w": "du",
+     "s": 3.86,
+     "e": 3.98
+    },
+    {
+     "w": "métal",
+     "s": 3.98,
+     "e": 4.5
+    },
+    {
+     "w": "et",
+     "s": 4.5,
+     "e": 4.94
+    },
+    {
+     "w": "du",
+     "s": 4.94,
+     "e": 5.1
+    },
+    {
+     "w": "poumon.",
+     "s": 5.1,
+     "e": 5.38
+    }
+   ],
+   "start": 1.8,
+   "keys": [
+    "automne",
+    "métal",
+    "poumon"
+   ],
+   "phrases": [
+    {
+     "text": "L'automne arrive.",
+     "s": 0.0
+    },
+    {
+     "text": "Pour la médecine chinoise,",
+     "s": 1.54
+    },
+    {
+     "text": "c'est la saison du Métal,",
+     "s": 3.28
+    },
+    {
+     "text": "et du Poumon.",
+     "s": 4.94
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "La nature rentre ses forces. Faites comme elle, avec quatre rituels.",
+   "file": "voice/n2.wav",
+   "dur": 4.497,
+   "words": [
+    {
+     "w": "La",
+     "s": 0.0,
+     "e": 0.14
+    },
+    {
+     "w": "nature",
+     "s": 0.14,
+     "e": 0.52
+    },
+    {
+     "w": "entre",
+     "s": 0.52,
+     "e": 0.8
+    },
+    {
+     "w": "ses",
+     "s": 0.8,
+     "e": 1.06
+    },
+    {
+     "w": "forces.",
+     "s": 1.06,
+     "e": 1.5
+    },
+    {
+     "w": "Faites",
+     "s": 2.16,
+     "e": 2.64
+    },
+    {
+     "w": "comme",
+     "s": 2.64,
+     "e": 2.78
+    },
+    {
+     "w": "elle",
+     "s": 2.78,
+     "e": 3.08
+    },
+    {
+     "w": "avec",
+     "s": 3.08,
+     "e": 3.46
+    },
+    {
+     "w": "quatre",
+     "s": 3.46,
+     "e": 3.78
+    },
+    {
+     "w": "rituels.",
+     "s": 3.78,
+     "e": 4.44
+    }
+   ],
+   "start": 7.9,
+   "keys": [
+    "forces",
+    "quatre"
+   ],
+   "phrases": [
+    {
+     "text": "La nature rentre ses forces.",
+     "s": 0.0
+    },
+    {
+     "text": "Faites comme elle,",
+     "s": 2.16
+    },
+    {
+     "text": "avec quatre rituels.",
+     "s": 3.46
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "D'abord, couchez-vous tôt, et levez-vous avec le jour.",
+   "file": "voice/n3.wav",
+   "dur": 2.828,
+   "words": [
+    {
+     "w": "D'abord,",
+     "s": 0.0,
+     "e": 0.48
+    },
+    {
+     "w": "couchez-vous",
+     "s": 0.74,
+     "e": 1.18
+    },
+    {
+     "w": "tôt",
+     "s": 1.18,
+     "e": 1.5
+    },
+    {
+     "w": "et",
+     "s": 1.5,
+     "e": 1.72
+    },
+    {
+     "w": "levez-vous",
+     "s": 1.72,
+     "e": 2.08
+    },
+    {
+     "w": "avec",
+     "s": 2.08,
+     "e": 2.26
+    },
+    {
+     "w": "le",
+     "s": 2.26,
+     "e": 2.44
+    },
+    {
+     "w": "jour.",
+     "s": 2.44,
+     "e": 2.68
+    }
+   ],
+   "start": 13.4,
+   "keys": [
+    "tôt",
+    "jour"
+   ],
+   "phrases": [
+    {
+     "text": "D'abord, couchez-vous tôt,",
+     "s": 0.0
+    },
+    {
+     "text": "et levez-vous avec le jour.",
+     "s": 1.72
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "Ensuite, chaque matin, expirez lentement, en sifflant entre les dents. C'est le souffle du Poumon.",
+   "file": "voice/n4.wav",
+   "dur": 5.815,
+   "words": [
+    {
+     "w": "Ensuite,",
+     "s": 0.0,
+     "e": 0.32
+    },
+    {
+     "w": "chaque",
+     "s": 0.46,
+     "e": 0.7
+    },
+    {
+     "w": "matin,",
+     "s": 0.7,
+     "e": 1.14
+    },
+    {
+     "w": "expirez",
+     "s": 1.48,
+     "e": 1.92
+    },
+    {
+     "w": "lentement",
+     "s": 1.92,
+     "e": 2.46
+    },
+    {
+     "w": "en",
+     "s": 2.46,
+     "e": 2.76
+    },
+    {
+     "w": "sifflant",
+     "s": 2.76,
+     "e": 3.16
+    },
+    {
+     "w": "entre",
+     "s": 3.16,
+     "e": 3.36
+    },
+    {
+     "w": "les",
+     "s": 3.36,
+     "e": 3.54
+    },
+    {
+     "w": "dents.",
+     "s": 3.54,
+     "e": 3.8
+    },
+    {
+     "w": "C'est",
+     "s": 4.44,
+     "e": 4.8
+    },
+    {
+     "w": "le",
+     "s": 4.8,
+     "e": 4.9
+    },
+    {
+     "w": "souffle",
+     "s": 4.9,
+     "e": 5.26
+    },
+    {
+     "w": "du",
+     "s": 5.26,
+     "e": 5.38
+    },
+    {
+     "w": "poumon.",
+     "s": 5.38,
+     "e": 5.72
+    }
+   ],
+   "start": 18.6,
+   "keys": [
+    "expirez",
+    "sifflant",
+    "souffle",
+    "poumon"
+   ],
+   "phrases": [
+    {
+     "text": "Ensuite, chaque matin,",
+     "s": 0.0
+    },
+    {
+     "text": "expirez lentement,",
+     "s": 1.48
+    },
+    {
+     "text": "en sifflant entre les dents.",
+     "s": 2.76
+    },
+    {
+     "text": "C'est le souffle du Poumon.",
+     "s": 4.8
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "Puis, contre la sécheresse, mangez blanc et doux : poire pochée, sésame, miel.",
+   "file": "voice/n5.wav",
+   "dur": 4.542,
+   "words": [
+    {
+     "w": "Puis,",
+     "s": 0.0,
+     "e": 0.24
+    },
+    {
+     "w": "contre",
+     "s": 0.52,
+     "e": 0.74
+    },
+    {
+     "w": "la",
+     "s": 0.74,
+     "e": 0.94
+    },
+    {
+     "w": "sécheresse,",
+     "s": 0.94,
+     "e": 1.46
+    },
+    {
+     "w": "manger",
+     "s": 1.6,
+     "e": 1.76
+    },
+    {
+     "w": "blanc",
+     "s": 1.76,
+     "e": 2.1
+    },
+    {
+     "w": "et",
+     "s": 2.1,
+     "e": 2.3
+    },
+    {
+     "w": "doux,",
+     "s": 2.3,
+     "e": 2.64
+    },
+    {
+     "w": "poire",
+     "s": 2.76,
+     "e": 3.0
+    },
+    {
+     "w": "pochée",
+     "s": 3.0,
+     "e": 3.46
+    },
+    {
+     "w": "ses",
+     "s": 3.46,
+     "e": 3.78
+    },
+    {
+     "w": "âmes",
+     "s": 3.78,
+     "e": 4.08
+    },
+    {
+     "w": "miel.",
+     "s": 4.08,
+     "e": 4.28
+    }
+   ],
+   "start": 28.0,
+   "keys": [
+    "sécheresse",
+    "blanc",
+    "doux",
+    "poire",
+    "sésame",
+    "miel"
+   ],
+   "phrases": [
+    {
+     "text": "Puis, contre la sécheresse,",
+     "s": 0.0
+    },
+    {
+     "text": "mangez blanc et doux :",
+     "s": 1.6
+    },
+    {
+     "text": "poire pochée, sésame, miel.",
+     "s": 3.0
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "Enfin, lâchez prise. L'arbre laisse tomber ses feuilles, sans regret.",
+   "file": "voice/n6.wav",
+   "dur": 5.016,
+   "words": [
+    {
+     "w": "Enfin,",
+     "s": 0.0,
+     "e": 0.4
+    },
+    {
+     "w": "lâchez",
+     "s": 0.92,
+     "e": 1.22
+    },
+    {
+     "w": "prise.",
+     "s": 1.22,
+     "e": 1.6
+    },
+    {
+     "w": "L'arbre",
+     "s": 2.4,
+     "e": 2.92
+    },
+    {
+     "w": "laisse",
+     "s": 2.92,
+     "e": 3.14
+    },
+    {
+     "w": "tomber",
+     "s": 3.14,
+     "e": 3.5
+    },
+    {
+     "w": "ses",
+     "s": 3.5,
+     "e": 3.68
+    },
+    {
+     "w": "feuilles",
+     "s": 3.68,
+     "e": 4.16
+    },
+    {
+     "w": "sans",
+     "s": 4.16,
+     "e": 4.5
+    },
+    {
+     "w": "regret.",
+     "s": 4.5,
+     "e": 4.8
+    }
+   ],
+   "start": 34.0,
+   "keys": [
+    "lâchez",
+    "prise",
+    "feuilles"
+   ],
+   "phrases": [
+    {
+     "text": "Enfin, lâchez prise.",
+     "s": 0.0
+    },
+    {
+     "text": "L'arbre laisse tomber ses feuilles,",
+     "s": 2.4
+    },
+    {
+     "text": "sans regret.",
+     "s": 4.5
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "Cet automne, rassemblez votre énergie. Votre hiver vous remerciera.",
+   "file": "voice/n7.wav",
+   "dur": 4.48,
+   "words": [
+    {
+     "w": "C'est",
+     "s": 0.0,
+     "e": 0.22
+    },
+    {
+     "w": "automne.",
+     "s": 0.22,
+     "e": 0.88
+    },
+    {
+     "w": "Rassemblez",
+     "s": 1.12,
+     "e": 1.56
+    },
+    {
+     "w": "votre",
+     "s": 1.56,
+     "e": 1.74
+    },
+    {
+     "w": "énergie.",
+     "s": 1.74,
+     "e": 2.34
+    },
+    {
+     "w": "Votre",
+     "s": 3.1,
+     "e": 3.32
+    },
+    {
+     "w": "hiver",
+     "s": 3.32,
+     "e": 3.5
+    },
+    {
+     "w": "vous",
+     "s": 3.5,
+     "e": 3.72
+    },
+    {
+     "w": "remerciera.",
+     "s": 3.72,
+     "e": 4.42
+    }
+   ],
+   "start": 41.0,
+   "keys": [],
+   "phrases": [
+    {
+     "text": "Cet automne, rassemblez votre énergie.",
+     "s": 0.0
+    },
+    {
+     "text": "Votre hiver vous remerciera.",
+     "s": 3.1
+    }
+   ]
+  }
+ ]
+}

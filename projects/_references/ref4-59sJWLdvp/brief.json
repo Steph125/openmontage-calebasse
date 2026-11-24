@@ -1,0 +1,163 @@
+{
+ "version": "1.0",
+ "source": {
+  "type": "other_url",
+  "duration_seconds": 13.233,
+  "url": "https://pin.it/59sJWLdvp",
+  "title": "АІ project",
+  "resolution": "720x1280",
+  "platform_metadata": {
+   "uploader": "an_zhilina",
+   "upload_date": "20250929",
+   "view_count": 0,
+   "like_count": 0,
+   "description": "24-Jun-2026 — Several rows of clear glass bottles with dropper caps, each containing a liquid product labeled \"Peptide Serum\" by Healthia. The central bottle is prominently displayed, highlighting its branding and volume of 30 ml. Cosmetics 3d, Cosmetics advertising, Adobe photoshop design"
+  }
+ },
+ "content_analysis": {
+  "summary": "",
+  "topics": [],
+  "target_audience": "general"
+ },
+ "structure_analysis": {
+  "total_scenes": 0,
+  "scenes": [],
+  "pacing_profile": {}
+ },
+ "keyframes": [
+  {
+   "timestamp": 0.0,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0001.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 0.882,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0002.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 1.765,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0003.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 2.647,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0004.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 3.529,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0005.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 4.411,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0006.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 5.294,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0007.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 6.176,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0008.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 7.058,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0009.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 7.94,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0010.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 8.823,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0011.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 9.705,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0012.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 10.587,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0013.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 11.469,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0014.jpg",
+   "description": ""
+  },
+  {
+   "timestamp": 12.352,
+   "scene_index": 0,
+   "path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0015.jpg",
+   "description": ""
+  }
+ ],
+ "style_profile": {
+  "audio_energy_profile": {
+   "recommended_offset": 0.0,
+   "has_energy_data": true
+  },
+  "color_palette": {
+   "primary_colors": [],
+   "accent_colors": [],
+   "overall_mood": ""
+  },
+  "typography_observed": "",
+  "transition_types": [],
+  "music_style": "",
+  "subtitle_style": "",
+  "production_quality": "prosumer",
+  "closest_playbook": "",
+  "playbook_delta": ""
+ },
+ "replication_guidance": {
+  "suggested_pipeline": "animated-explainer",
+  "suggested_playbook": "flat-motion-graphics",
+  "key_elements_to_replicate": [],
+  "elements_requiring_custom_work": [],
+  "estimated_complexity": "simple",
+  "motion_required": false,
+  "creative_differentiation_seeds": []
+ },
+ "_analysis_meta": {
+  "depth": "standard",
+  "steps_completed": [
+   "metadata",
+   "download",
+   "scene_detect",
+   "keyframes_uniform",
+   "audio_energy"
+  ],
+  "steps_failed": [
+   "transcript_whisper: open() got an unexpected keyword argument 'metadata_errors'"
+  ],
+  "keyframe_count": 15,
+  "scene_count": 0,
+  "has_transcript": false,
+  "duration_seconds": 7.44
+ }
+}

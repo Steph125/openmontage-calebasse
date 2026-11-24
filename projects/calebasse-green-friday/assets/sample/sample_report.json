@@ -1,0 +1,10 @@
+{
+  "stage": "proposal.sample",
+  "status": "awaiting_human",
+  "sample": "assets/sample/sample_v1_A_remotion.mp4",
+  "variant": "A-remotion",
+  "probe": {"duration_s": 12.05, "resolution": "1080x1920", "fps": 30, "video": "h264", "audio": "aac (silent, no music/voice by user decision)"},
+  "final_review": {"status": "revise", "issues": ["silent audio (expected: user chose no music, no voice)", "transcript comparison skipped (no narration)"]},
+  "validates_for_all_variants": ["palette", "Poppins bundled", "phone + page", "worker designs", "banner fall", "end card"],
+  "notes": "Products, prices and pills from artifacts/products.json (verified 2026-11-23)."
+}

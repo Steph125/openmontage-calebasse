@@ -25,8 +25,14 @@ output/
 pipeline/
 tests/qa/output/
 
-# Project workspaces (generated assets, renders — all regenerable)
-projects/
+# Project workspaces — branch `calebasse` (private repo) TRACKS projects/ so the work moves between PCs.
+# Upstream ignores it; only caches and >100 MB renders (GitHub limit, kept on OneDrive) are excluded here.
+projects/**/.hyperframes/
+projects/**/.final_review_frames/
+projects/**/__pycache__/
+projects/**/node_modules/
+projects/horloge-organes/renders/horloge-organes_v1.mp4
+projects/horloge-organes/renders/horloge-organes_v2.mp4
 
 # Corpus directories (downloaded stock clips, thumbnails, embeddings —
 # regenerable from source APIs via corpus_builder). Explicit rule even

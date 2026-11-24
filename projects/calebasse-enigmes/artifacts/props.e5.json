@@ -1,0 +1,92 @@
+{
+ "n": 5,
+ "text": "Je ne suis pas une plante, mais un champignon à la robe laquée, que l'on sculptait sur les palais des empereurs.",
+ "file": "voice/e5.wav",
+ "dur": 5.006,
+ "words": [
+  {
+   "w": "Je",
+   "s": 0.0
+  },
+  {
+   "w": "ne",
+   "s": 0.12
+  },
+  {
+   "w": "suis",
+   "s": 0.22
+  },
+  {
+   "w": "pas",
+   "s": 0.34
+  },
+  {
+   "w": "une",
+   "s": 0.46
+  },
+  {
+   "w": "plante,",
+   "s": 0.62
+  },
+  {
+   "w": "mais",
+   "s": 1.4
+  },
+  {
+   "w": "un",
+   "s": 1.56
+  },
+  {
+   "w": "champignon",
+   "s": 1.74
+  },
+  {
+   "w": "à",
+   "s": 2.12
+  },
+  {
+   "w": "la",
+   "s": 2.24
+  },
+  {
+   "w": "robe",
+   "s": 2.34
+  },
+  {
+   "w": "laquée,",
+   "s": 2.52
+  },
+  {
+   "w": "que",
+   "s": 3.22
+  },
+  {
+   "w": "l'on",
+   "s": 3.3
+  },
+  {
+   "w": "sculptait",
+   "s": 3.72
+  },
+  {
+   "w": "sur",
+   "s": 3.88
+  },
+  {
+   "w": "les",
+   "s": 4.02
+  },
+  {
+   "w": "palais",
+   "s": 4.3
+  },
+  {
+   "w": "des",
+   "s": 4.42
+  },
+  {
+   "w": "empereurs.",
+   "s": 4.42
+  }
+ ]
+}

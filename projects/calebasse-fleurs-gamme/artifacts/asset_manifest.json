@@ -1,0 +1,354 @@
+{
+  "version": "1.0",
+  "assets": [
+    {
+      "id": "bag_camomille",
+      "type": "image",
+      "path": "public/img/bag_camomille.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "bag_jasmin",
+      "type": "image",
+      "path": "public/img/bag_jasmin.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "bag_osmanthus",
+      "type": "image",
+      "path": "public/img/bag_osmanthus.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "bag_rose",
+      "type": "image",
+      "path": "public/img/bag_rose.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "cup_camomille",
+      "type": "image",
+      "path": "public/img/cup_camomille.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "cup_osmanthus",
+      "type": "image",
+      "path": "public/img/cup_osmanthus.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "cup_rose",
+      "type": "image",
+      "path": "public/img/cup_rose.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "fresh_osmanthus",
+      "type": "image",
+      "path": "public/img/fresh_osmanthus.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "macro_camomille",
+      "type": "image",
+      "path": "public/img/macro_camomille.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "macro_camomille_hd",
+      "type": "image",
+      "path": "public/img/macro_camomille_hd.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "macro_jasmin_hd",
+      "type": "image",
+      "path": "public/img/macro_jasmin_hd.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "macro_osmanthus",
+      "type": "image",
+      "path": "public/img/macro_osmanthus.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "macro_osmanthus_hd",
+      "type": "image",
+      "path": "public/img/macro_osmanthus_hd.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "macro_rose",
+      "type": "image",
+      "path": "public/img/macro_rose.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "macro_rose_hd",
+      "type": "image",
+      "path": "public/img/macro_rose_hd.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "med_camomille",
+      "type": "image",
+      "path": "public/img/med_camomille.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "med_jasmin",
+      "type": "image",
+      "path": "public/img/med_jasmin.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "med_rose",
+      "type": "image",
+      "path": "public/img/med_rose.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_jasmin_00",
+      "type": "image",
+      "path": "public/img/p_jasmin_00.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_00",
+      "type": "image",
+      "path": "public/img/p_rose_00.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_01",
+      "type": "image",
+      "path": "public/img/p_rose_01.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_02",
+      "type": "image",
+      "path": "public/img/p_rose_02.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_03",
+      "type": "image",
+      "path": "public/img/p_rose_03.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_04",
+      "type": "image",
+      "path": "public/img/p_rose_04.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_05",
+      "type": "image",
+      "path": "public/img/p_rose_05.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_06",
+      "type": "image",
+      "path": "public/img/p_rose_06.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_07",
+      "type": "image",
+      "path": "public/img/p_rose_07.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_08",
+      "type": "image",
+      "path": "public/img/p_rose_08.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_09",
+      "type": "image",
+      "path": "public/img/p_rose_09.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_10",
+      "type": "image",
+      "path": "public/img/p_rose_10.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_11",
+      "type": "image",
+      "path": "public/img/p_rose_11.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_12",
+      "type": "image",
+      "path": "public/img/p_rose_12.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_13",
+      "type": "image",
+      "path": "public/img/p_rose_13.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_14",
+      "type": "image",
+      "path": "public/img/p_rose_14.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_15",
+      "type": "image",
+      "path": "public/img/p_rose_15.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_16",
+      "type": "image",
+      "path": "public/img/p_rose_16.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_17",
+      "type": "image",
+      "path": "public/img/p_rose_17.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_18",
+      "type": "image",
+      "path": "public/img/p_rose_18.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_19",
+      "type": "image",
+      "path": "public/img/p_rose_19.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_20",
+      "type": "image",
+      "path": "public/img/p_rose_20.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_21",
+      "type": "image",
+      "path": "public/img/p_rose_21.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_rose_22",
+      "type": "image",
+      "path": "public/img/p_rose_22.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "comp",
+      "type": "animation",
+      "path": "Scene.tsx",
+      "source_tool": "hand_authored_atelier",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "metadata": {
+    "sources": "assets/source/sources.json + pexels_credits.json",
+    "prep": "projects/calebasse-brand/catalog/prep_log_batch2.json"
+  }
+}

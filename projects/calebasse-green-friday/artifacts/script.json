@@ -1,0 +1,128 @@
+{
+  "version": "1.0",
+  "title": "Calebasse — Green Friday (A : Le chantier · C : La vitrine)",
+  "total_duration_seconds": 12.0,
+  "sections": [
+    {
+      "id": "A1",
+      "text": "BLACK FRIDAY (bannière noire) · calebasse.com visible en haut du téléphone",
+      "start_seconds": 0.0,
+      "end_seconds": 0.8
+    },
+    {
+      "id": "A2",
+      "text": "Le rouleau barre « BLACK » d'un trait vert anis à −7°",
+      "start_seconds": 0.8,
+      "end_seconds": 3.3
+    },
+    {
+      "id": "A3",
+      "text": "« GREEN » peint au-dessus, lettre par lettre",
+      "start_seconds": 3.3,
+      "end_seconds": 5.8
+    },
+    {
+      "id": "A4",
+      "text": "Signe de tête, la bannière se soulève (anticipation)",
+      "start_seconds": 5.8,
+      "end_seconds": 6.7
+    },
+    {
+      "id": "A5",
+      "text": "La bannière tombe — la page Green Friday apparaît : Black barré → Green, « Jusqu'à -70 % », « sur une sélection* », « Du 20 au 30 novembre »",
+      "start_seconds": 6.7,
+      "end_seconds": 8.2
+    },
+    {
+      "id": "A6",
+      "text": "Défilement : « Nos incontournables » — Jujube bio -10 % 11,90 € → 10,71 € · Peau de mandarine -10 % 9,70 € → 8,73 € · Coffret Voyage en Chine -25 % 83,50 € → 62,62 € · Baies de goji premium -20 % 23,80 € → 19,04 €",
+      "start_seconds": 8.2,
+      "end_seconds": 10.1
+    },
+    {
+      "id": "A7",
+      "text": "On range le Black Friday : le tas noir sort de l'image",
+      "start_seconds": 9.5,
+      "end_seconds": 10.8
+    },
+    {
+      "id": "A8",
+      "text": "Logo Calebasse · « Green Friday · du 20 au 30 novembre » · calebasse.com · *Jusqu'à -70 % sur une sélection de matériel MTC, dans la limite des stocks.",
+      "start_seconds": 10.8,
+      "end_seconds": 12.0
+    },
+    {
+      "id": "C1",
+      "text": "Page Green Friday, vitrine vide (cases en pointillés) : « Jusqu'à -70 % », « Du 20 au 30 novembre »",
+      "start_seconds": 0.0,
+      "end_seconds": 1.0
+    },
+    {
+      "id": "C2",
+      "text": "Premier carreau posé : Jujube bio -10 % 11,90 € → 10,71 €",
+      "start_seconds": 1.0,
+      "end_seconds": 4.0
+    },
+    {
+      "id": "C3",
+      "text": "Relais : Peau de mandarine -10 % · Coffret Voyage en Chine -25 % · Baies de goji premium -20 % · Coffret Découverte de la MTC -25 % 88,90 € → 66,67 € · Coffret Beauté à la Chinoise -20 % 68,98 € → 55,18 €",
+      "start_seconds": 4.0,
+      "end_seconds": 8.7
+    },
+    {
+      "id": "C4",
+      "text": "Vitrine complète ; « Black » barré, « Green » posé dans l'en-tête",
+      "start_seconds": 8.7,
+      "end_seconds": 10.7
+    },
+    {
+      "id": "C5",
+      "text": "Coup de chiffon sur l'écran, tape-m'en cinq",
+      "start_seconds": 10.7,
+      "end_seconds": 13.0
+    },
+    {
+      "id": "C6",
+      "text": "Logo Calebasse · « Green Friday · du 20 au 30 novembre » · calebasse.com · mention *",
+      "start_seconds": 13.0,
+      "end_seconds": 15.0
+    }
+  ],
+  "metadata": {
+    "narration": "none (user decision) — sections are on-screen text / visual beats",
+    "timelines": {
+      "A": {
+        "duration_s": 12.0,
+        "sections": [
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8"
+        ]
+      },
+      "C": {
+        "duration_s": 15.0,
+        "sections": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6"
+        ]
+      }
+    },
+    "hold_time_seconds": {
+      "A5": 1.4,
+      "A6": 1.2,
+      "A8": 1.2,
+      "C4": 1.5,
+      "C6": 2.0
+    },
+    "fact_check": "prix et remises copiés de artifacts/products.json (vérifiés carte par carte le 2026-11-23)"
+  }
+}

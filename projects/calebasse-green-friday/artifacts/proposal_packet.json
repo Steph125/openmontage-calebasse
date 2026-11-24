@@ -1,0 +1,249 @@
+{
+  "version": "1.0",
+  "concept_options": [
+    {
+      "id": "A",
+      "title": "Le chantier du Green Friday",
+      "hook": "Quatre ouvriers miniatures barrent « BLACK », peignent « GREEN »… puis lâchent la bannière.",
+      "narrative_structure": "story",
+      "visual_approach": "Plan fixe, fond crème #F7F5EE, smartphone géant au centre. Ouvriers vectoriels en salopette vert forêt, deux sur des échelles. Une bannière noire BLACK FRIDAY couvre l'écran ; un ouvrier trace au rouleau un trait vert anis à -7° sur BLACK, un autre pose GREEN au-dessus (le motif exact du site). La bannière tombe en plis, la page Green Friday apparaît dans le téléphone et défile : « Jusqu'à -70 % » puis 4 vrais produits. Carton final logo + « Du 20 au 30 novembre ».",
+      "suggested_playbook": "custom (direction artistique Green Friday Calebasse)",
+      "target_audience": "Clientèle Calebasse et curieux de MTC sur Instagram",
+      "target_platform": "instagram",
+      "target_duration_seconds": 12,
+      "key_points": [
+        "Black → Green joué à l'écran",
+        "Révélation des vrais produits",
+        "Dates + logo"
+      ],
+      "core_message": "Chez Calebasse, le Black Friday est vert.",
+      "cta": "Du 20 au 30 novembre sur calebasse.com",
+      "tone": "Malin, chaleureux, artisanal",
+      "grounded_in": [
+        "Green Friday = nom du Black Friday Calebasse",
+        "Motif Black barré du site",
+        "Référence Pinterest"
+      ],
+      "why_this_works": "Garde ce qui fait marcher la référence (miniatures + révélation) et ajoute une histoire en 3 secondes qui renvoie au visuel de la page d'arrivée."
+    },
+    {
+      "id": "B",
+      "title": "Rideau vert",
+      "hook": "BLACK FRIDAY remplit l'écran. Un trait vert le raye, et tout bascule au vert.",
+      "narrative_structure": "comparison",
+      "visual_approach": "Typographie cinétique sans personnages : lettres BLACK FRIDAY géantes en Poppins 800, un coup de pinceau vert anis raye BLACK, GREEN s'estampille, puis les lettres se replient comme un rideau et dévoilent le téléphone ; les produits y tombent un à un avec leur prix barré.",
+      "suggested_playbook": "custom (direction artistique Green Friday Calebasse)",
+      "target_platform": "instagram",
+      "target_duration_seconds": 8,
+      "key_points": [
+        "Lisible sans le son",
+        "Rythme rapide",
+        "Produits en cascade"
+      ],
+      "core_message": "Le Black Friday version Calebasse.",
+      "cta": "Du 20 au 30 novembre sur calebasse.com",
+      "tone": "Énergique, graphique",
+      "grounded_in": [
+        "Motif Black barré du site",
+        "Mouvement dès la première demi-seconde"
+      ],
+      "why_this_works": "Le plus court et le plus lisible en lecture automatique sans son ; s'éloigne de la référence (pas de miniatures)."
+    },
+    {
+      "id": "C",
+      "title": "Les ouvriers remplissent la vitrine",
+      "hook": "Le téléphone est vide. Une équipe miniature y range les produits Calebasse, étiquette par étiquette.",
+      "narrative_structure": "journey",
+      "visual_approach": "Même chantier miniature, mais construction au lieu de révélation : les ouvriers portent sur l'épaule un sachet de jujubes, un coffret, un pot de ginseng géants et les déposent dans les cases de la page ; chaque dépôt fait tomber l'étiquette du prix barré. Fin sur la grille complète + dates.",
+      "suggested_playbook": "custom (direction artistique Green Friday Calebasse)",
+      "target_platform": "instagram",
+      "target_duration_seconds": 15,
+      "key_points": [
+        "Produits mis en avant un par un",
+        "Humour de chantier",
+        "Grille finale"
+      ],
+      "core_message": "Le Green Friday se prépare chez Calebasse.",
+      "cta": "Du 20 au 30 novembre sur calebasse.com",
+      "tone": "Tendre, artisanal",
+      "grounded_in": [
+        "110 produits remisés",
+        "Contraste d'échelle"
+      ],
+      "why_this_works": "Met chaque produit en valeur plus longtemps ; plus lent et plus long à produire."
+    }
+  ],
+  "selected_concept": {
+    "concept_id": "A",
+    "rationale": "L'utilisateur retient A ET C pour un test A/B, chacun rendu en Remotion et en HyperFrames (4 vidéos).",
+    "modifications": [
+      "Concept C produit aussi (deuxième bras du test A/B)",
+      "Chaque concept rendu deux fois : Remotion et HyperFrames, même storyboard, même direction artistique, mêmes timings",
+      "Pas de musique, pas de voix (vidéos muettes ; son ajoutable dans Instagram)"
+    ]
+  },
+  "production_plan": {
+    "pipeline": "animation",
+    "playbook": "custom",
+    "renderer_family": "product-reveal",
+    "composition_mode": "atelier",
+    "art_direction": "Green Friday Calebasse : vert forêt #0D3B2E / #0A2C22, vert #1F6B4A, vert anis #C9EC7A, crème #F7F5EE, sable #F2E9D4, corail #E2725B (pastilles de remise), encre #14271F ; Poppins 600/800 ; trait de rature vert anis à -7° et « Green » incliné ; logo Calebasse ; vraies photos produits sur fond blanc.",
+    "taste_profile": {
+      "design_read": "Pub de marque malicieuse et artisanale : un chantier miniature qui renomme le Black Friday en Green Friday, chaleureux plutôt que criard.",
+      "visual_variance": 3,
+      "motion_intensity": 6,
+      "information_density": 3,
+      "palette_discipline": "Crème + vert forêt dominants, vert anis réservé au geste Green et au -70 %, noir uniquement pour la bannière qu'on retire.",
+      "layout_variation": "Un seul plan fixe (comme la référence), la variété vient de l'action et de l'écran du téléphone.",
+      "reference_strategy": "Une image de style validée (le plan d'ouverture) avant de produire tout le mouvement.",
+      "anti_patterns": [
+        "Fond noir + gros pourcentages + compte à rebours",
+        "Rendu IA photoréaliste générique",
+        "Allégations santé",
+        "Discours anti-consommation"
+      ],
+      "quality_gates": [
+        "On reconnaît la page Calebasse en une image",
+        "Le prix affiché = le prix de la page",
+        "Texte lisible sur mobile sans le son"
+      ]
+    },
+    "delivery_promise": {
+      "promise_type": "motion_led",
+      "motion_required": true,
+      "source_required": false,
+      "tone_mode": "playful_brand_promo",
+      "quality_floor": "broadcast",
+      "approved_fallback": null
+    },
+    "music_source": {
+      "source_type": "none",
+      "mood_direction": "Aucune musique (choix utilisateur)",
+      "estimated_cost_usd": 0.0
+    },
+    "voice_selection": {
+      "provider": "none",
+      "rationale": "Aucune voix (choix utilisateur)",
+      "estimated_cost_usd": 0.0
+    },
+    "stages": [
+      {
+        "stage": "script",
+        "tools": [],
+        "approach": "Script en temps forts visuels (pas de narration obligatoire), textes à l'écran validés"
+      },
+      {
+        "stage": "scene_plan",
+        "tools": [],
+        "approach": "Un plan fixe découpé en temps forts : installation, rature, GREEN, chute, défilement produits, carton"
+      },
+      {
+        "stage": "assets",
+        "tools": [
+          {
+            "tool_name": "image_selector",
+            "role": "aucun appel prévu (photos produits déjà téléchargées de calebasse.com)",
+            "provider": "n/a",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          },
+          {
+            "tool_name": "pixabay_music",
+            "role": "piste musicale libre de droits (si choisie)",
+            "provider": "pixabay",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          },
+          {
+            "tool_name": "audio_mixer",
+            "role": "mixage musique + bruitages",
+            "provider": "ffmpeg",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          }
+        ],
+        "approach": "Personnages, téléphone et bannière dessinés en code ; vraies photos produits"
+      },
+      {
+        "stage": "compose",
+        "tools": [
+          {
+            "tool_name": "video_compose",
+            "role": "rendu atelier 1080x1920",
+            "provider": "local",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          }
+        ],
+        "approach": "Rendu local, échantillon de 5 s d'abord"
+      }
+    ],
+    "alternative_paths": [
+      {
+        "description": "Rendu photoréaliste via génération vidéo IA",
+        "total_cost_usd": 0.0,
+        "quality_level": "premium",
+        "what_changes": "Non retenu : demande un fournisseur payant, que l'utilisateur ne souhaite pas"
+      }
+    ],
+    "quality_tradeoffs": [
+      {
+        "tradeoff": "Illustration vectorielle au lieu du photoréalisme de la référence",
+        "recommendation": "Assumer un style de marque dessiné",
+        "quality_impact": "Plus distinctif, moins « IA générique »"
+      }
+    ],
+    "render_runtime": "remotion",
+    "decision_log_ref": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-green-friday\\decision_log.json"
+  },
+  "cost_estimate": {
+    "total_estimated_usd": 0.0,
+    "line_items": [
+      {
+        "tool": "video_compose",
+        "operation": "rendu local Remotion ou HyperFrames",
+        "estimated_usd": 0.0
+      },
+      {
+        "tool": "pixabay_music",
+        "operation": "recherche et téléchargement d'une piste (optionnel)",
+        "estimated_usd": 0.0
+      }
+    ],
+    "budget_cap_usd": 0.0,
+    "budget_verdict": "within_budget"
+  },
+  "approval": {
+    "status": "approved_with_changes",
+    "user_notes": "A et C, 4 vidéos pour un test A/B, Remotion (A et C) et HyperFrames (A et C), pas de musique, pas de voix.",
+    "approved_budget_usd": 0.0
+  },
+  "metadata": {
+    "ab_test_variants": [
+      {
+        "variant_id": "A-remotion",
+        "concept_id": "A",
+        "render_runtime": "remotion",
+        "output": "renders/gf_A_remotion.mp4"
+      },
+      {
+        "variant_id": "A-hyperframes",
+        "concept_id": "A",
+        "render_runtime": "hyperframes",
+        "output": "renders/gf_A_hyperframes.mp4"
+      },
+      {
+        "variant_id": "C-remotion",
+        "concept_id": "C",
+        "render_runtime": "remotion",
+        "output": "renders/gf_C_remotion.mp4"
+      },
+      {
+        "variant_id": "C-hyperframes",
+        "concept_id": "C",
+        "render_runtime": "hyperframes",
+        "output": "renders/gf_C_hyperframes.mp4"
+      }
+    ]
+  }
+}

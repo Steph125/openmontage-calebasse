@@ -1,0 +1,88 @@
+{
+ "n": 8,
+ "text": "Mon nom réunit deux idées : l'une parle d'harmonie, l'autre de l'eau qui compose une bonne partie de notre corps.",
+ "file": "voice/e8.wav",
+ "dur": 5.614,
+ "words": [
+  {
+   "w": "Mon",
+   "s": 0.0
+  },
+  {
+   "w": "nom",
+   "s": 0.16
+  },
+  {
+   "w": "réunit",
+   "s": 0.34
+  },
+  {
+   "w": "deux",
+   "s": 0.96
+  },
+  {
+   "w": "idées",
+   "s": 1.62
+  },
+  {
+   "w": ":",
+   "s": 1.66
+  },
+  {
+   "w": "l'une",
+   "s": 1.8
+  },
+  {
+   "w": "parle",
+   "s": 2.06
+  },
+  {
+   "w": "d'harmonie,",
+   "s": 2.24
+  },
+  {
+   "w": "l'autre",
+   "s": 3.06
+  },
+  {
+   "w": "de",
+   "s": 3.4
+  },
+  {
+   "w": "l'eau",
+   "s": 3.48
+  },
+  {
+   "w": "qui",
+   "s": 3.56
+  },
+  {
+   "w": "compose",
+   "s": 3.68
+  },
+  {
+   "w": "une",
+   "s": 4.0
+  },
+  {
+   "w": "bonne",
+   "s": 4.2
+  },
+  {
+   "w": "partie",
+   "s": 4.34
+  },
+  {
+   "w": "de",
+   "s": 4.94
+  },
+  {
+   "w": "notre",
+   "s": 5.06
+  },
+  {
+   "w": "corps.",
+   "s": 5.06
+  }
+ ]
+}

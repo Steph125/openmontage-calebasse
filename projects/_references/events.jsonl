@@ -1,0 +1,84 @@
+{"ts": "2026-11-23T14:15:22.894448+00:00", "call_id": "84b8875be68847369f4df9f18ca122b0", "tool": "video_analyzer", "event": "start"}
+{"ts": "2026-11-23T14:15:22.899760+00:00", "call_id": "ff935e2437af4e8594b5c68efa06599d", "tool": "video_downloader", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T14:15:35.061454+00:00", "call_id": "ff935e2437af4e8594b5c68efa06599d", "tool": "video_downloader", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 12.16}
+{"ts": "2026-11-23T14:15:35.069060+00:00", "call_id": "9fd88614e3c3407bbb49a26db5911490", "tool": "transcriber", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T14:16:02.271465+00:00", "call_id": "9fd88614e3c3407bbb49a26db5911490", "tool": "transcriber", "depth": 1, "event": "error", "error": "open() got an unexpected keyword argument 'metadata_errors'", "duration_s": 27.2}
+{"ts": "2026-11-23T14:16:02.318726+00:00", "call_id": "82d371889e11498785b8a9a698b358ee", "tool": "scene_detect", "depth": 1, "event": "start", "output_path": "projects\\_references\\pinterest-kcJKeGtua\\scenes.json"}
+{"ts": "2026-11-23T14:16:05.160649+00:00", "call_id": "82d371889e11498785b8a9a698b358ee", "tool": "scene_detect", "depth": 1, "event": "finish", "output_path": "projects\\_references\\pinterest-kcJKeGtua\\scenes.json", "success": true, "cost_usd": 0.0, "duration_s": 2.84}
+{"ts": "2026-11-23T14:16:05.163542+00:00", "call_id": "726c9774202d4a7e9f254717b7cf969a", "tool": "frame_sampler", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T14:16:06.997497+00:00", "call_id": "726c9774202d4a7e9f254717b7cf969a", "tool": "frame_sampler", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 1.83}
+{"ts": "2026-11-23T14:16:07.000289+00:00", "call_id": "a1f142480cd041eb9e4a2362da2c8d21", "tool": "audio_energy", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T14:16:07.280939+00:00", "call_id": "a1f142480cd041eb9e4a2362da2c8d21", "tool": "audio_energy", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 0.28}
+{"ts": "2026-11-23T14:16:07.284321+00:00", "call_id": "84b8875be68847369f4df9f18ca122b0", "tool": "video_analyzer", "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 44.39}
+{"ts": "2026-11-23T21:03:14.469257+00:00", "call_id": "11359b2a09024382b5c2563cfb8f42b2", "tool": "video_analyzer", "event": "start"}
+{"ts": "2026-11-23T21:03:14.475641+00:00", "call_id": "27fd0267db7c4bfc8db59b06a1b29821", "tool": "video_downloader", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:03:25.755742+00:00", "call_id": "27fd0267db7c4bfc8db59b06a1b29821", "tool": "video_downloader", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 11.28}
+{"ts": "2026-11-23T21:03:25.759113+00:00", "call_id": "3d8cfc1d63c149f086d6ad6de7ad0375", "tool": "transcriber", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:03:34.293962+00:00", "call_id": "3d8cfc1d63c149f086d6ad6de7ad0375", "tool": "transcriber", "depth": 1, "event": "error", "error": "open() got an unexpected keyword argument 'metadata_errors'", "duration_s": 8.53}
+{"ts": "2026-11-23T21:03:34.339867+00:00", "call_id": "985bec8e3ac34a98836f022af138e4d9", "tool": "scene_detect", "depth": 1, "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\scenes.json"}
+{"ts": "2026-11-23T21:03:37.103978+00:00", "call_id": "985bec8e3ac34a98836f022af138e4d9", "tool": "scene_detect", "depth": 1, "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\scenes.json", "success": true, "cost_usd": 0.0, "duration_s": 2.76}
+{"ts": "2026-11-23T21:03:42.194682+00:00", "call_id": "aedd60a4fcba424895cf85491a379b64", "tool": "frame_sampler", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:03:46.585227+00:00", "call_id": "aedd60a4fcba424895cf85491a379b64", "tool": "frame_sampler", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 4.39}
+{"ts": "2026-11-23T21:03:46.587779+00:00", "call_id": "8aa75969641744c9b2975ed86daf2aa6", "tool": "audio_energy", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:03:48.602374+00:00", "call_id": "8aa75969641744c9b2975ed86daf2aa6", "tool": "audio_energy", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 2.01}
+{"ts": "2026-11-23T21:03:48.606897+00:00", "call_id": "11359b2a09024382b5c2563cfb8f42b2", "tool": "video_analyzer", "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 34.13}
+{"ts": "2026-11-23T21:03:48.614858+00:00", "call_id": "3981f09d8043468daee4b039eeb741a7", "tool": "video_analyzer", "event": "start"}
+{"ts": "2026-11-23T21:03:48.618662+00:00", "call_id": "bbae0c050b0549c194bc3dc177360a0f", "tool": "video_downloader", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:03:53.870306+00:00", "call_id": "bbae0c050b0549c194bc3dc177360a0f", "tool": "video_downloader", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 5.25}
+{"ts": "2026-11-23T21:03:53.872783+00:00", "call_id": "5f893b64fa9641e68f0f0d1e0858ed65", "tool": "transcriber", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:03:55.075843+00:00", "call_id": "5f893b64fa9641e68f0f0d1e0858ed65", "tool": "transcriber", "depth": 1, "event": "error", "error": "open() got an unexpected keyword argument 'metadata_errors'", "duration_s": 1.2}
+{"ts": "2026-11-23T21:03:55.123546+00:00", "call_id": "7d5af470fc07424d84eef4f8731021de", "tool": "scene_detect", "depth": 1, "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\scenes.json"}
+{"ts": "2026-11-23T21:03:56.829209+00:00", "call_id": "7d5af470fc07424d84eef4f8731021de", "tool": "scene_detect", "depth": 1, "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\scenes.json", "success": true, "cost_usd": 0.0, "duration_s": 1.7}
+{"ts": "2026-11-23T21:03:57.516571+00:00", "call_id": "34dfcbac6c044f65818b761310734cda", "tool": "frame_sampler", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:03:59.753018+00:00", "call_id": "34dfcbac6c044f65818b761310734cda", "tool": "frame_sampler", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 2.23}
+{"ts": "2026-11-23T21:03:59.755378+00:00", "call_id": "527370ab25904a7cb2f856870d06cdae", "tool": "audio_energy", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:00.255247+00:00", "call_id": "527370ab25904a7cb2f856870d06cdae", "tool": "audio_energy", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 0.5}
+{"ts": "2026-11-23T21:04:00.258737+00:00", "call_id": "3981f09d8043468daee4b039eeb741a7", "tool": "video_analyzer", "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 11.64}
+{"ts": "2026-11-23T21:04:00.263944+00:00", "call_id": "38d552ff2e034b06b37049877cfecf27", "tool": "video_analyzer", "event": "start"}
+{"ts": "2026-11-23T21:04:00.268147+00:00", "call_id": "3f1d2e0b2df74cf2a2003a7967787e55", "tool": "video_downloader", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:04.885441+00:00", "call_id": "3f1d2e0b2df74cf2a2003a7967787e55", "tool": "video_downloader", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 4.62}
+{"ts": "2026-11-23T21:04:04.887697+00:00", "call_id": "5bfbfb08077c476e82c80f58b102a651", "tool": "transcriber", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:05.968167+00:00", "call_id": "5bfbfb08077c476e82c80f58b102a651", "tool": "transcriber", "depth": 1, "event": "error", "error": "open() got an unexpected keyword argument 'metadata_errors'", "duration_s": 1.08}
+{"ts": "2026-11-23T21:04:06.006611+00:00", "call_id": "0346545a12fb4690827945735ec447d6", "tool": "scene_detect", "depth": 1, "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\scenes.json"}
+{"ts": "2026-11-23T21:04:06.478726+00:00", "call_id": "0346545a12fb4690827945735ec447d6", "tool": "scene_detect", "depth": 1, "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\scenes.json", "success": true, "cost_usd": 0.0, "duration_s": 0.47}
+{"ts": "2026-11-23T21:04:07.489118+00:00", "call_id": "4b7cbf8d77d04d269d0bcd96b5eaea92", "tool": "frame_sampler", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:09.561031+00:00", "call_id": "4b7cbf8d77d04d269d0bcd96b5eaea92", "tool": "frame_sampler", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 2.07}
+{"ts": "2026-11-23T21:04:09.563704+00:00", "call_id": "87bd0de03bfd4a67a0f30fde86a079f3", "tool": "audio_energy", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:09.982584+00:00", "call_id": "87bd0de03bfd4a67a0f30fde86a079f3", "tool": "audio_energy", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 0.42}
+{"ts": "2026-11-23T21:04:09.986836+00:00", "call_id": "38d552ff2e034b06b37049877cfecf27", "tool": "video_analyzer", "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 9.72}
+{"ts": "2026-11-23T21:04:09.991034+00:00", "call_id": "12cc2a0cba534dc9b16bdc592769ca6b", "tool": "video_analyzer", "event": "start"}
+{"ts": "2026-11-23T21:04:09.995817+00:00", "call_id": "e130ffcd72b2435285e7f0f0cdb808bb", "tool": "video_downloader", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:14.831960+00:00", "call_id": "e130ffcd72b2435285e7f0f0cdb808bb", "tool": "video_downloader", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 4.83}
+{"ts": "2026-11-23T21:04:14.834856+00:00", "call_id": "2ac678f9ed404982beb86eb407a7406f", "tool": "transcriber", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:15.701809+00:00", "call_id": "2ac678f9ed404982beb86eb407a7406f", "tool": "transcriber", "depth": 1, "event": "error", "error": "open() got an unexpected keyword argument 'metadata_errors'", "duration_s": 0.86}
+{"ts": "2026-11-23T21:04:15.744618+00:00", "call_id": "b115e873ef25459cae2b113b1c558997", "tool": "scene_detect", "depth": 1, "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\scenes.json"}
+{"ts": "2026-11-23T21:04:16.428481+00:00", "call_id": "b115e873ef25459cae2b113b1c558997", "tool": "scene_detect", "depth": 1, "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\scenes.json", "success": true, "cost_usd": 0.0, "duration_s": 0.68}
+{"ts": "2026-11-23T21:04:16.431144+00:00", "call_id": "cdafbc2c6883482bbfc0daba1766f3c4", "tool": "frame_sampler", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:17.020008+00:00", "call_id": "cdafbc2c6883482bbfc0daba1766f3c4", "tool": "frame_sampler", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 0.59}
+{"ts": "2026-11-23T21:04:17.022273+00:00", "call_id": "993a6dc83be84b56858e5f4ad5166a0d", "tool": "audio_energy", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:17.428932+00:00", "call_id": "993a6dc83be84b56858e5f4ad5166a0d", "tool": "audio_energy", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 0.41}
+{"ts": "2026-11-23T21:04:17.431923+00:00", "call_id": "12cc2a0cba534dc9b16bdc592769ca6b", "tool": "video_analyzer", "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 7.44}
+{"ts": "2026-11-23T21:04:17.437529+00:00", "call_id": "9d84ee3f4f3a44a3ad34a3c680a43d46", "tool": "video_analyzer", "event": "start"}
+{"ts": "2026-11-23T21:04:17.441127+00:00", "call_id": "61c2487f0cb840e3a93c9f6742805807", "tool": "video_downloader", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:22.174310+00:00", "call_id": "61c2487f0cb840e3a93c9f6742805807", "tool": "video_downloader", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 4.73}
+{"ts": "2026-11-23T21:04:22.177691+00:00", "call_id": "cd5d52f096ef42b48a27c4a91061384f", "tool": "transcriber", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:23.138252+00:00", "call_id": "cd5d52f096ef42b48a27c4a91061384f", "tool": "transcriber", "depth": 1, "event": "error", "error": "open() got an unexpected keyword argument 'metadata_errors'", "duration_s": 0.96}
+{"ts": "2026-11-23T21:04:23.178514+00:00", "call_id": "b8ab86d9d52a496ca8acf700394fb479", "tool": "scene_detect", "depth": 1, "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref5-3cn23RezE\\scenes.json"}
+{"ts": "2026-11-23T21:04:23.578490+00:00", "call_id": "b8ab86d9d52a496ca8acf700394fb479", "tool": "scene_detect", "depth": 1, "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref5-3cn23RezE\\scenes.json", "success": true, "cost_usd": 0.0, "duration_s": 0.4}
+{"ts": "2026-11-23T21:04:23.930827+00:00", "call_id": "88829878bcc74082ae74689305b8c61b", "tool": "frame_sampler", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:24.773140+00:00", "call_id": "88829878bcc74082ae74689305b8c61b", "tool": "frame_sampler", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 0.84}
+{"ts": "2026-11-23T21:04:24.775477+00:00", "call_id": "f3b592a2dd9e4cafa2b9abac044d4980", "tool": "audio_energy", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:25.232213+00:00", "call_id": "f3b592a2dd9e4cafa2b9abac044d4980", "tool": "audio_energy", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 0.46}
+{"ts": "2026-11-23T21:04:25.235356+00:00", "call_id": "9d84ee3f4f3a44a3ad34a3c680a43d46", "tool": "video_analyzer", "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 7.8}
+{"ts": "2026-11-23T21:04:25.241643+00:00", "call_id": "2c90c5f9b1f448fdb8e7006b9f61b32a", "tool": "video_analyzer", "event": "start"}
+{"ts": "2026-11-23T21:04:25.245291+00:00", "call_id": "58b31a675e944342b6b6466f57fc36ca", "tool": "video_downloader", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:31.047825+00:00", "call_id": "58b31a675e944342b6b6466f57fc36ca", "tool": "video_downloader", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 5.8}
+{"ts": "2026-11-23T21:04:31.049899+00:00", "call_id": "a4d1d549209d4c8b8a27a5660a3cd0aa", "tool": "transcriber", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:31.893178+00:00", "call_id": "a4d1d549209d4c8b8a27a5660a3cd0aa", "tool": "transcriber", "depth": 1, "event": "error", "error": "open() got an unexpected keyword argument 'metadata_errors'", "duration_s": 0.84}
+{"ts": "2026-11-23T21:04:31.923303+00:00", "call_id": "c555ffd1ed7b4d718d3307ea066ee0cc", "tool": "scene_detect", "depth": 1, "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\scenes.json"}
+{"ts": "2026-11-23T21:04:32.626676+00:00", "call_id": "c555ffd1ed7b4d718d3307ea066ee0cc", "tool": "scene_detect", "depth": 1, "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\scenes.json", "success": true, "cost_usd": 0.0, "duration_s": 0.7}
+{"ts": "2026-11-23T21:04:33.344973+00:00", "call_id": "a3fa56dac3f0493faeb9394619c7870b", "tool": "frame_sampler", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:35.228805+00:00", "call_id": "a3fa56dac3f0493faeb9394619c7870b", "tool": "frame_sampler", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 1.88}
+{"ts": "2026-11-23T21:04:35.231347+00:00", "call_id": "15a4ee55dd034cceb7a5eb25163d335e", "tool": "audio_energy", "depth": 1, "event": "start"}
+{"ts": "2026-11-23T21:04:35.643778+00:00", "call_id": "15a4ee55dd034cceb7a5eb25163d335e", "tool": "audio_energy", "depth": 1, "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 0.41}
+{"ts": "2026-11-23T21:04:35.646909+00:00", "call_id": "2c90c5f9b1f448fdb8e7006b9f61b32a", "tool": "video_analyzer", "event": "finish", "success": true, "cost_usd": 0.0, "duration_s": 10.4}

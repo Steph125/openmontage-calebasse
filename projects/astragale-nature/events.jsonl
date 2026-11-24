@@ -1,0 +1,2 @@
+{"ts": "2026-09-30T04:29:46.095616+00:00", "tool": "video_compose", "event": "start", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\astragale-nature\\assets\\sample\\sample_v1.mp4"}
+{"ts": "2026-09-30T04:33:57.494432+00:00", "tool": "video_compose", "event": "finish", "output_path": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\astragale-nature\\assets\\sample\\sample_v1.mp4", "success": true, "cost_usd": 0.0, "duration_s": 251.4}

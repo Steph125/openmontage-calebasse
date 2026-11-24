@@ -1,0 +1,256 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-green-friday",
+  "decisions": [
+    {
+      "decision_id": "d-research-pipeline",
+      "stage": "research",
+      "category": "pipeline_selection",
+      "subject": "Pipeline de production",
+      "options_considered": [
+        {
+          "option_id": "animation",
+          "label": "animation (motion design / animation d'abord)",
+          "score": 0.9,
+          "reason": "Pub de marque en motion design généré, sans narration obligatoire"
+        },
+        {
+          "option_id": "animated-explainer",
+          "label": "animated-explainer",
+          "score": 0.5,
+          "reason": "Pensé pour des explications narrées",
+          "rejected_because": "Pas un format explicatif"
+        },
+        {
+          "option_id": "cinematic",
+          "label": "cinematic",
+          "score": 0.3,
+          "reason": "Montage de plans vidéo",
+          "rejected_because": "Demanderait de la génération vidéo payante"
+        }
+      ],
+      "selected": "animation",
+      "reason": "Short promotionnel de 10–12 s en motion design généré par code",
+      "user_visible": true
+    },
+    {
+      "decision_id": "d-proposal-concept",
+      "stage": "proposal",
+      "category": "concept_selection",
+      "subject": "Concept retenu",
+      "options_considered": [
+        {
+          "option_id": "A",
+          "label": "Le chantier du Green Friday",
+          "score": 0.9,
+          "reason": "Recommandé"
+        },
+        {
+          "option_id": "B",
+          "label": "Rideau vert",
+          "score": 0.6,
+          "reason": "Typographie cinétique",
+          "rejected_because": "Non retenu par l'utilisateur"
+        },
+        {
+          "option_id": "C",
+          "label": "Les ouvriers remplissent la vitrine",
+          "score": 0.7,
+          "reason": "Construction produit par produit"
+        }
+      ],
+      "selected": "A + C (test A/B)",
+      "reason": "Choix de l'utilisateur pour un test A/B",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-proposal-runtime",
+      "stage": "proposal",
+      "category": "render_runtime_selection",
+      "subject": "Moteur de rendu",
+      "options_considered": [
+        {
+          "option_id": "remotion",
+          "label": "Remotion",
+          "score": 0.8,
+          "reason": "Moteur de tous les projets précédents, éprouvé sur cette machine"
+        },
+        {
+          "option_id": "hyperframes",
+          "label": "HyperFrames",
+          "score": 0.75,
+          "reason": "HTML/GSAP naturel pour pubs produit et traits dessinés"
+        },
+        {
+          "option_id": "ffmpeg",
+          "label": "FFmpeg",
+          "score": 0.1,
+          "reason": "Simple assemblage",
+          "rejected_because": "Pas de composition animée"
+        }
+      ],
+      "selected": "remotion + hyperframes (chaque concept rendu dans les deux)",
+      "reason": "L'utilisateur veut comparer les deux moteurs dans son test A/B",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-proposal-mode",
+      "stage": "proposal",
+      "category": "composition_mode",
+      "subject": "Mode de composition",
+      "options_considered": [
+        {
+          "option_id": "atelier",
+          "label": "Atelier (fait main)",
+          "score": 0.9,
+          "reason": "Pièce de marque, identité Calebasse"
+        },
+        {
+          "option_id": "templated",
+          "label": "Gabarits",
+          "score": 0.2,
+          "reason": "Rapide",
+          "rejected_because": "Rendu générique, pas de personnages ni de bannière"
+        }
+      ],
+      "selected": "atelier",
+      "reason": "Direction artistique propre à la campagne",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-proposal-music",
+      "stage": "proposal",
+      "category": "music_source",
+      "subject": "Musique",
+      "options_considered": [
+        {
+          "option_id": "none",
+          "label": "Aucune",
+          "score": 1.0,
+          "reason": "Choix utilisateur"
+        },
+        {
+          "option_id": "pixabay_music",
+          "label": "Pixabay Music",
+          "score": 0.5,
+          "reason": "Libre de droits",
+          "rejected_because": "Refusé par l'utilisateur"
+        },
+        {
+          "option_id": "synth",
+          "label": "Synthèse locale",
+          "score": 0.5,
+          "reason": "Gratuit",
+          "rejected_because": "Refusé par l'utilisateur"
+        }
+      ],
+      "selected": "none",
+      "reason": "Pas de musique demandée",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-proposal-voice",
+      "stage": "proposal",
+      "category": "voice_selection",
+      "subject": "Voix",
+      "options_considered": [
+        {
+          "option_id": "none",
+          "label": "Aucune voix",
+          "score": 1.0,
+          "reason": "Choix utilisateur"
+        },
+        {
+          "option_id": "user_recording",
+          "label": "Enregistrement de l'utilisateur",
+          "score": 0.5,
+          "reason": "Possible",
+          "rejected_because": "Refusé par l'utilisateur"
+        }
+      ],
+      "selected": "none",
+      "reason": "Pas de voix demandée",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-approval-policy-fullrun",
+      "stage": "proposal",
+      "category": "approval_policy",
+      "subject": "Validations des étapes restantes",
+      "options_considered": [
+        {
+          "option_id": "full_run",
+          "label": "D'une traite jusqu'aux 4 vidéos finales",
+          "score": 0.9,
+          "reason": "Plan déjà montré (scenes.md) et échantillon validé"
+        },
+        {
+          "option_id": "per_gate",
+          "label": "Étape par étape (script, plan, assets)",
+          "score": 0.6,
+          "reason": "Plus de contrôle",
+          "rejected_because": "Refusé par l'utilisateur"
+        }
+      ],
+      "selected": "full_run",
+      "reason": "Réponse utilisateur (2026-11-23) : « D'une traite » — script, scene_plan et assets pré-autorisés ; la publication reste soumise à validation des 4 vidéos finales.",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-sample-approved",
+      "stage": "proposal",
+      "category": "motion_commitment",
+      "subject": "Échantillon A-remotion",
+      "options_considered": [
+        {
+          "option_id": "approve",
+          "label": "Valider l'échantillon",
+          "score": 1.0,
+          "reason": "« c'est bon, poursuis avec les autres »"
+        }
+      ],
+      "selected": "approve",
+      "reason": "La direction artistique de l'échantillon s'applique aux 4 variantes",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-delivery-formats",
+      "stage": "compose",
+      "category": "delivery_formats",
+      "subject": "Déclinaisons de format A et C (HyperFrames)",
+      "options_considered": [
+        {
+          "option_id": "relayout",
+          "label": "Recadrage uniforme du cadre 9:16 + carton de fin recomposé par format",
+          "score": 0.9,
+          "reason": "Même animation et mêmes temps que le master validé ; rien n'est étiré ; fin lisible dans chaque format"
+        },
+        {
+          "option_id": "ffmpeg_pad_crop",
+          "label": "Recadrer / ajouter des bandes au MP4 9:16 avec FFmpeg",
+          "score": 0.3,
+          "reason": "Rapide mais 1200x628 et 1:1 deviendraient une petite vignette ou couperaient le carton de fin",
+          "rejected_because": "qualité insuffisante pour des formats publicitaires"
+        },
+        {
+          "option_id": "remotion",
+          "label": "Décliner les versions Remotion",
+          "score": 0.2,
+          "reason": "L'utilisateur a demandé explicitement les versions HyperFrames",
+          "rejected_because": "hors demande"
+        }
+      ],
+      "selected": "relayout",
+      "reason": "« prends juste la version A et C en hyperframe » — 1080x1080, 1080x1350, 1080x1920, 1200x628 ; musique ajoutée par l'utilisateur, rendus muets",
+      "user_visible": true,
+      "user_approved": true
+    }
+  ]
+}

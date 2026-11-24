@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-baume-rouge",
+  "pipeline_type": "animation",
+  "stage": "publish",
+  "status": "awaiting_human",
+  "timestamp": "2026-11-23T22:50:29.468748+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": false,
+  "artifacts": {
+    "publish_log": {
+      "version": "1.0",
+      "entries": [
+        {
+          "platform": "instagram_reels",
+          "status": "pending_review",
+          "export_path": "renders/calebasse_baume_rouge.mp4",
+          "timestamp": "2026-11-23T22:50:27.681479+00:00"
+        }
+      ],
+      "metadata": {
+        "animation_mode": "Remotion atelier",
+        "thumbnail_concept": "voir rapport",
+        "platform_notes": "Reels 9:16, muet"
+      }
+    }
+  }
+}

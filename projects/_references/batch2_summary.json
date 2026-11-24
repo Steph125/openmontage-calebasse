@@ -1,0 +1,194 @@
+{
+ "ref1": {
+  "ok": true,
+  "error": null,
+  "title": "SPOT PUBLICITAIRE SPECIAL DRINKS UCB",
+  "duration": 29.8,
+  "resolution": "736x414",
+  "uploader": "MEVA",
+  "description": "Check out this special drink advertisement from the Union Camerounaise de Brasseries. Get a taste of the delicious drinks they have to offer.",
+  "scenes": 17,
+  "motion": [
+   "motion_clip",
+   "static_image",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip"
+  ],
+  "keyframes": [
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0000.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0001.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0002.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0003.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0004.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0005.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0006.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0007.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0008.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0009.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0010.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0011.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0012.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0013.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0014.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref1-2iRiCFRDL\\keyframes\\frame_0015.jpg"
+  ],
+  "failed": [
+   "transcript_whisper: open() got an unexpected keyword argument 'metadata_errors'"
+  ]
+ },
+ "ref2": {
+  "ok": true,
+  "error": null,
+  "title": "3 things matter",
+  "duration": 33.467,
+  "resolution": "640x1136",
+  "uploader": "Solution Wagon",
+  "description": "29-Jul-2026 — : Who is your customer? Why should they choose you? What happens after they show interest?  Without this… ads don’t create growth. They create activity.  Clarity turns marketing into leverage.  #marketingstrategy #businessgrowth #leadgeneration #digitalmarketing #founders #entrepreneurmindset",
+  "scenes": 4,
+  "motion": [
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "static_image"
+  ],
+  "keyframes": [
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\keyframes\\frame_0000.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\keyframes\\frame_0001.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\keyframes\\frame_0002.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\keyframes\\frame_0003.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\keyframes\\frame_0004.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\keyframes\\frame_0005.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\keyframes\\frame_0006.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref2-4XmSh6mGp\\keyframes\\frame_0007.jpg"
+  ],
+  "failed": [
+   "transcript_whisper: open() got an unexpected keyword argument 'metadata_errors'"
+  ]
+ },
+ "ref3": {
+  "ok": true,
+  "error": null,
+  "title": "Skincare product video",
+  "duration": 11.6,
+  "resolution": "720x1280",
+  "uploader": "Anastasia Mikhaylova Предметный фотограф Санкт-Петербург",
+  "description": "15 сент. 2026 г. — Предметная видеосъемка для бренда Vivienne Sabo Skin❤️  #предметнаясъемка #предметнаявидеосъемка #предметныйфотограф #фотографспб #productvideo #beautyvideo | Съемка косметики, Косметика, Предметка",
+  "scenes": 9,
+  "motion": [
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "static_image",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "animated_still"
+  ],
+  "keyframes": [
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0000.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0001.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0002.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0003.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0004.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0005.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0006.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0007.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref3-1GukzHSpw\\keyframes\\frame_0008.jpg"
+  ],
+  "failed": [
+   "transcript_whisper: open() got an unexpected keyword argument 'metadata_errors'"
+  ]
+ },
+ "ref4": {
+  "ok": true,
+  "error": null,
+  "title": "АІ project",
+  "duration": 13.233,
+  "resolution": "720x1280",
+  "uploader": "an_zhilina",
+  "description": "24-Jun-2026 — Several rows of clear glass bottles with dropper caps, each containing a liquid product labeled \"Peptide Serum\" by Healthia. The central bottle is prominently displayed, highlighting its branding and volume of 30 ml. Cosmetics 3d, Cosmetics advertising, Adobe photoshop design",
+  "scenes": 0,
+  "motion": [],
+  "keyframes": [
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0001.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0002.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0003.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0004.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0005.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0006.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0007.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0008.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0009.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0010.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0011.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0012.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0013.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0014.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref4-59sJWLdvp\\keyframes\\frame_0015.jpg"
+  ],
+  "failed": [
+   "transcript_whisper: open() got an unexpected keyword argument 'metadata_errors'"
+  ]
+ },
+ "ref5": {
+  "ok": true,
+  "error": null,
+  "title": "AI UGC Sunscreen Ad | Premium Skincare Product Video",
+  "duration": 10.0,
+  "resolution": "720x1280",
+  "uploader": "AdNova AI",
+  "description": "20-Aug-2026 — A red and white cylindrical container labeled \"Red Moisture Cooling Sun Stick SPF 50+ PA++++\" by Medicube. The container is placed on a textured white surface, with a blue sky and some greenery in the background. Product advertisement video, Skincare ad, Skincare brand",
+  "scenes": 2,
+  "motion": [
+   "motion_clip",
+   "motion_clip"
+  ],
+  "keyframes": [
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref5-3cn23RezE\\keyframes\\frame_0000.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref5-3cn23RezE\\keyframes\\frame_0001.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref5-3cn23RezE\\keyframes\\frame_0002.jpg"
+  ],
+  "failed": [
+   "transcript_whisper: open() got an unexpected keyword argument 'metadata_errors'"
+  ]
+ },
+ "ref6": {
+  "ok": true,
+  "error": null,
+  "title": "Glow Starts Here 🌿 | A Relance Ritual Face Serum & Hydrophilic Oil",
+  "duration": 16.8,
+  "resolution": "720x1280",
+  "uploader": "Noah Ethan",
+  "description": "Looking for the perfect face serum that hydrates, cleanses, and gives your skin a natural glow? Discover the luxury of self-care with A Relance Ritual Face Serum and Hydrophilic Oil Cosmetic — a botanical-based formula designed to nourish, rejuvenate, and restore skin from within.\nPerfect for your morning or evening sk…",
+  "scenes": 5,
+  "motion": [
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "motion_clip",
+   "static_image"
+  ],
+  "keyframes": [
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\keyframes\\frame_0000.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\keyframes\\frame_0001.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\keyframes\\frame_0002.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\keyframes\\frame_0003.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\keyframes\\frame_0004.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\keyframes\\frame_0005.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\keyframes\\frame_0006.jpg",
+   "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\_references\\ref6-11ASPTq0T\\keyframes\\frame_0007.jpg"
+  ],
+  "failed": [
+   "transcript_whisper: open() got an unexpected keyword argument 'metadata_errors'"
+  ]
+ }
+}

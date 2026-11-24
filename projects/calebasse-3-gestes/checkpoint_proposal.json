@@ -1,0 +1,285 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-3-gestes",
+  "pipeline_type": "animation",
+  "stage": "proposal",
+  "status": "completed",
+  "timestamp": "2026-11-23T21:24:00.983592+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "proposal_packet": {
+      "version": "1.0",
+      "concept_options": [
+        {
+          "id": "main",
+          "title": "Calebasse \u2014 De la plante au flacon (3 choses comptent)",
+          "hook": "\u00ab Une plante, trois choses comptent \u00bb : la loupe r\u00e9v\u00e8le LA SOURCE (terroirs d'origine), LE GESTE (pr\u00e9parations traditionnelles), LE CONTR\u00d4LE (identifier, contr\u00f4ler, tracer) \u2014 tir\u00e9s mot pour mot de la ",
+          "narrative_structure": "story",
+          "visual_approach": "\u00ab Une plante, trois choses comptent \u00bb : la loupe r\u00e9v\u00e8le LA SOURCE (terroirs d'origine), LE GESTE (pr\u00e9parations traditionnelles), LE CONTR\u00d4LE (identifier, contr\u00f4ler, tracer) \u2014 tir\u00e9s mot pour mot de la page Laboratoire. Fil rouge : une tranche de racine d'astragale (photo du site) en monochrome, la balance s'\u00e9quilibre, transition vert for\u00eat, carton logo + \u00ab Fabriqu\u00e9 en France \u00bb.",
+          "target_platform": "instagram",
+          "target_duration_seconds": 24,
+          "key_points": [
+            "papier quadrill\u00e9 monochrome",
+            "loupe r\u00e9v\u00e9latrice",
+            "mise au point flou \u2192 net",
+            "balance physique minimaliste",
+            "carton sombre + logo"
+          ],
+          "why_this_works": "L'astragale est le best-seller du catalogue (4,8\u2605, 106 avis) ; le format \u00ab 3 choses \u00bb colle exactement aux trois \u00e9tapes \u00ab Remonter \u00e0 la source, respecter les gestes, contr\u00f4ler chaque \u00e9tape \u00bb.",
+          "grounded_in": [
+            "https://pin.it/4XmSh6mGp",
+            "https://calebasse.com/produits/huang-qi-sheng-astragale-4498"
+          ]
+        },
+        {
+          "id": "alt1",
+          "title": "Variante produit : Jujube Fruit entier bio",
+          "hook": "M\u00eame grammaire, produit Jujube Fruit entier bio",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Jujube Fruit entier bio - Da zao",
+          "target_platform": "instagram",
+          "target_duration_seconds": 24,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 4.8\u2605 (129 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/da-zao-fruits-de-jujube-3755"
+          ]
+        },
+        {
+          "id": "alt2",
+          "title": "Variante produit : Baies de Goji premium",
+          "hook": "M\u00eame grammaire, produit Baies de Goji premium",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Baies de Goji premium \u2013 le goji rouge, fruit de la jeunesse \u00e9ternelle",
+          "target_platform": "instagram",
+          "target_duration_seconds": 24,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 4.9\u2605 (98 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/gou-qi-zi-baies-de-goji-3832"
+          ]
+        }
+      ],
+      "selected_concept": {
+        "concept_id": "main",
+        "rationale": "Valid\u00e9 par l'utilisateur (produit et concept principal).",
+        "modifications": [
+          "Garde : papier quadrill\u00e9 monochrome, loupe r\u00e9v\u00e9latrice, mise au point flou \u2192 net, balance physique minimaliste, carton sombre + logo",
+          "Change : contenu = la d\u00e9marche qualit\u00e9 Calebasse (faits de la page Laboratoire), noir \u2192 vert for\u00eat de la marque, produit fil rouge : Racine d'astragale"
+        ]
+      },
+      "production_plan": {
+        "pipeline": "animation",
+        "renderer_family": "product-reveal",
+        "composition_mode": "atelier",
+        "delivery_promise": {
+          "promise_type": "motion_led",
+          "motion_required": true,
+          "tone_mode": "premium_product_ad",
+          "quality_floor": "broadcast",
+          "approved_fallback": null
+        },
+        "stages": [
+          {
+            "stage": "assets",
+            "tools": [
+              {
+                "tool_name": "image_selector",
+                "role": "photos produit (galerie Cloudinary du site) + images libres d'ingr\u00e9dients/d\u00e9cors si besoin",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "vraies photos produit d\u00e9tour\u00e9es"
+          },
+          {
+            "stage": "compose",
+            "tools": [
+              {
+                "tool_name": "video_compose",
+                "role": "rendu Remotion atelier 1080x1920",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "Remotion (choix utilisateur)"
+          }
+        ],
+        "render_runtime": "remotion",
+        "music_source": {
+          "source_type": "none",
+          "mood_direction": "muet (choix utilisateur)",
+          "estimated_cost_usd": 0.0
+        },
+        "voice_selection": {
+          "provider": "none",
+          "rationale": "muet (choix utilisateur)",
+          "estimated_cost_usd": 0.0
+        },
+        "decision_log_ref": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-3-gestes\\decision_log.json"
+      },
+      "cost_estimate": {
+        "total_estimated_usd": 0.0,
+        "line_items": [
+          {
+            "tool": "video_compose",
+            "operation": "rendu local",
+            "estimated_usd": 0.0
+          }
+        ],
+        "budget_verdict": "within_budget"
+      },
+      "approval": {
+        "status": "approved",
+        "user_notes": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+        "approved_budget_usd": 0.0
+      }
+    },
+    "decision_log": {
+      "version": "1.0",
+      "project_id": "calebasse-3-gestes",
+      "decisions": [
+        {
+          "decision_id": "d-runtime",
+          "stage": "proposal",
+          "category": "render_runtime_selection",
+          "subject": "Moteur de rendu",
+          "options_considered": [
+            {
+              "option_id": "remotion",
+              "label": "Remotion",
+              "score": 0.9,
+              "reason": "Choix utilisateur \u00ab on va partir sur remotion pour le moment \u00bb"
+            },
+            {
+              "option_id": "hyperframes",
+              "label": "HyperFrames",
+              "score": 0.6,
+              "reason": "Disponible",
+              "rejected_because": "Utilisateur : Remotion pour le moment"
+            }
+          ],
+          "selected": "remotion",
+          "reason": "Choix utilisateur",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-mode",
+          "stage": "proposal",
+          "category": "composition_mode",
+          "subject": "Mode de composition",
+          "options_considered": [
+            {
+              "option_id": "atelier",
+              "label": "Atelier",
+              "score": 0.9,
+              "reason": "Pub de marque soign\u00e9e"
+            },
+            {
+              "option_id": "templated",
+              "label": "Gabarits",
+              "score": 0.2,
+              "reason": "Rapide",
+              "rejected_because": "Rendu g\u00e9n\u00e9rique"
+            }
+          ],
+          "selected": "atelier",
+          "reason": "\u00ab le plus soign\u00e9 possible \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-music",
+          "stage": "proposal",
+          "category": "music_source",
+          "subject": "Musique",
+          "options_considered": [
+            {
+              "option_id": "none",
+              "label": "Muet",
+              "score": 1.0,
+              "reason": "Choix utilisateur"
+            },
+            {
+              "option_id": "pixabay_music",
+              "label": "Pixabay Music",
+              "score": 0.5,
+              "reason": "Libre de droits",
+              "rejected_because": "Utilisateur : muet"
+            }
+          ],
+          "selected": "none",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-concept",
+          "stage": "proposal",
+          "category": "concept_selection",
+          "subject": "Produit et concept",
+          "options_considered": [
+            {
+              "option_id": "main",
+              "label": "Calebasse \u2014 De la plante au flacon (3 choses comptent)",
+              "score": 0.9,
+              "reason": "L'astragale est le best-seller du catalogue (4,8\u2605, 106 avis) ; le format \u00ab 3 choses \u00bb colle exactement aux trois \u00e9tapes \u00ab Remonter \u00e0 la source, respecter les gestes, contr\u00f4ler chaque \u00e9tape \u00bb."
+            },
+            {
+              "option_id": "alt1",
+              "label": "Variante produit : Jujube Fruit entier bio",
+              "score": 0.6,
+              "reason": "Alternative \u00e9tudi\u00e9e \u2014 4.8\u2605 (129 avis)",
+              "rejected_because": "Produit principal valid\u00e9"
+            },
+            {
+              "option_id": "alt2",
+              "label": "Variante produit : Baies de Goji premium",
+              "score": 0.6,
+              "reason": "Alternative \u00e9tudi\u00e9e \u2014 4.9\u2605 (98 avis)",
+              "rejected_because": "Produit principal valid\u00e9"
+            }
+          ],
+          "selected": "main",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-approval-policy",
+          "stage": "proposal",
+          "category": "approval_policy",
+          "subject": "Validations des \u00e9tapes restantes",
+          "options_considered": [
+            {
+              "option_id": "full_run",
+              "label": "D'une traite",
+              "score": 0.9,
+              "reason": "Choix utilisateur"
+            },
+            {
+              "option_id": "per_gate",
+              "label": "\u00c9tape par \u00e9tape",
+              "score": 0.5,
+              "reason": "Plus de contr\u00f4le",
+              "rejected_because": "Utilisateur : d'une traite"
+            }
+          ],
+          "selected": "full_run",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb \u2014 script, scene_plan, assets et \u00e9chantillon pr\u00e9-autoris\u00e9s ; la publication reste soumise \u00e0 validation des vid\u00e9os finales.",
+          "user_visible": true,
+          "user_approved": true
+        }
+      ]
+    }
+  }
+}

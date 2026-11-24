@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-fleurs-gamme",
+  "pipeline_type": "animation",
+  "stage": "script",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:23.758994+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "script": {
+      "version": "1.0",
+      "title": "calebasse-fleurs-gamme",
+      "total_duration_seconds": 20.0,
+      "sections": [
+        {
+          "id": "B1",
+          "text": "colour curtains open on the rose macro",
+          "start_seconds": 0.0,
+          "end_seconds": 0.6
+        },
+        {
+          "id": "B2",
+          "text": "Rose: macro + kinetic word \u2192 bag hero, real buds bursting, seal, name",
+          "start_seconds": 0.6,
+          "end_seconds": 4.333333333333333
+        },
+        {
+          "id": "B3",
+          "text": "Osmanthus: fresh-flower macro \u2192 bag, drawn golden florets",
+          "start_seconds": 4.333333333333333,
+          "end_seconds": 8.066666666666666
+        },
+        {
+          "id": "B4",
+          "text": "Camomille: macro \u2192 bag, drawn pompons",
+          "start_seconds": 8.066666666666666,
+          "end_seconds": 11.8
+        },
+        {
+          "id": "B5",
+          "text": "Jasmin: sambac macro \u2192 bag, real jasmine blooms + petals",
+          "start_seconds": 11.8,
+          "end_seconds": 15.533333333333333
+        },
+        {
+          "id": "B6",
+          "text": "Finale on forest: four arches, four bags, \u00ab Nos fleurs \u00e0 infuser \u00bb, logo, calebasse.com",
+          "start_seconds": 15.533333333333333,
+          "end_seconds": 20.0
+        }
+      ],
+      "metadata": {
+        "narration": "none (muet)",
+        "on_screen_text": "see Scene.tsx; no health claims"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy (\u00ab d'une traite \u00bb)"
+  }
+}

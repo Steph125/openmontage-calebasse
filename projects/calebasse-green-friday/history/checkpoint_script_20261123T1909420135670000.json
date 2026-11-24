@@ -1,0 +1,144 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-green-friday",
+  "pipeline_type": "animation",
+  "stage": "script",
+  "status": "completed",
+  "timestamp": "2026-11-23T19:09:42.013567+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "script": {
+      "version": "1.0",
+      "title": "Calebasse \u2014 Green Friday (A : Le chantier \u00b7 C : La vitrine)",
+      "total_duration_seconds": 12.0,
+      "sections": [
+        {
+          "id": "A1",
+          "text": "BLACK FRIDAY (banni\u00e8re noire) \u00b7 calebasse.com visible en haut du t\u00e9l\u00e9phone",
+          "start_seconds": 0.0,
+          "end_seconds": 0.8
+        },
+        {
+          "id": "A2",
+          "text": "Le rouleau barre \u00ab BLACK \u00bb d'un trait vert anis \u00e0 \u22127\u00b0",
+          "start_seconds": 0.8,
+          "end_seconds": 3.3
+        },
+        {
+          "id": "A3",
+          "text": "\u00ab GREEN \u00bb peint au-dessus, lettre par lettre",
+          "start_seconds": 3.3,
+          "end_seconds": 5.8
+        },
+        {
+          "id": "A4",
+          "text": "Signe de t\u00eate, la banni\u00e8re se soul\u00e8ve (anticipation)",
+          "start_seconds": 5.8,
+          "end_seconds": 6.7
+        },
+        {
+          "id": "A5",
+          "text": "La banni\u00e8re tombe \u2014 la page Green Friday appara\u00eet : Black barr\u00e9 \u2192 Green, \u00ab Jusqu'\u00e0 -70 % \u00bb, \u00ab sur une s\u00e9lection* \u00bb, \u00ab Du 20 au 30 novembre \u00bb",
+          "start_seconds": 6.7,
+          "end_seconds": 8.2
+        },
+        {
+          "id": "A6",
+          "text": "D\u00e9filement : \u00ab Nos incontournables \u00bb \u2014 Jujube bio -10 % 11,90 \u20ac \u2192 10,71 \u20ac \u00b7 Peau de mandarine -10 % 9,70 \u20ac \u2192 8,73 \u20ac \u00b7 Coffret Voyage en Chine -25 % 83,50 \u20ac \u2192 62,62 \u20ac \u00b7 Baies de goji premium -20 % 23,80 \u20ac \u2192 19,04 \u20ac",
+          "start_seconds": 8.2,
+          "end_seconds": 10.1
+        },
+        {
+          "id": "A7",
+          "text": "On range le Black Friday : le tas noir sort de l'image",
+          "start_seconds": 9.5,
+          "end_seconds": 10.8
+        },
+        {
+          "id": "A8",
+          "text": "Logo Calebasse \u00b7 \u00ab Green Friday \u00b7 du 20 au 30 novembre \u00bb \u00b7 calebasse.com \u00b7 *Jusqu'\u00e0 -70 % sur une s\u00e9lection de mat\u00e9riel MTC, dans la limite des stocks.",
+          "start_seconds": 10.8,
+          "end_seconds": 12.0
+        },
+        {
+          "id": "C1",
+          "text": "Page Green Friday, vitrine vide (cases en pointill\u00e9s) : \u00ab Jusqu'\u00e0 -70 % \u00bb, \u00ab Du 20 au 30 novembre \u00bb",
+          "start_seconds": 0.0,
+          "end_seconds": 1.0
+        },
+        {
+          "id": "C2",
+          "text": "Premier carreau pos\u00e9 : Jujube bio -10 % 11,90 \u20ac \u2192 10,71 \u20ac",
+          "start_seconds": 1.0,
+          "end_seconds": 4.0
+        },
+        {
+          "id": "C3",
+          "text": "Relais : Peau de mandarine -10 % \u00b7 Coffret Voyage en Chine -25 % \u00b7 Baies de goji premium -20 % \u00b7 Coffret D\u00e9couverte de la MTC -25 % 88,90 \u20ac \u2192 66,67 \u20ac \u00b7 Coffret Beaut\u00e9 \u00e0 la Chinoise -20 % 68,98 \u20ac \u2192 55,18 \u20ac",
+          "start_seconds": 4.0,
+          "end_seconds": 8.7
+        },
+        {
+          "id": "C4",
+          "text": "Vitrine compl\u00e8te ; \u00ab Black \u00bb barr\u00e9, \u00ab Green \u00bb pos\u00e9 dans l'en-t\u00eate",
+          "start_seconds": 8.7,
+          "end_seconds": 10.7
+        },
+        {
+          "id": "C5",
+          "text": "Coup de chiffon sur l'\u00e9cran, tape-m'en cinq",
+          "start_seconds": 10.7,
+          "end_seconds": 13.0
+        },
+        {
+          "id": "C6",
+          "text": "Logo Calebasse \u00b7 \u00ab Green Friday \u00b7 du 20 au 30 novembre \u00bb \u00b7 calebasse.com \u00b7 mention *",
+          "start_seconds": 13.0,
+          "end_seconds": 15.0
+        }
+      ],
+      "metadata": {
+        "narration": "none (user decision) \u2014 sections are on-screen text / visual beats",
+        "timelines": {
+          "A": {
+            "duration_s": 12.0,
+            "sections": [
+              "A1",
+              "A2",
+              "A3",
+              "A4",
+              "A5",
+              "A6",
+              "A7",
+              "A8"
+            ]
+          },
+          "C": {
+            "duration_s": 15.0,
+            "sections": [
+              "C1",
+              "C2",
+              "C3",
+              "C4",
+              "C5",
+              "C6"
+            ]
+          }
+        },
+        "hold_time_seconds": {
+          "A5": 1.4,
+          "A6": 1.2,
+          "A8": 1.2,
+          "C4": 1.5,
+          "C6": 2.0
+        },
+        "fact_check": "prix et remises copi\u00e9s de artifacts/products.json (v\u00e9rifi\u00e9s carte par carte le 2026-11-23)"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy-fullrun"
+  }
+}

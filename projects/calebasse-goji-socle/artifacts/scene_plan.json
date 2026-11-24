@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "style_playbook": "custom",
+  "scenes": [
+    {
+      "id": "B1",
+      "type": "animation",
+      "script_section_id": "B1",
+      "description": "bag on the plinth under the sky — « Ningxia 37°N · Le berceau du goji »",
+      "start_seconds": 0.0,
+      "end_seconds": 3.7333333333333334,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    },
+    {
+      "id": "B2",
+      "type": "animation",
+      "script_section_id": "B2",
+      "description": "berries macro — « Classe premium · Première récolte »",
+      "start_seconds": 3.7333333333333334,
+      "end_seconds": 6.4,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    },
+    {
+      "id": "B3",
+      "type": "animation",
+      "script_section_id": "B3",
+      "description": "a hand presents the bag — « Du soleil, à portée de main. »",
+      "start_seconds": 6.4,
+      "end_seconds": 8.733333333333333,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    },
+    {
+      "id": "B4",
+      "type": "animation",
+      "script_section_id": "B4",
+      "description": "end card on the plinth face",
+      "start_seconds": 8.733333333333333,
+      "end_seconds": 10.0,
+      "framing": "plein cadre 9:16",
+      "movement": "voir scenes.md",
+      "overlay_notes": "textes à l'écran sans allégation",
+      "shot_language": {
+        "shot_size": "medium",
+        "camera_movement": "static"
+      }
+    }
+  ],
+  "metadata": {
+    "beats": "scenes.md",
+    "art_direction": "art-direction.md"
+  }
+}

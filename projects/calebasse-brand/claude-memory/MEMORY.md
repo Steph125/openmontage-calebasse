@@ -1,0 +1,4 @@
+- [Série shorts MTC](project-mtc-shorts.md) — French TCM shorts, 20–40/mois, motion design généré, pas de diaporama, voix = enregistrements perso, séries Backlot
+- [Workflow pubs Calebasse → futur système d'agents](project-calebasse-ad-workflow.md) — spec dans projects/calebasse-brand/AD_WORKFLOW.md, Remotion, meilleur produit du catalogue par vidéo
+- [Transfert vers nouveau PC via GitHub privé](project-transfer-github.md) — Steph125/openmontage-calebasse, projects/ suivi, upstream = calesthio, .venv Python, sauvegarder par git push
+- [Pièges de rendu sur ce PC](reference-render-env-quirks.md) — OneDrive casse le public/ de Remotion (copier dans %TEMP%), `hyperframes doctor` > 20 s fait croire HF indisponible

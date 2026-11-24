@@ -1,0 +1,133 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-ginseng-allee",
+  "pipeline_type": "animation",
+  "stage": "proposal",
+  "status": "awaiting_human",
+  "timestamp": "2026-11-23T21:17:07.916488+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": false,
+  "artifacts": {
+    "proposal_packet": {
+      "version": "1.0",
+      "concept_options": [
+        {
+          "id": "main",
+          "title": "Calebasse \u2014 Racine de Ginseng (l'all\u00e9e)",
+          "hook": "Une all\u00e9e infinie de pots de ginseng en vert for\u00eat : travelling avant continu, flou de profondeur, la mise au point se pose sur le pot central, contre-plong\u00e9e sur \u00ab Racine de Ginseng \u00b7 \u4eba\u53c2 \u00bb, brume cha",
+          "narrative_structure": "story",
+          "visual_approach": "Une all\u00e9e infinie de pots de ginseng en vert for\u00eat : travelling avant continu, flou de profondeur, la mise au point se pose sur le pot central, contre-plong\u00e9e sur \u00ab Racine de Ginseng \u00b7 \u4eba\u53c2 \u00bb, brume chaude qui monte, puis la macro des tranches de racine et le surnom \u00ab Le roi des herbes \u00bb.",
+          "target_platform": "instagram",
+          "target_duration_seconds": 13,
+          "key_points": [
+            "couloir de produits identiques",
+            "mise au point sur le h\u00e9ros",
+            "brume",
+            "plan continu",
+            "cama\u00efeu vert"
+          ],
+          "why_this_works": "Le packshot officiel montre d\u00e9j\u00e0 3 pots align\u00e9s \u00e0 \u00e9tiquette vert for\u00eat (4,7\u2605, 45 avis) : la r\u00e9p\u00e9tition du couloir est native au produit.",
+          "grounded_in": [
+            "https://pin.it/59sJWLdvp",
+            "https://calebasse.com/produits/ren-shen-racine-de-ginseng-4679"
+          ]
+        },
+        {
+          "id": "alt1",
+          "title": "Variante produit : Cordyceps",
+          "hook": "M\u00eame grammaire, produit Cordyceps",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Cordyceps - Dong chong xia cao",
+          "target_platform": "instagram",
+          "target_duration_seconds": 13,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 4.6\u2605 (10 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/dong-chong-xia-cao-cordyceps-4422"
+          ]
+        },
+        {
+          "id": "alt2",
+          "title": "Variante produit : Reishi Extrait BIO",
+          "hook": "M\u00eame grammaire, produit Reishi Extrait BIO",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Reishi Extrait BIO - S\u00e9r\u00e9nit\u00e9 & long\u00e9vit\u00e9",
+          "target_platform": "instagram",
+          "target_duration_seconds": 13,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 5\u2605 (1 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/reishi-extrait-bio-serenite-and-longevite-5304"
+          ]
+        }
+      ],
+      "selected_concept": {
+        "concept_id": "main",
+        "rationale": "Proposition principale (en attente de validation)",
+        "modifications": [
+          "Garde : couloir de produits identiques, mise au point sur le h\u00e9ros, brume, plan continu, cama\u00efeu vert",
+          "Change : s\u00e9rum \u2192 pots de racine (l'\u00e9tiquette verte de la marque), ajout d'un plan macro des tranches de racine, surnom traditionnel en signature"
+        ]
+      },
+      "production_plan": {
+        "pipeline": "animation",
+        "renderer_family": "product-reveal",
+        "composition_mode": "atelier",
+        "delivery_promise": {
+          "promise_type": "motion_led",
+          "motion_required": true,
+          "tone_mode": "premium_product_ad",
+          "quality_floor": "broadcast",
+          "approved_fallback": null
+        },
+        "stages": [
+          {
+            "stage": "assets",
+            "tools": [
+              {
+                "tool_name": "image_selector",
+                "role": "photos produit (galerie Cloudinary du site) + images libres d'ingr\u00e9dients/d\u00e9cors si besoin",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "vraies photos produit d\u00e9tour\u00e9es"
+          },
+          {
+            "stage": "compose",
+            "tools": [
+              {
+                "tool_name": "video_compose",
+                "role": "rendu Remotion atelier 1080x1920",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "Remotion (choix utilisateur)"
+          }
+        ]
+      },
+      "cost_estimate": {
+        "total_estimated_usd": 0.0,
+        "line_items": [
+          {
+            "tool": "video_compose",
+            "operation": "rendu local",
+            "estimated_usd": 0.0
+          }
+        ],
+        "budget_verdict": "within_budget"
+      },
+      "approval": {
+        "status": "pending"
+      }
+    }
+  }
+}

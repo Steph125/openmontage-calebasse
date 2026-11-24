@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-ginseng-allee",
+  "pipeline_type": "animation",
+  "stage": "assets",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:30.438985+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "asset_manifest": {
+      "version": "1.0",
+      "assets": [
+        {
+          "id": "bowl_ginseng",
+          "type": "image",
+          "path": "public/img/bowl_ginseng.png",
+          "source_tool": "bg_remove/crop/web_download",
+          "scene_id": "B1",
+          "cost_usd": 0.0
+        },
+        {
+          "id": "jar_ginseng",
+          "type": "image",
+          "path": "public/img/jar_ginseng.png",
+          "source_tool": "bg_remove/crop/web_download",
+          "scene_id": "B1",
+          "cost_usd": 0.0
+        },
+        {
+          "id": "slices_water",
+          "type": "image",
+          "path": "public/img/slices_water.jpg",
+          "source_tool": "bg_remove/crop/web_download",
+          "scene_id": "B1",
+          "cost_usd": 0.0
+        },
+        {
+          "id": "smoke",
+          "type": "video",
+          "path": "public/video/smoke.mp4",
+          "source_tool": "pexels_video",
+          "scene_id": "B1",
+          "cost_usd": 0.0,
+          "license": "Pexels License"
+        },
+        {
+          "id": "comp",
+          "type": "animation",
+          "path": "Scene.tsx",
+          "source_tool": "hand_authored_atelier",
+          "scene_id": "B1",
+          "cost_usd": 0.0
+        }
+      ],
+      "total_cost_usd": 0.0,
+      "metadata": {
+        "sources": "assets/source/sources.json + pexels_credits.json",
+        "prep": "projects/calebasse-brand/catalog/prep_log_batch2.json"
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy (\u00ab d'une traite \u00bb)"
+  }
+}

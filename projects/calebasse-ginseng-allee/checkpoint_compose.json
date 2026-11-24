@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-ginseng-allee",
+  "pipeline_type": "animation",
+  "stage": "compose",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:31.248055+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": false,
+  "human_approved": false,
+  "artifacts": {
+    "render_report": {
+      "version": "1.0",
+      "outputs": [
+        {
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "aac",
+          "resolution": "1080x1920",
+          "fps": 30.0,
+          "duration_seconds": 13.056,
+          "file_size_bytes": 10176643,
+          "platform_target": "instagram_reels",
+          "path": "renders/calebasse_ginseng_allee.mp4"
+        }
+      ],
+      "render_grammar": "product-reveal",
+      "warnings": [
+        "Vid\u00e9o muette (choix utilisateur)"
+      ],
+      "verification_notes": [
+        "ffprobe OK",
+        "planche d'images extraites du MP4 relue",
+        "textes sans all\u00e9gation sant\u00e9"
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "render_runtime": "remotion",
+  "composition_mode": "atelier",
+  "renderer_family": "product-reveal",
+  "cuts": [
+    {
+      "id": "A-oneshot",
+      "source": "bespoke:GreenFridayA",
+      "in_seconds": 0,
+      "out_seconds": 12,
+      "reason": "single locked shot, no cuts (concept A)"
+    }
+  ],
+  "bespoke": {
+    "entry": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-green-friday\\index.tsx",
+    "composition_id": "GreenFridayA",
+    "art_direction": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-green-friday\\art-direction.md"
+  },
+  "metadata": {
+    "variants": [
+      {
+        "variant": "A-remotion",
+        "render_runtime": "remotion",
+        "entry": "index.tsx",
+        "composition_id": "GreenFridayA",
+        "duration_s": 12
+      },
+      {
+        "variant": "C-remotion",
+        "render_runtime": "remotion",
+        "entry": "index.tsx",
+        "composition_id": "GreenFridayC",
+        "duration_s": 15
+      },
+      {
+        "variant": "A-hyperframes",
+        "render_runtime": "hyperframes",
+        "workspace": "hf-a",
+        "composition_id": "gf-a",
+        "duration_s": 12
+      },
+      {
+        "variant": "C-hyperframes",
+        "render_runtime": "hyperframes",
+        "workspace": "hf-c",
+        "composition_id": "gf-c",
+        "duration_s": 15
+      }
+    ],
+    "hold_windows": {
+      "A": [
+        "8.2–10.1 s page produits",
+        "10.8–12 s carton"
+      ],
+      "C": [
+        "8.7–10.7 s vitrine complète",
+        "13–15 s carton"
+      ]
+    },
+    "stagger_rules": "pastilles de remise en cascade de 6 images (A) / à chaque emboîtement (C) ; prix barrés 10–12 images après",
+    "transition_map": "aucune coupe : un plan fixe par concept",
+    "runtime_parity": "même direction artistique, mêmes temps forts, mêmes personnages (pas de 2) ; seul l'interpolage des mouvements fluides diffère (ressorts/courbes Remotion vs ease GSAP : power1.in pour la gravité, elastic.out pour les rebonds, back.out pour les pastilles)",
+    "audio": "aucune piste (choix utilisateur) — Remotion écrit une piste AAC muette, HyperFrames aucune piste",
+    "contrast_fix": "pastilles #BF4E39 et anciens prix #5E6B64 (WCAG AA) appliqués aux 4 variantes"
+  }
+}

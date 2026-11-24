@@ -1,0 +1,34 @@
+{
+  "scenes": [
+    {
+      "index": 0,
+      "start_seconds": 0.0,
+      "end_seconds": 2.233,
+      "duration_seconds": 2.233
+    },
+    {
+      "index": 1,
+      "start_seconds": 2.233,
+      "end_seconds": 5.6,
+      "duration_seconds": 3.367
+    },
+    {
+      "index": 2,
+      "start_seconds": 5.6,
+      "end_seconds": 9.067,
+      "duration_seconds": 3.467
+    },
+    {
+      "index": 3,
+      "start_seconds": 9.067,
+      "end_seconds": 15.4,
+      "duration_seconds": 6.333
+    },
+    {
+      "index": 4,
+      "start_seconds": 15.4,
+      "end_seconds": 16.8,
+      "duration_seconds": 1.4
+    }
+  ]
+}

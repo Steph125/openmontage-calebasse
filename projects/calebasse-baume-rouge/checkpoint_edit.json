@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-baume-rouge",
+  "pipeline_type": "animation",
+  "stage": "edit",
+  "status": "completed",
+  "timestamp": "2026-11-23T22:50:28.695717+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": false,
+  "human_approved": false,
+  "artifacts": {
+    "edit_decisions": {
+      "version": "1.0",
+      "render_runtime": "remotion",
+      "composition_mode": "atelier",
+      "renderer_family": "product-reveal",
+      "cuts": [
+        {
+          "id": "all",
+          "source": "bespoke:BaumeRouge",
+          "in_seconds": 0,
+          "out_seconds": 12.0,
+          "reason": "composition atelier unique"
+        }
+      ],
+      "bespoke": {
+        "entry": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-baume-rouge\\index.tsx",
+        "composition_id": "BaumeRouge",
+        "art_direction": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-baume-rouge\\art-direction.md"
+      },
+      "metadata": {
+        "audio": "muet (choix utilisateur)"
+      }
+    }
+  }
+}

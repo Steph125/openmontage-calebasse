@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-green-friday",
+  "pipeline_type": "animation",
+  "stage": "edit",
+  "status": "completed",
+  "timestamp": "2026-11-23T20:29:49.527908+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": false,
+  "human_approved": false,
+  "artifacts": {
+    "edit_decisions": {
+      "version": "1.0",
+      "render_runtime": "remotion",
+      "composition_mode": "atelier",
+      "renderer_family": "product-reveal",
+      "cuts": [
+        {
+          "id": "A-oneshot",
+          "source": "bespoke:GreenFridayA",
+          "in_seconds": 0,
+          "out_seconds": 12,
+          "reason": "single locked shot, no cuts (concept A)"
+        }
+      ],
+      "bespoke": {
+        "entry": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-green-friday\\index.tsx",
+        "composition_id": "GreenFridayA",
+        "art_direction": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-green-friday\\art-direction.md"
+      },
+      "metadata": {
+        "variants": [
+          {
+            "variant": "A-remotion",
+            "render_runtime": "remotion",
+            "entry": "index.tsx",
+            "composition_id": "GreenFridayA",
+            "duration_s": 12
+          },
+          {
+            "variant": "C-remotion",
+            "render_runtime": "remotion",
+            "entry": "index.tsx",
+            "composition_id": "GreenFridayC",
+            "duration_s": 15
+          },
+          {
+            "variant": "A-hyperframes",
+            "render_runtime": "hyperframes",
+            "workspace": "hf-a",
+            "composition_id": "gf-a",
+            "duration_s": 12
+          },
+          {
+            "variant": "C-hyperframes",
+            "render_runtime": "hyperframes",
+            "workspace": "hf-c",
+            "composition_id": "gf-c",
+            "duration_s": 15
+          }
+        ],
+        "hold_windows": {
+          "A": [
+            "8.2\u201310.1 s page produits",
+            "10.8\u201312 s carton"
+          ],
+          "C": [
+            "8.7\u201310.7 s vitrine compl\u00e8te",
+            "13\u201315 s carton"
+          ]
+        },
+        "stagger_rules": "pastilles de remise en cascade de 6 images (A) / \u00e0 chaque embo\u00eetement (C) ; prix barr\u00e9s 10\u201312 images apr\u00e8s",
+        "transition_map": "aucune coupe : un plan fixe par concept",
+        "runtime_parity": "m\u00eame direction artistique, m\u00eames temps forts, m\u00eames personnages (pas de 2) ; seul l'interpolage des mouvements fluides diff\u00e8re (ressorts/courbes Remotion vs ease GSAP : power1.in pour la gravit\u00e9, elastic.out pour les rebonds, back.out pour les pastilles)",
+        "audio": "aucune piste (choix utilisateur) \u2014 Remotion \u00e9crit une piste AAC muette, HyperFrames aucune piste",
+        "contrast_fix": "pastilles #BF4E39 et anciens prix #5E6B64 (WCAG AA) appliqu\u00e9s aux 4 variantes"
+      }
+    }
+  }
+}

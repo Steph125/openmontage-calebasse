@@ -1,0 +1,138 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-fleurs-gamme",
+  "decisions": [
+    {
+      "decision_id": "d-runtime",
+      "stage": "proposal",
+      "category": "render_runtime_selection",
+      "subject": "Moteur de rendu",
+      "options_considered": [
+        {
+          "option_id": "remotion",
+          "label": "Remotion",
+          "score": 0.9,
+          "reason": "Choix utilisateur \u00ab on va partir sur remotion pour le moment \u00bb"
+        },
+        {
+          "option_id": "hyperframes",
+          "label": "HyperFrames",
+          "score": 0.6,
+          "reason": "Disponible",
+          "rejected_because": "Utilisateur : Remotion pour le moment"
+        }
+      ],
+      "selected": "remotion",
+      "reason": "Choix utilisateur",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-mode",
+      "stage": "proposal",
+      "category": "composition_mode",
+      "subject": "Mode de composition",
+      "options_considered": [
+        {
+          "option_id": "atelier",
+          "label": "Atelier",
+          "score": 0.9,
+          "reason": "Pub de marque soign\u00e9e"
+        },
+        {
+          "option_id": "templated",
+          "label": "Gabarits",
+          "score": 0.2,
+          "reason": "Rapide",
+          "rejected_because": "Rendu g\u00e9n\u00e9rique"
+        }
+      ],
+      "selected": "atelier",
+      "reason": "\u00ab le plus soign\u00e9 possible \u00bb",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-music",
+      "stage": "proposal",
+      "category": "music_source",
+      "subject": "Musique",
+      "options_considered": [
+        {
+          "option_id": "none",
+          "label": "Muet",
+          "score": 1.0,
+          "reason": "Choix utilisateur"
+        },
+        {
+          "option_id": "pixabay_music",
+          "label": "Pixabay Music",
+          "score": 0.5,
+          "reason": "Libre de droits",
+          "rejected_because": "Utilisateur : muet"
+        }
+      ],
+      "selected": "none",
+      "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-concept",
+      "stage": "proposal",
+      "category": "concept_selection",
+      "subject": "Produit et concept",
+      "options_considered": [
+        {
+          "option_id": "main",
+          "label": "Calebasse \u2014 Fleurs \u00e0 infuser (la gamme)",
+          "score": 0.9,
+          "reason": "Les 4 fleurs les mieux not\u00e9es du catalogue (4,9\u2605, 15 \u00e0 27 avis), m\u00eame sachet kraft = vraie \u00ab gamme \u00bb, chacune a une couleur forte."
+        },
+        {
+          "option_id": "alt1",
+          "label": "Variante produit : Coffret de fleurs \u00e0 infuser",
+          "score": 0.6,
+          "reason": "Alternative \u00e9tudi\u00e9e \u2014 5\u2605 (4 avis)",
+          "rejected_because": "Produit principal valid\u00e9"
+        },
+        {
+          "option_id": "alt2",
+          "label": "Variante produit : Tisane \u00c9veil du Printemps",
+          "score": 0.6,
+          "reason": "Alternative \u00e9tudi\u00e9e \u2014 4.9\u2605 (12 avis)",
+          "rejected_because": "Produit principal valid\u00e9"
+        }
+      ],
+      "selected": "main",
+      "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+      "user_visible": true,
+      "user_approved": true
+    },
+    {
+      "decision_id": "d-approval-policy",
+      "stage": "proposal",
+      "category": "approval_policy",
+      "subject": "Validations des \u00e9tapes restantes",
+      "options_considered": [
+        {
+          "option_id": "full_run",
+          "label": "D'une traite",
+          "score": 0.9,
+          "reason": "Choix utilisateur"
+        },
+        {
+          "option_id": "per_gate",
+          "label": "\u00c9tape par \u00e9tape",
+          "score": 0.5,
+          "reason": "Plus de contr\u00f4le",
+          "rejected_because": "Utilisateur : d'une traite"
+        }
+      ],
+      "selected": "full_run",
+      "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb \u2014 script, scene_plan, assets et \u00e9chantillon pr\u00e9-autoris\u00e9s ; la publication reste soumise \u00e0 validation des vid\u00e9os finales.",
+      "user_visible": true,
+      "user_approved": true
+    }
+  ]
+}

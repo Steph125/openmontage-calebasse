@@ -1,0 +1,22 @@
+{
+  "duration": 15,
+  "shots": [
+    {"src": "kaokegong.jpg", "w": 1000, "h": 1726, "start": 0, "end": 5.6,
+     "from": {"x": 0.014, "y": 0, "w": 0.9715, "h": 1}, "to": {"x": 0.1, "y": 0.04, "w": 0.8, "h": 0.824},
+     "grade": "painting", "bleedOrigin": [0.5, 0.35]},
+    {"src": "bencao.jpg", "w": 3658, "h": 2885, "start": 5.4, "end": 12.4,
+     "from": {"x": 0.45, "y": 0.19, "w": 0.36, "h": 0.81}, "to": {"x": 0.44, "y": 0.43, "w": 0.25, "h": 0.5635},
+     "grade": "painting", "bleedOrigin": [0.55, 0.7]},
+    {"src": "astra_slices.jpg", "w": 3000, "h": 3000, "start": 12.2, "end": 15,
+     "from": {"x": 0.25, "y": 0.05, "w": 0.5, "h": 0.889}, "to": {"x": 0.3, "y": 0.18, "w": 0.42, "h": 0.747},
+     "grade": "sepia", "bleedOrigin": [0.5, 0.5]}
+  ],
+  "lines": [
+    {"file": "voice/l1.wav", "start": 1.0, "dur": 3.9, "who": "E", "text": "Maîtresse, pourquoi gardez-vous cette vieille racine ? Elle n'a rien de beau.", "key": "racine"},
+    {"file": "voice/l2.wav", "start": 5.8, "dur": 6.33, "who": "M", "text": "C'est l'astragale. Huang Qi : le chef jaune. Pour les anciens, la première des plantes qui fortifient.", "key": "astragale chef jaune"},
+    {"file": "voice/l3.wav", "start": 12.6, "dur": 1.17, "who": "E", "text": "Elle ? Si ordinaire ?", "key": "ordinaire"}
+  ],
+  "music": {"file": "guqin.wav", "offset": 15, "volume": 0.5},
+  "calligraphy": {"start": 6.4, "end": 12.2, "chars": "黄芪"},
+  "seal": {"at": 8.0, "chars": "黄芪"}
+}

@@ -1,0 +1,135 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-fleurs-gamme",
+  "pipeline_type": "animation",
+  "stage": "proposal",
+  "status": "awaiting_human",
+  "timestamp": "2026-11-23T21:17:06.816339+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": false,
+  "artifacts": {
+    "proposal_packet": {
+      "version": "1.0",
+      "concept_options": [
+        {
+          "id": "main",
+          "title": "Calebasse \u2014 Fleurs \u00e0 infuser (la gamme)",
+          "hook": "Quatre fleurs, quatre mondes : Boutons de rose (magenta), Osmanthus (or), Camomille chinoise (citron p\u00e2le), Jasmin (jade). Pour chacune : volet couleur, macro r\u00e9elle de la fleur (photo du site) + nom ",
+          "narrative_structure": "story",
+          "visual_approach": "Quatre fleurs, quatre mondes : Boutons de rose (magenta), Osmanthus (or), Camomille chinoise (citron p\u00e2le), Jasmin (jade). Pour chacune : volet couleur, macro r\u00e9elle de la fleur (photo du site) + nom g\u00e9ant anim\u00e9 + caract\u00e8re chinois en sceau, le sachet kraft au centre entour\u00e9 de fleurs qui jaillissent, puis alignement final des 4 sachets \u00ab Nos fleurs \u00e0 infuser \u00bb.",
+          "target_platform": "instagram",
+          "target_duration_seconds": 20,
+          "key_points": [
+            "un monde couleur par variante",
+            "ingr\u00e9dients en explosion autour du produit",
+            "mot g\u00e9ant sur macro",
+            "alignement final de la gamme"
+          ],
+          "why_this_works": "Les 4 fleurs les mieux not\u00e9es du catalogue (4,9\u2605, 15 \u00e0 27 avis), m\u00eame sachet kraft = vraie \u00ab gamme \u00bb, chacune a une couleur forte.",
+          "grounded_in": [
+            "https://pin.it/2iRiCFRDL",
+            "https://calebasse.com/produits/mei-gui-hua-boutons-de-rose-3872",
+            "https://calebasse.com/produits/gui-hua-olivier-odorant-3794",
+            "https://calebasse.com/produits/ju-hua-hang-boutons-de-chrysantheme-3790",
+            "https://calebasse.com/produits/mo-li-hua-fleurs-de-jasmin-3873"
+          ]
+        },
+        {
+          "id": "alt1",
+          "title": "Variante produit : Coffret de fleurs \u00e0 infuser",
+          "hook": "M\u00eame grammaire, produit Coffret de fleurs \u00e0 infuser",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Coffret de fleurs \u00e0 infuser - Floril\u00e8ge Floral - Hua Jian Ji",
+          "target_platform": "instagram",
+          "target_duration_seconds": 20,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 5\u2605 (4 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/yang-sheng-hua-he-coffret-de-fleurs-a-infuser-4742"
+          ]
+        },
+        {
+          "id": "alt2",
+          "title": "Variante produit : Tisane \u00c9veil du Printemps",
+          "hook": "M\u00eame grammaire, produit Tisane \u00c9veil du Printemps",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Tisane \u00c9veil du Printemps - Chrysanth\u00e8me et Baies de goji",
+          "target_platform": "instagram",
+          "target_duration_seconds": 20,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 4.9\u2605 (12 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/tisane-eveil-du-printemps-chrysantheme-et-baies-de-goji"
+          ]
+        }
+      ],
+      "selected_concept": {
+        "concept_id": "main",
+        "rationale": "Proposition principale (en attente de validation)",
+        "modifications": [
+          "Garde : un monde couleur par variante, ingr\u00e9dients en explosion autour du produit, mot g\u00e9ant sur macro, alignement final de la gamme",
+          "Change : vertical 9:16 et 20 s au lieu de 30 s paysage, sceau chinois \u00e0 la place du m\u00e9daillon-logo, vraies photos de fleurs du site"
+        ]
+      },
+      "production_plan": {
+        "pipeline": "animation",
+        "renderer_family": "product-reveal",
+        "composition_mode": "atelier",
+        "delivery_promise": {
+          "promise_type": "motion_led",
+          "motion_required": true,
+          "tone_mode": "premium_product_ad",
+          "quality_floor": "broadcast",
+          "approved_fallback": null
+        },
+        "stages": [
+          {
+            "stage": "assets",
+            "tools": [
+              {
+                "tool_name": "image_selector",
+                "role": "photos produit (galerie Cloudinary du site) + images libres d'ingr\u00e9dients/d\u00e9cors si besoin",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "vraies photos produit d\u00e9tour\u00e9es"
+          },
+          {
+            "stage": "compose",
+            "tools": [
+              {
+                "tool_name": "video_compose",
+                "role": "rendu Remotion atelier 1080x1920",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "Remotion (choix utilisateur)"
+          }
+        ]
+      },
+      "cost_estimate": {
+        "total_estimated_usd": 0.0,
+        "line_items": [
+          {
+            "tool": "video_compose",
+            "operation": "rendu local",
+            "estimated_usd": 0.0
+          }
+        ],
+        "budget_verdict": "within_budget"
+      },
+      "approval": {
+        "status": "pending"
+      }
+    }
+  }
+}

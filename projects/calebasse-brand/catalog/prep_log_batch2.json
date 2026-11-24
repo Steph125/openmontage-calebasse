@@ -1,0 +1,238 @@
+[
+ {
+  "out": "calebasse-fleurs-gamme\\public\\img\\bag_rose.png",
+  "from": "calebasse-fleurs-gamme\\assets\\source\\3872_05.jpg",
+  "box": null,
+  "size": [
+   943,
+   2923
+  ]
+ },
+ {
+  "out": "calebasse-fleurs-gamme\\public\\img\\bag_osmanthus.png",
+  "from": "calebasse-fleurs-gamme\\assets\\source\\3794_01.jpg",
+  "box": [
+   80,
+   230,
+   370,
+   975
+  ],
+  "size": [
+   177,
+   243
+  ]
+ },
+ {
+  "out": "calebasse-fleurs-gamme\\public\\img\\bag_camomille.png",
+  "from": "calebasse-fleurs-gamme\\assets\\source\\3790_05.jpg",
+  "box": null,
+  "size": [
+   918,
+   2923
+  ]
+ },
+ {
+  "out": "calebasse-fleurs-gamme\\public\\img\\bag_jasmin.png",
+  "from": "calebasse-fleurs-gamme\\assets\\source\\3873_00.jpg",
+  "box": null,
+  "size": [
+   914,
+   2923
+  ]
+ },
+ {
+  "out": "C:\\Users\\nguen\\AppData\\Local\\Temp\\claude\\b42ae111084ee024\\521ff7c2-1796-418e-aeb3-4f6669490ff8\\scratchpad\\prep\\p_rose_full.png",
+  "from": "calebasse-fleurs-gamme\\assets\\source\\px_rose_buds.jpg",
+  "box": null,
+  "size": [
+   1625,
+   1300
+  ]
+ },
+ {
+  "particles": "p_rose",
+  "count": 3,
+  "from": "calebasse-fleurs-gamme\\assets\\source\\px_rose_buds.jpg"
+ },
+ {
+  "out": "C:\\Users\\nguen\\AppData\\Local\\Temp\\claude\\b42ae111084ee024\\521ff7c2-1796-418e-aeb3-4f6669490ff8\\scratchpad\\prep\\p_osm_full.png",
+  "from": "calebasse-fleurs-gamme\\assets\\source\\px_osmanthus_dried.jpg",
+  "box": null,
+  "size": [
+   867,
+   1300
+  ]
+ },
+ {
+  "particles": "p_osm",
+  "count": 1,
+  "from": "calebasse-fleurs-gamme\\assets\\source\\px_osmanthus_dried.jpg"
+ },
+ {
+  "out": "calebasse-fleurs-gamme\\public\\img\\p_jasmin_00.png",
+  "from": "calebasse-fleurs-gamme\\assets\\source\\px_jasmine_sambac.jpg",
+  "box": null,
+  "size": [
+   771,
+   765
+  ]
+ },
+ {
+  "out": "calebasse-3-gestes\\public\\img\\bag_astragale.png",
+  "from": "calebasse-3-gestes\\assets\\source\\4498_01.jpg",
+  "box": [
+   80,
+   235,
+   320,
+   975
+  ],
+  "size": [
+   177,
+   243
+  ]
+ },
+ {
+  "out": "calebasse-3-gestes\\public\\img\\bowl_astragale.png",
+  "from": "calebasse-3-gestes\\assets\\source\\4498_00.jpg",
+  "box": [
+   120,
+   220,
+   720,
+   820
+  ],
+  "size": [
+   442,
+   499
+  ]
+ },
+ {
+  "out": "calebasse-baume-rouge\\public\\img\\tin_top.png",
+  "from": "calebasse-baume-rouge\\assets\\source\\5314_00.jpg",
+  "box": [
+   270,
+   290,
+   720,
+   800
+  ],
+  "size": [
+   435,
+   510
+  ]
+ },
+ {
+  "out": "C:\\Users\\nguen\\AppData\\Local\\Temp\\claude\\b42ae111084ee024\\521ff7c2-1796-418e-aeb3-4f6669490ff8\\scratchpad\\prep\\jars3.png",
+  "from": "calebasse-ginseng-allee\\assets\\source\\gf_ginseng_3jars.jpg",
+  "box": null,
+  "size": [
+   1024,
+   1024
+  ]
+ },
+ {
+  "out": "calebasse-ginseng-allee\\public\\img\\jar_ginseng.png",
+  "from": "calebasse-ginseng-allee\\assets\\source\\gf_ginseng_3jars.jpg",
+  "box": [
+   300,
+   210,
+   724,
+   640
+  ],
+  "size": [
+   424,
+   218
+  ]
+ },
+ {
+  "out": "calebasse-ginseng-allee\\public\\img\\bowl_ginseng.png",
+  "from": "calebasse-ginseng-allee\\assets\\source\\4679_00.jpg",
+  "box": [
+   100,
+   200,
+   700,
+   800
+  ],
+  "size": [
+   600,
+   522
+  ]
+ },
+ {
+  "out": "calebasse-goji-socle\\public\\img\\bag_goji.png",
+  "from": "calebasse-goji-socle\\assets\\source\\gf_goji_2bags.jpg",
+  "box": [
+   150,
+   60,
+   520,
+   960
+  ],
+  "size": [
+   258,
+   800
+  ]
+ },
+ {
+  "out": "calebasse-goji-socle\\public\\img\\hand.png",
+  "from": "calebasse-goji-socle\\assets\\source\\px_hand_palm.jpg",
+  "box": null,
+  "size": [
+   4299,
+   1151
+  ]
+ },
+ {
+  "out": "C:\\Users\\nguen\\AppData\\Local\\Temp\\claude\\b42ae111084ee024\\521ff7c2-1796-418e-aeb3-4f6669490ff8\\scratchpad\\prep\\p_goji_full.png",
+  "from": "calebasse-goji-socle\\assets\\source\\px_goji_scatter.jpg",
+  "box": null,
+  "size": [
+   1880,
+   1253
+  ]
+ },
+ {
+  "particles": "p_goji",
+  "count": 26,
+  "from": "calebasse-goji-socle\\assets\\source\\px_goji_scatter.jpg"
+ },
+ {
+  "out": "calebasse-goji-socle\\public\\img\\bowl_goji.png",
+  "from": "calebasse-goji-socle\\assets\\source\\3832_00.jpg",
+  "box": [
+   150,
+   220,
+   750,
+   820
+  ],
+  "size": [
+   452,
+   523
+  ]
+ },
+ {
+  "out": "calebasse-perle-source\\public\\img\\jar_perle.png",
+  "from": "calebasse-perle-source\\assets\\source\\4279_00.jpg",
+  "box": [
+   330,
+   330,
+   740,
+   840
+  ],
+  "size": [
+   394,
+   382
+  ]
+ },
+ {
+  "out": "calebasse-perle-source\\public\\img\\pearl.png",
+  "from": "calebasse-perle-source\\assets\\source\\4279_00.jpg",
+  "box": [
+   745,
+   745,
+   850,
+   845
+  ],
+  "size": [
+   83,
+   55
+  ]
+ }
+]

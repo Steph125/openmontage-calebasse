@@ -1,0 +1,252 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-green-friday",
+  "pipeline_type": "animation",
+  "stage": "scene_plan",
+  "status": "completed",
+  "timestamp": "2026-11-23T19:10:28.015105+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "scene_plan": {
+      "version": "1.0",
+      "style_playbook": "custom",
+      "scenes": [
+        {
+          "id": "A1",
+          "type": "animation",
+          "script_section_id": "A1",
+          "description": "Installation : banni\u00e8re noire BLACK FRIDAY sur le t\u00e9l\u00e9phone. Sujet : T\u00e9l\u00e9phone g\u00e9ant + banni\u00e8re noire + 4 ouvriers. Mouvement du sujet : Banni\u00e8re qui respire ; l'ouvrier au rouleau s'accroupit (anticipation). D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 0.0,
+          "end_seconds": 0.8,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "A2",
+          "type": "animation",
+          "script_section_id": "A2",
+          "description": "Le rouleau barre BLACK. Sujet : Le trait de peinture vert anis. Mouvement du sujet : Perche en arc, rouleau de gauche \u00e0 droite \u00e0 \u22127\u00b0, deux coulures. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 0.8,
+          "end_seconds": 3.3,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "A3",
+          "type": "animation",
+          "script_section_id": "A3",
+          "description": "GREEN peint au pinceau. Sujet : Le mot GREEN. Mouvement du sujet : Pinceau en t\u00eate, r\u00e9v\u00e9lation lettre \u00e0 lettre, rebond final. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 3.3,
+          "end_seconds": 5.8,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "A4",
+          "type": "animation",
+          "script_section_id": "A4",
+          "description": "Signe de t\u00eate des ouvriers des \u00e9chelles. Sujet : Les deux ouvriers des \u00e9chelles. Mouvement du sujet : Hochement, banni\u00e8re soulev\u00e9e de 10 px. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 5.8,
+          "end_seconds": 6.7,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "A5",
+          "type": "animation",
+          "script_section_id": "A5",
+          "description": "Chute de la banni\u00e8re, r\u00e9v\u00e9lation de la page. Sujet : La banni\u00e8re qui tombe / l'\u00e9cran. Mouvement du sujet : Chute en gravit\u00e9 (coin gauche 3 images avant le droit), tas qui s'\u00e9crase et rebondit, reflet sur l'\u00e9cran. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 6.7,
+          "end_seconds": 8.2,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "A6",
+          "type": "animation",
+          "script_section_id": "A6",
+          "description": "D\u00e9filement de la page vers les 4 produits. Sujet : La page produits. Mouvement du sujet : D\u00e9filement doux, pastilles qui sautent en cascade, prix barr\u00e9s. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 8.2,
+          "end_seconds": 10.1,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "A7",
+          "type": "animation",
+          "script_section_id": "A7",
+          "description": "On range le Black Friday. Sujet : Le tas noir emport\u00e9. Mouvement du sujet : Les deux ouvriers au sol tirent le tas hors champ \u00e0 droite en marchant. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 9.5,
+          "end_seconds": 10.8,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "A8",
+          "type": "animation",
+          "script_section_id": "A8",
+          "description": "Carton de fin. Sujet : Logo + dates. Mouvement du sujet : Apparition d\u00e9cal\u00e9e ; les ouvriers des \u00e9chelles saluent. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 10.8,
+          "end_seconds": 12.0,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Logo Calebasse, \u00ab Green Friday \u00b7 du 20 au 30 novembre \u00bb, calebasse.com, mention * \u2014 sous le t\u00e9l\u00e9phone, centr\u00e9, y\u22481530\u20131740",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "C1",
+          "type": "animation",
+          "script_section_id": "C1",
+          "description": "Vitrine vide. Sujet : La page avec 6 cases vides. Mouvement du sujet : Un ouvrier des \u00e9chelles tapote l'\u00e9cran. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 0.0,
+          "end_seconds": 1.0,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "C2",
+          "type": "animation",
+          "script_section_id": "C2",
+          "description": "Premier carreau. Sujet : Un ouvrier portant le carreau Jujube. Mouvement du sujet : Entr\u00e9e par la gauche, passe le carreau \u00e0 l'\u00e9chelle, le carreau s'embo\u00eete, pastille + prix. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 1.0,
+          "end_seconds": 4.0,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "C3",
+          "type": "animation",
+          "script_section_id": "C3",
+          "description": "Le relais. Sujet : Les carreaux produits successifs. Mouvement du sujet : Carreaux apport\u00e9s des deux c\u00f4t\u00e9s, pass\u00e9s et embo\u00eet\u00e9s au rythme. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 4.0,
+          "end_seconds": 8.7,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "C4",
+          "type": "animation",
+          "script_section_id": "C4",
+          "description": "Vitrine compl\u00e8te. Sujet : La grille de 6 produits. Mouvement du sujet : Recul de l'\u00e9quipe ; \u00ab Black \u00bb se barre et \u00ab Green \u00bb se pose dans l'en-t\u00eate. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 8.7,
+          "end_seconds": 10.7,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "C5",
+          "type": "animation",
+          "script_section_id": "C5",
+          "description": "L'inspection. Sujet : Le coup de chiffon. Mouvement du sujet : Balayage brillant sur l'\u00e9cran ; tape-m'en cinq au sol. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 10.7,
+          "end_seconds": 13.0,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Aucune surimpression (N/A)",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        },
+        {
+          "id": "C6",
+          "type": "animation",
+          "script_section_id": "C6",
+          "description": "Carton de fin. Sujet : Logo + dates. Mouvement du sujet : Apparition d\u00e9cal\u00e9e ; saluts. D\u00e9cor : Studio cr\u00e8me #F7F5EE, sol sable, ombre de contact sous le t\u00e9l\u00e9phone ; pas de m\u00e9t\u00e9o ni particules.",
+          "start_seconds": 13.0,
+          "end_seconds": 15.0,
+          "framing": "Plan large centr\u00e9 ; t\u00e9l\u00e9phone g\u00e9ant 600\u00d71232 au centre (\u224864 % de la hauteur, sc\u00e8ne \u00e0 92 %) ; \u00e9chelles aux bords ; ouvriers au sol au premier plan",
+          "movement": "Cam\u00e9ra : plan fixe verrouill\u00e9, hauteur des yeux, frontal, tout net, vitesse r\u00e9elle (personnages en pas de 2 = 15 i/s)",
+          "overlay_notes": "Logo Calebasse, \u00ab Green Friday \u00b7 du 20 au 30 novembre \u00bb, calebasse.com, mention * \u2014 sous le t\u00e9l\u00e9phone, centr\u00e9",
+          "shot_language": {
+            "shot_size": "wide",
+            "camera_movement": "static"
+          }
+        }
+      ],
+      "metadata": {
+        "variants": [
+          "A-remotion",
+          "A-hyperframes",
+          "C-remotion",
+          "C-hyperframes"
+        ],
+        "beat_source": "scenes.md",
+        "transition_rules": "Aucune coupe : un seul plan par concept ; les temps forts s'encha\u00eenent par l'action",
+        "hold_rules": "Page produits \u22651,2 s lisible ; carton de fin \u22651,2 s (A) / 2 s (C)",
+        "animatic_rules": "Personnages en pas de 2 ; t\u00e9l\u00e9phone, banni\u00e8re, page \u00e0 30 i/s",
+        "reuse_strategy": {
+          "recurring_motifs": [
+            "t\u00e9l\u00e9phone g\u00e9ant",
+            "\u00e9quipe de 4 ouvriers",
+            "trait \u22127\u00b0 + GREEN"
+          ],
+          "unique_scene_count": 14
+        }
+      }
+    }
+  },
+  "metadata": {
+    "approved_via": "approval_policy d-approval-policy-fullrun"
+  }
+}

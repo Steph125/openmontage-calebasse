@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "title": "calebasse-baume-rouge",
+  "total_duration_seconds": 12.0,
+  "sections": [
+    {
+      "id": "B1",
+      "text": "ultra-close balm waves",
+      "start_seconds": 0.0,
+      "end_seconds": 1.8
+    },
+    {
+      "id": "B2",
+      "text": "tin levitating over its reflection, light sweep",
+      "start_seconds": 1.8,
+      "end_seconds": 3.7333333333333334
+    },
+    {
+      "id": "B3",
+      "text": "real macro: finger in the balm",
+      "start_seconds": 3.7333333333333334,
+      "end_seconds": 5.4
+    },
+    {
+      "id": "B4",
+      "text": "open tin + wooden spatula lifting a dollop",
+      "start_seconds": 5.4,
+      "end_seconds": 7.266666666666667
+    },
+    {
+      "id": "B5",
+      "text": "ingredients from the label (cinnamon, clove, cajeput…)",
+      "start_seconds": 7.266666666666667,
+      "end_seconds": 9.066666666666666
+    },
+    {
+      "id": "B6",
+      "text": "at home (tin on the table)",
+      "start_seconds": 9.066666666666666,
+      "end_seconds": 10.4
+    },
+    {
+      "id": "B7",
+      "text": "tin laid on its texture + name, « Chaleur & réconfort », calebasse.com",
+      "start_seconds": 10.4,
+      "end_seconds": 12.0
+    }
+  ],
+  "metadata": {
+    "narration": "none (muet)",
+    "on_screen_text": "see Scene.tsx; no health claims"
+  }
+}

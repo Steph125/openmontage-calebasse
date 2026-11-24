@@ -1,0 +1,133 @@
+{
+  "version": "1.0",
+  "concept_options": [
+    {
+      "id": "main",
+      "title": "Calebasse — Baies de Goji premium (le socle)",
+      "hook": "Le sachet de goji sur un socle de pierre sous un ciel d'été, ombres de feuillage qui bougent, macro de l'étiquette « Baies de Goji » puis des baies rouges par la fenêtre du sachet, une main qui le sai",
+      "narrative_structure": "story",
+      "visual_approach": "Le sachet de goji sur un socle de pierre sous un ciel d'été, ombres de feuillage qui bougent, macro de l'étiquette « Baies de Goji » puis des baies rouges par la fenêtre du sachet, une main qui le saisit, carton « Première récolte ».",
+      "target_platform": "instagram",
+      "target_duration_seconds": 10,
+      "key_points": [
+        "socle + ciel + ombres végétales",
+        "macro d'étiquette",
+        "main qui saisit le produit",
+        "3 plans"
+      ],
+      "why_this_works": "Le produit rouge emblématique (4,9★, 98 avis) ; la récolte d'été justifie le ciel et la lumière de la référence.",
+      "grounded_in": [
+        "https://pin.it/3cn23RezE",
+        "https://calebasse.com/produits/gou-qi-zi-baies-de-goji-3832"
+      ]
+    },
+    {
+      "id": "alt1",
+      "title": "Variante produit : Baume Panacé Rouge",
+      "hook": "Même grammaire, produit Baume Panacé Rouge",
+      "narrative_structure": "story",
+      "visual_approach": "Même construction que la proposition principale, appliquée à Baume Panacé Rouge - Soin Botanique Ciblé",
+      "target_platform": "instagram",
+      "target_duration_seconds": 10,
+      "key_points": [
+        "même grammaire de référence",
+        "produit alternatif"
+      ],
+      "why_this_works": "Alternative étudiée — 4★ (2 avis)",
+      "grounded_in": [
+        "https://calebasse.com/produits/baume-panace-rouge-soin-botanique-cible-5314"
+      ]
+    },
+    {
+      "id": "alt2",
+      "title": "Variante produit : Gua sha en pierre de bian",
+      "hook": "Même grammaire, produit Gua sha en pierre de bian",
+      "narrative_structure": "story",
+      "visual_approach": "Même construction que la proposition principale, appliquée à Gua sha en pierre de bian",
+      "target_platform": "instagram",
+      "target_duration_seconds": 10,
+      "key_points": [
+        "même grammaire de référence",
+        "produit alternatif"
+      ],
+      "why_this_works": "Alternative étudiée — 4.9★ (7 avis)",
+      "grounded_in": [
+        "https://calebasse.com/produits/gua-sha-en-pierre-de-bian-5172"
+      ]
+    }
+  ],
+  "selected_concept": {
+    "concept_id": "main",
+    "rationale": "Validé par l'utilisateur (produit et concept principal).",
+    "modifications": [
+      "Garde : socle + ciel + ombres végétales, macro d'étiquette, main qui saisit le produit, 3 plans",
+      "Change : rouge cosmétique → rouge des baies, palmes → feuillage de goji, accroche « première récolte » (fait de la page produit)"
+    ]
+  },
+  "production_plan": {
+    "pipeline": "animation",
+    "renderer_family": "product-reveal",
+    "composition_mode": "atelier",
+    "delivery_promise": {
+      "promise_type": "motion_led",
+      "motion_required": true,
+      "tone_mode": "premium_product_ad",
+      "quality_floor": "broadcast",
+      "approved_fallback": null
+    },
+    "stages": [
+      {
+        "stage": "assets",
+        "tools": [
+          {
+            "tool_name": "image_selector",
+            "role": "photos produit (galerie Cloudinary du site) + images libres d'ingrédients/décors si besoin",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          }
+        ],
+        "approach": "vraies photos produit détourées"
+      },
+      {
+        "stage": "compose",
+        "tools": [
+          {
+            "tool_name": "video_compose",
+            "role": "rendu Remotion atelier 1080x1920",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          }
+        ],
+        "approach": "Remotion (choix utilisateur)"
+      }
+    ],
+    "render_runtime": "remotion",
+    "music_source": {
+      "source_type": "none",
+      "mood_direction": "muet (choix utilisateur)",
+      "estimated_cost_usd": 0.0
+    },
+    "voice_selection": {
+      "provider": "none",
+      "rationale": "muet (choix utilisateur)",
+      "estimated_cost_usd": 0.0
+    },
+    "decision_log_ref": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-goji-socle\\decision_log.json"
+  },
+  "cost_estimate": {
+    "total_estimated_usd": 0.0,
+    "line_items": [
+      {
+        "tool": "video_compose",
+        "operation": "rendu local",
+        "estimated_usd": 0.0
+      }
+    ],
+    "budget_verdict": "within_budget"
+  },
+  "approval": {
+    "status": "approved",
+    "user_notes": "Réponse utilisateur 2026-11-23 : « oui pour tout, installe rembg, muet, d'une traite »",
+    "approved_budget_usd": 0.0
+  }
+}

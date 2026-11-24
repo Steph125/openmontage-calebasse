@@ -1,0 +1,298 @@
+{
+  "version": "1.0",
+  "assets": [
+    {
+      "id": "bag_goji",
+      "type": "image",
+      "path": "public/img/bag_goji.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "bowl_goji",
+      "type": "image",
+      "path": "public/img/bowl_goji.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "goji_macro",
+      "type": "image",
+      "path": "public/img/goji_macro.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "hand",
+      "type": "image",
+      "path": "public/img/hand.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "leaf_shadow_stucco",
+      "type": "image",
+      "path": "public/img/leaf_shadow_stucco.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "leaf_shadows",
+      "type": "image",
+      "path": "public/img/leaf_shadows.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_00",
+      "type": "image",
+      "path": "public/img/p_goji_00.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_01",
+      "type": "image",
+      "path": "public/img/p_goji_01.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_02",
+      "type": "image",
+      "path": "public/img/p_goji_02.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_03",
+      "type": "image",
+      "path": "public/img/p_goji_03.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_04",
+      "type": "image",
+      "path": "public/img/p_goji_04.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_05",
+      "type": "image",
+      "path": "public/img/p_goji_05.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_06",
+      "type": "image",
+      "path": "public/img/p_goji_06.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_07",
+      "type": "image",
+      "path": "public/img/p_goji_07.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_08",
+      "type": "image",
+      "path": "public/img/p_goji_08.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_09",
+      "type": "image",
+      "path": "public/img/p_goji_09.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_10",
+      "type": "image",
+      "path": "public/img/p_goji_10.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_11",
+      "type": "image",
+      "path": "public/img/p_goji_11.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_12",
+      "type": "image",
+      "path": "public/img/p_goji_12.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_13",
+      "type": "image",
+      "path": "public/img/p_goji_13.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_14",
+      "type": "image",
+      "path": "public/img/p_goji_14.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_15",
+      "type": "image",
+      "path": "public/img/p_goji_15.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_16",
+      "type": "image",
+      "path": "public/img/p_goji_16.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_17",
+      "type": "image",
+      "path": "public/img/p_goji_17.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_18",
+      "type": "image",
+      "path": "public/img/p_goji_18.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_19",
+      "type": "image",
+      "path": "public/img/p_goji_19.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_20",
+      "type": "image",
+      "path": "public/img/p_goji_20.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_21",
+      "type": "image",
+      "path": "public/img/p_goji_21.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_22",
+      "type": "image",
+      "path": "public/img/p_goji_22.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_23",
+      "type": "image",
+      "path": "public/img/p_goji_23.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_24",
+      "type": "image",
+      "path": "public/img/p_goji_24.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "p_goji_25",
+      "type": "image",
+      "path": "public/img/p_goji_25.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "plinth_face",
+      "type": "image",
+      "path": "public/img/plinth_face.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "plinth_face_smooth",
+      "type": "image",
+      "path": "public/img/plinth_face_smooth.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "sky",
+      "type": "image",
+      "path": "public/img/sky.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "comp",
+      "type": "animation",
+      "path": "Scene.tsx",
+      "source_tool": "hand_authored_atelier",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "metadata": {
+    "sources": "assets/source/sources.json + pexels_credits.json",
+    "prep": "projects/calebasse-brand/catalog/prep_log_batch2.json"
+  }
+}

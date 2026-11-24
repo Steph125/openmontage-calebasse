@@ -1,0 +1,285 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-baume-rouge",
+  "pipeline_type": "animation",
+  "stage": "proposal",
+  "status": "completed",
+  "timestamp": "2026-11-23T21:24:02.972512+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": true,
+  "human_approved": true,
+  "artifacts": {
+    "proposal_packet": {
+      "version": "1.0",
+      "concept_options": [
+        {
+          "id": "main",
+          "title": "Calebasse \u2014 Baume Panac\u00e9 Rouge (texture)",
+          "hook": "Cama\u00efeu rouge lithosperme : la bo\u00eete flotte avec son reflet, macro du couvercle \u00ab Baume Panac\u00e9 Rouge \u00bb, vagues de baume rouge en tr\u00e8s gros plan, une spatule qui le pr\u00e9l\u00e8ve, la bo\u00eete ouverte pos\u00e9e sur ",
+          "narrative_structure": "story",
+          "visual_approach": "Cama\u00efeu rouge lithosperme : la bo\u00eete flotte avec son reflet, macro du couvercle \u00ab Baume Panac\u00e9 Rouge \u00bb, vagues de baume rouge en tr\u00e8s gros plan, une spatule qui le pr\u00e9l\u00e8ve, la bo\u00eete ouverte pos\u00e9e sur la texture, carton \u00ab chaleur & r\u00e9confort \u00bb.",
+          "target_platform": "instagram",
+          "target_duration_seconds": 12,
+          "key_points": [
+            "monochrome d'une seule teinte",
+            "macro de texture",
+            "l\u00e9vitation + reflet",
+            "spatule",
+            "rythme 1\u20131,5 s/plan"
+          ],
+          "why_this_works": "Seuls produits \u00ab texture \u00bb du catalogue : les baumes. Le Rouge a une vraie couleur (lithosperme) qui fait \u00e9cho au cama\u00efeu de la r\u00e9f\u00e9rence, et il est de saison (chauffant).",
+          "grounded_in": [
+            "https://pin.it/1GukzHSpw",
+            "https://calebasse.com/produits/baume-panace-rouge-soin-botanique-cible-5314"
+          ]
+        },
+        {
+          "id": "alt1",
+          "title": "Variante produit : Baume Panac\u00e9 Blanc",
+          "hook": "M\u00eame grammaire, produit Baume Panac\u00e9 Blanc",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Baume Panac\u00e9 Blanc - Soin Botanique Rafra\u00eechissant",
+          "target_platform": "instagram",
+          "target_duration_seconds": 12,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 \u2013\u2605 (0 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/baume-panace-blanc-soin-botanique-rafraichissant-5313"
+          ]
+        },
+        {
+          "id": "alt2",
+          "title": "Variante produit : Baume Citronnelle",
+          "hook": "M\u00eame grammaire, produit Baume Citronnelle",
+          "narrative_structure": "story",
+          "visual_approach": "M\u00eame construction que la proposition principale, appliqu\u00e9e \u00e0 Baume Citronnelle - Soin V\u00e9g\u00e9tal d'\u00c9t\u00e9",
+          "target_platform": "instagram",
+          "target_duration_seconds": 12,
+          "key_points": [
+            "m\u00eame grammaire de r\u00e9f\u00e9rence",
+            "produit alternatif"
+          ],
+          "why_this_works": "Alternative \u00e9tudi\u00e9e \u2014 4.5\u2605 (2 avis)",
+          "grounded_in": [
+            "https://calebasse.com/produits/xiang-mao-gao-baume-citronnelle-soin-vegetal-dete-5285"
+          ]
+        }
+      ],
+      "selected_concept": {
+        "concept_id": "main",
+        "rationale": "Valid\u00e9 par l'utilisateur (produit et concept principal).",
+        "modifications": [
+          "Garde : monochrome d'une seule teinte, macro de texture, l\u00e9vitation + reflet, spatule, rythme 1\u20131,5 s/plan",
+          "Change : rose-mauve \u2192 rouge naturel du lithosperme, tube \u2192 bo\u00eete ronde m\u00e9tallique, saison : baume chauffant pour l'hiver"
+        ]
+      },
+      "production_plan": {
+        "pipeline": "animation",
+        "renderer_family": "product-reveal",
+        "composition_mode": "atelier",
+        "delivery_promise": {
+          "promise_type": "motion_led",
+          "motion_required": true,
+          "tone_mode": "premium_product_ad",
+          "quality_floor": "broadcast",
+          "approved_fallback": null
+        },
+        "stages": [
+          {
+            "stage": "assets",
+            "tools": [
+              {
+                "tool_name": "image_selector",
+                "role": "photos produit (galerie Cloudinary du site) + images libres d'ingr\u00e9dients/d\u00e9cors si besoin",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "vraies photos produit d\u00e9tour\u00e9es"
+          },
+          {
+            "stage": "compose",
+            "tools": [
+              {
+                "tool_name": "video_compose",
+                "role": "rendu Remotion atelier 1080x1920",
+                "available": true,
+                "estimated_cost_usd": 0.0
+              }
+            ],
+            "approach": "Remotion (choix utilisateur)"
+          }
+        ],
+        "render_runtime": "remotion",
+        "music_source": {
+          "source_type": "none",
+          "mood_direction": "muet (choix utilisateur)",
+          "estimated_cost_usd": 0.0
+        },
+        "voice_selection": {
+          "provider": "none",
+          "rationale": "muet (choix utilisateur)",
+          "estimated_cost_usd": 0.0
+        },
+        "decision_log_ref": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-baume-rouge\\decision_log.json"
+      },
+      "cost_estimate": {
+        "total_estimated_usd": 0.0,
+        "line_items": [
+          {
+            "tool": "video_compose",
+            "operation": "rendu local",
+            "estimated_usd": 0.0
+          }
+        ],
+        "budget_verdict": "within_budget"
+      },
+      "approval": {
+        "status": "approved",
+        "user_notes": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+        "approved_budget_usd": 0.0
+      }
+    },
+    "decision_log": {
+      "version": "1.0",
+      "project_id": "calebasse-baume-rouge",
+      "decisions": [
+        {
+          "decision_id": "d-runtime",
+          "stage": "proposal",
+          "category": "render_runtime_selection",
+          "subject": "Moteur de rendu",
+          "options_considered": [
+            {
+              "option_id": "remotion",
+              "label": "Remotion",
+              "score": 0.9,
+              "reason": "Choix utilisateur \u00ab on va partir sur remotion pour le moment \u00bb"
+            },
+            {
+              "option_id": "hyperframes",
+              "label": "HyperFrames",
+              "score": 0.6,
+              "reason": "Disponible",
+              "rejected_because": "Utilisateur : Remotion pour le moment"
+            }
+          ],
+          "selected": "remotion",
+          "reason": "Choix utilisateur",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-mode",
+          "stage": "proposal",
+          "category": "composition_mode",
+          "subject": "Mode de composition",
+          "options_considered": [
+            {
+              "option_id": "atelier",
+              "label": "Atelier",
+              "score": 0.9,
+              "reason": "Pub de marque soign\u00e9e"
+            },
+            {
+              "option_id": "templated",
+              "label": "Gabarits",
+              "score": 0.2,
+              "reason": "Rapide",
+              "rejected_because": "Rendu g\u00e9n\u00e9rique"
+            }
+          ],
+          "selected": "atelier",
+          "reason": "\u00ab le plus soign\u00e9 possible \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-music",
+          "stage": "proposal",
+          "category": "music_source",
+          "subject": "Musique",
+          "options_considered": [
+            {
+              "option_id": "none",
+              "label": "Muet",
+              "score": 1.0,
+              "reason": "Choix utilisateur"
+            },
+            {
+              "option_id": "pixabay_music",
+              "label": "Pixabay Music",
+              "score": 0.5,
+              "reason": "Libre de droits",
+              "rejected_because": "Utilisateur : muet"
+            }
+          ],
+          "selected": "none",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-concept",
+          "stage": "proposal",
+          "category": "concept_selection",
+          "subject": "Produit et concept",
+          "options_considered": [
+            {
+              "option_id": "main",
+              "label": "Calebasse \u2014 Baume Panac\u00e9 Rouge (texture)",
+              "score": 0.9,
+              "reason": "Seuls produits \u00ab texture \u00bb du catalogue : les baumes. Le Rouge a une vraie couleur (lithosperme) qui fait \u00e9cho au cama\u00efeu de la r\u00e9f\u00e9rence, et il est de saison (chauffant)."
+            },
+            {
+              "option_id": "alt1",
+              "label": "Variante produit : Baume Panac\u00e9 Blanc",
+              "score": 0.6,
+              "reason": "Alternative \u00e9tudi\u00e9e \u2014 \u2013\u2605 (0 avis)",
+              "rejected_because": "Produit principal valid\u00e9"
+            },
+            {
+              "option_id": "alt2",
+              "label": "Variante produit : Baume Citronnelle",
+              "score": 0.6,
+              "reason": "Alternative \u00e9tudi\u00e9e \u2014 4.5\u2605 (2 avis)",
+              "rejected_because": "Produit principal valid\u00e9"
+            }
+          ],
+          "selected": "main",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb",
+          "user_visible": true,
+          "user_approved": true
+        },
+        {
+          "decision_id": "d-approval-policy",
+          "stage": "proposal",
+          "category": "approval_policy",
+          "subject": "Validations des \u00e9tapes restantes",
+          "options_considered": [
+            {
+              "option_id": "full_run",
+              "label": "D'une traite",
+              "score": 0.9,
+              "reason": "Choix utilisateur"
+            },
+            {
+              "option_id": "per_gate",
+              "label": "\u00c9tape par \u00e9tape",
+              "score": 0.5,
+              "reason": "Plus de contr\u00f4le",
+              "rejected_because": "Utilisateur : d'une traite"
+            }
+          ],
+          "selected": "full_run",
+          "reason": "R\u00e9ponse utilisateur 2026-11-23 : \u00ab oui pour tout, installe rembg, muet, d'une traite \u00bb \u2014 script, scene_plan, assets et \u00e9chantillon pr\u00e9-autoris\u00e9s ; la publication reste soumise \u00e0 validation des vid\u00e9os finales.",
+          "user_visible": true,
+          "user_approved": true
+        }
+      ]
+    }
+  }
+}

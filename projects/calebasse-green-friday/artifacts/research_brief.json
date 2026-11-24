@@ -1,0 +1,277 @@
+{
+  "version": "1.0",
+  "topic": "Short Instagram 9:16 pour le Green Friday Calebasse (20–30 nov. 2026), inspiré d'une pub « ouvriers miniatures + bannière Black Friday »",
+  "research_date": "2026-11-23",
+  "research_summary": "Calebasse ne fait pas un Black Friday mais un « Green Friday » (son propre nom, sans promesse écologique), du 20 au 30 novembre 2026, de -5 % à -70 % (les -70 % portent sur une sélection de matériel MTC). Le site met déjà en scène ce renommage : « Black » barré d'un trait vert anis incliné à -7°, « Green » écrit au-dessus. La référence Pinterest (5 s, IA photoréaliste) fonctionne par contraste d'échelle (ouvriers miniatures / téléphone géant) et par révélation (la bannière tombe, les produits apparaissent). L'approche la plus forte : garder le chantier miniature et la révélation, mais faire jouer aux ouvriers le geste de la marque (barrer BLACK, poser GREEN) avant la chute, en motion design vectoriel généré par code (gratuit, local), avec les vraies photos produits et les vrais prix.",
+  "landscape": {
+    "existing_content": [
+      {
+        "title": "Black Friday AI content idea (Ai.visual.lab, Pinterest)",
+        "url": "https://pin.it/kcJKeGtua",
+        "source": "Pinterest",
+        "angle": "Ouvriers miniatures déroulant une bannière BLACK FRIDAY devant un smartphone géant (page YSL/Douglas)",
+        "what_it_covers": "Contraste d'échelle, révélation produit, plan fixe unique, palette noir/blanc",
+        "what_it_misses": "Aucune marque propre, aucun texte d'offre lisible, aucun appel à l'action, rendu IA générique",
+        "engagement_signal": "Format « idée de contenu IA » largement repartagé sur Pinterest"
+      },
+      {
+        "title": "Page Green Friday Calebasse",
+        "url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+        "source": "calebasse.com",
+        "angle": "Black barré → Green, « Jusqu'à -70 % » en vert anis sur vert forêt",
+        "what_it_covers": "Identité de campagne, 110 produits remisés, dates, FAQ",
+        "what_it_misses": "Pas de version vidéo du motif « Black → Green »"
+      },
+      {
+        "title": "6+ Viral AI Social Media Ad Examples (Anijam)",
+        "url": "https://www.anijam.ai/blog/ai-social-media-video-ideas/",
+        "source": "anijam.ai",
+        "angle": "Mondes miniatures et produits géants comme formats courts viraux",
+        "what_it_covers": "Le contraste d'échelle invite au revisionnage",
+        "what_it_misses": "Pas de données chiffrées, source marketing"
+      }
+    ],
+    "saturated_angles": [
+      "Fonds noirs + gros pourcentages + compte à rebours (tout le fil Black Friday se ressemble)",
+      "Rendus IA photoréalistes génériques de produits géants"
+    ],
+    "underserved_gaps": [
+      "Une pub qui raconte le renommage Black → Green au lieu d'afficher une remise",
+      "Le contraste d'échelle traité en illustration de marque plutôt qu'en photoréalisme IA"
+    ]
+  },
+  "trending": {
+    "recent_developments": [
+      {
+        "headline": "Le Black Friday 2026 tombe le vendredi 27 novembre ; Calebasse l'étend du 20 au 30 novembre",
+        "url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+        "date": "2026-11-23",
+        "relevance": "La vidéo doit être livrée cette semaine pour servir l'opération en cours"
+      },
+      {
+        "headline": "Mouvements « Green Friday » / Make Friday Green Again en France",
+        "url": "https://www.quechoisir.org/actualite-black-friday-le-mouvement-de-boycott-prend-de-l-ampleur-n73407/",
+        "date": "2025-11-01",
+        "relevance": "Le terme « Green Friday » évoque souvent l'anti-consommation : ne pas laisser croire à un engagement écologique que la page ne revendique pas"
+      }
+    ],
+    "timeliness_window": "Jusqu'au lundi 30 novembre 2026, 23 h 59"
+  },
+  "data_points": [
+    {
+      "claim": "Chez Calebasse, le Black Friday dure du vendredi 20 au lundi 30 novembre 2026 ; la plupart des remises courent jusqu'au 30 novembre 23 h 59.",
+      "source_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+      "source_name": "FAQ de la page Green Friday",
+      "credibility": "primary_source",
+      "surprise_factor": "expected",
+      "usable_as": "Carton final (dates)"
+    },
+    {
+      "claim": "Remises de -5 % à -70 % selon les produits ; les plus fortes (-70 %) portent sur une sélection de matériel MTC.",
+      "source_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+      "source_name": "FAQ de la page Green Friday",
+      "credibility": "primary_source",
+      "surprise_factor": "notable",
+      "usable_as": "« Jusqu'à -70 % » + astérisque « sur une sélection »"
+    },
+    {
+      "claim": "« Le Green Friday, c'est le nom que Calebasse donne à son Black Friday. »",
+      "source_url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+      "source_name": "FAQ de la page Green Friday",
+      "credibility": "primary_source",
+      "surprise_factor": "surprising",
+      "usable_as": "Ressort narratif : les ouvriers renomment la bannière"
+    },
+    {
+      "claim": "Toute annonce de réduction doit se référer au prix le plus bas pratiqué sur les 30 jours précédant la réduction.",
+      "source_url": "https://www.economie.gouv.fr/particuliers/mes-droits-conso/bien-consommer/tout-savoir-sur-le-black-friday",
+      "source_name": "economie.gouv.fr",
+      "credibility": "primary_source",
+      "surprise_factor": "expected",
+      "usable_as": "N'afficher que les prix barrés exacts de la page, jamais de prix inventés"
+    },
+    {
+      "claim": "Les allégations thérapeutiques sont interdites pour les compléments alimentaires ; seules les allégations autorisées (règlement CE 1924/2006) sont permises.",
+      "source_url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/allegations-nutritionnelles-et-de-sante",
+      "source_name": "DGCCRF",
+      "credibility": "primary_source",
+      "surprise_factor": "expected",
+      "usable_as": "Écran produit : noms courts sans bénéfice santé"
+    },
+    {
+      "claim": "En 2025, 32 % des achats Black Friday des Français étaient 100 % en ligne (+7 points sur un an).",
+      "source_url": "https://www.bcg.com/press/13november2025-black-friday-plus-de-7-francais-sur-10-comptent-en-profiter-dans-un-contexte-economique-toujours-contraint",
+      "source_name": "BCG",
+      "credibility": "secondary_source",
+      "surprise_factor": "notable",
+      "usable_as": "Justifie le téléphone comme vitrine"
+    }
+  ],
+  "audience_insights": {
+    "common_questions": [
+      "Quand a lieu le Black Friday Calebasse ?",
+      "Quelles remises ?",
+      "Green Friday ou Black Friday : quelle différence ?"
+    ],
+    "misconceptions": [
+      {
+        "myth": "« Green Friday » signifie un boycott ou un engagement écologique",
+        "reality": "Chez Calebasse, c'est le nom de son Black Friday (remises de -5 % à -70 %)",
+        "source": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute"
+      }
+    ],
+    "knowledge_level": "Clientèle Calebasse et curieux de MTC, à l'aise sur mobile, habitués aux promotions de fin d'année",
+    "pain_points": [
+      "Fil Instagram saturé de visuels Black Friday identiques",
+      "Méfiance envers les fausses promotions"
+    ]
+  },
+  "angles_discovered": [
+    {
+      "name": "Le chantier du Green Friday",
+      "hook": "Des ouvriers miniatures barrent « BLACK », écrivent « GREEN »… et la bannière tombe.",
+      "type": "narrative",
+      "why_now": "Reprend le motif exact de la page (Black barré → Green) pendant l'opération en cours",
+      "grounded_in": [
+        "Green Friday = nom du Black Friday Calebasse",
+        "référence Pinterest"
+      ]
+    },
+    {
+      "name": "Rideau vert typographique",
+      "hook": "BLACK FRIDAY remplit l'écran — un trait vert le raye, et tout bascule au vert.",
+      "type": "trending",
+      "why_now": "Typographie cinétique, très lisible sans le son, tranche avec les fonds noirs saturés",
+      "grounded_in": [
+        "motion design en tête de Reels",
+        "palette de campagne"
+      ]
+    },
+    {
+      "name": "Les ouvriers remplissent la vitrine",
+      "hook": "Une équipe miniature range les vrais produits Calebasse dans un téléphone vide, étiquette par étiquette.",
+      "type": "evergreen",
+      "why_now": "Montre les vrais produits et les vrais prix, construction plutôt que révélation",
+      "grounded_in": [
+        "110 produits remisés",
+        "contraste d'échelle"
+      ]
+    }
+  ],
+  "visual_references": [
+    {
+      "description": "Référence : 4 ouvriers, 2 échelles, smartphone géant, bannière noire qui tombe",
+      "url": "https://pin.it/kcJKeGtua",
+      "what_works": "Contraste d'échelle + révélation en un plan fixe"
+    },
+    {
+      "description": "Héros de la page : vert forêt #0D3B2E, « -70 % » vert anis #C9EC7A, Poppins 800, « Black » barré à -7°",
+      "url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+      "what_works": "Identité immédiatement reconnaissable entre la pub et la page d'arrivée"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://calebasse.com/pages/black-friday-bien-etre-sante-beaute",
+      "title": "Black Friday 2026 : notre Green Friday jusqu'à -70 % · Calebasse",
+      "used_for": "Identité, produits, prix, dates",
+      "reliability": "primary"
+    },
+    {
+      "url": "https://pin.it/kcJKeGtua",
+      "title": "Black Friday AI content idea",
+      "used_for": "Référence visuelle",
+      "reliability": "primary"
+    },
+    {
+      "url": "https://www.economie.gouv.fr/particuliers/mes-droits-conso/bien-consommer/tout-savoir-sur-le-black-friday",
+      "title": "Tout savoir sur le Black Friday",
+      "used_for": "Règle du prix de référence",
+      "reliability": "primary"
+    },
+    {
+      "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/allegations-nutritionnelles-et-de-sante",
+      "title": "Allégations nutritionnelles et de santé (DGCCRF)",
+      "used_for": "Garde-fous allégations",
+      "reliability": "primary"
+    },
+    {
+      "url": "https://www.bcg.com/press/13november2025-black-friday-plus-de-7-francais-sur-10-comptent-en-profiter-dans-un-contexte-economique-toujours-contraint",
+      "title": "BCG Black Friday 2025",
+      "used_for": "Part des achats en ligne",
+      "reliability": "secondary"
+    },
+    {
+      "url": "https://www.quechoisir.org/actualite-black-friday-le-mouvement-de-boycott-prend-de-l-ampleur-n73407/",
+      "title": "Que Choisir — mouvement de boycott",
+      "used_for": "Connotation du terme Green Friday",
+      "reliability": "secondary"
+    },
+    {
+      "url": "https://www.anijam.ai/blog/ai-social-media-video-ideas/",
+      "title": "Viral AI Social Media Ad Examples",
+      "used_for": "Tendance mondes miniatures",
+      "reliability": "anecdotal"
+    },
+    {
+      "url": "https://aiadvantageagency.com/black-friday-instagram-ads-ecommerce/",
+      "title": "Black Friday Instagram Ads (2026)",
+      "used_for": "Mouvement dès la première demi-seconde, éviter le look BFCM générique",
+      "reliability": "anecdotal"
+    },
+    {
+      "url": "https://en.wikipedia.com/wiki/Diorama_effect",
+      "title": "Miniature faking",
+      "used_for": "Technique : vue plongeante, flou de bord, mouvement accéléré",
+      "reliability": "secondary"
+    },
+    {
+      "url": "https://www.remotion.dev/docs/figma",
+      "title": "Remotion — SVG",
+      "used_for": "Technique : SVG animé, spring() pour la chute de bannière",
+      "reliability": "primary"
+    }
+  ],
+  "metadata": {
+    "reference_context": {
+      "reference_url": "https://pin.it/kcJKeGtua",
+      "duration_s": 5.1,
+      "resolution": "720x1280",
+      "motion_type": "motion_clip (IA photoréaliste, plan fixe)",
+      "keeps": [
+        "contraste d'échelle",
+        "révélation par chute de bannière",
+        "plan fixe centré",
+        "fond studio clair"
+      ],
+      "changes": [
+        "renommage Black → Green joué par les ouvriers",
+        "illustration vectorielle de marque",
+        "écran produit animé avec vrais prix",
+        "carton dates + logo"
+      ]
+    },
+    "animation_techniques": [
+      {
+        "technique": "Bannière en tissu simulée : chemin SVG dont les plis suivent un spring() amorti + ombre portée",
+        "mode": "remotion",
+        "complexity": "moderate"
+      },
+      {
+        "technique": "Trait de rature dessiné (stroke-dashoffset) à -7°, puis « GREEN » estampillé avec dépassement",
+        "mode": "remotion",
+        "complexity": "simple"
+      },
+      {
+        "technique": "Personnages vectoriels à articulations (bras, tête) animés par keyframes, léger tremblé à 12 i/s pour l'effet maquette",
+        "mode": "remotion",
+        "complexity": "moderate"
+      },
+      {
+        "technique": "Défilement de la page produit dans l'écran (masque + translateY), prix barré qui s'anime",
+        "mode": "remotion",
+        "complexity": "simple"
+      }
+    ]
+  }
+}

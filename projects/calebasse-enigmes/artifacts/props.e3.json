@@ -1,0 +1,96 @@
+{
+ "n": 3,
+ "text": "Mon nom chinois parle de chasser le froid et de réchauffer le corps. Je suis une tisane faite pour les journées d'automne.",
+ "file": "voice/e3.wav",
+ "dur": 6.308,
+ "words": [
+  {
+   "w": "Mon",
+   "s": 0.0
+  },
+  {
+   "w": "nom",
+   "s": 0.14
+  },
+  {
+   "w": "chinois",
+   "s": 0.3
+  },
+  {
+   "w": "parle",
+   "s": 0.54
+  },
+  {
+   "w": "de",
+   "s": 0.84
+  },
+  {
+   "w": "chasser",
+   "s": 1.02
+  },
+  {
+   "w": "le",
+   "s": 1.3
+  },
+  {
+   "w": "froid",
+   "s": 1.46
+  },
+  {
+   "w": "et",
+   "s": 2.1
+  },
+  {
+   "w": "de",
+   "s": 2.24
+  },
+  {
+   "w": "réchauffer",
+   "s": 2.66
+  },
+  {
+   "w": "le",
+   "s": 2.78
+  },
+  {
+   "w": "corps.",
+   "s": 3.9
+  },
+  {
+   "w": "Je",
+   "s": 4.08
+  },
+  {
+   "w": "suis",
+   "s": 4.24
+  },
+  {
+   "w": "une",
+   "s": 4.4
+  },
+  {
+   "w": "tisane",
+   "s": 4.66
+  },
+  {
+   "w": "faite",
+   "s": 5.08
+  },
+  {
+   "w": "pour",
+   "s": 5.3
+  },
+  {
+   "w": "les",
+   "s": 5.42
+  },
+  {
+   "w": "journées",
+   "s": 5.72
+  },
+  {
+   "w": "d'automne.",
+   "s": 5.82
+  }
+ ]
+}

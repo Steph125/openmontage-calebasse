@@ -1,0 +1,171 @@
+{
+  "version": "1.0",
+  "project_id": "calebasse-green-friday",
+  "pipeline_type": "animation",
+  "stage": "compose",
+  "status": "completed",
+  "timestamp": "2026-11-24T11:13:30.520043+00:00",
+  "checkpoint_policy": "guided",
+  "human_approval_required": false,
+  "human_approved": false,
+  "artifacts": {
+    "render_report": {
+      "version": "1.0",
+      "outputs": [
+        {
+          "path": "renders/gf_A_remotion.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "aac",
+          "resolution": "1080x1920",
+          "fps": 30.0,
+          "duration_seconds": 12.053,
+          "file_size_bytes": 2741214,
+          "platform_target": "instagram_reels"
+        },
+        {
+          "path": "renders/gf_A_hyperframes.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1080x1920",
+          "fps": 30.0,
+          "duration_seconds": 12.0,
+          "file_size_bytes": 3030995,
+          "platform_target": "instagram_reels"
+        },
+        {
+          "path": "renders/gf_C_remotion.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "aac",
+          "resolution": "1080x1920",
+          "fps": 30.0,
+          "duration_seconds": 15.061,
+          "file_size_bytes": 2327671,
+          "platform_target": "instagram_reels"
+        },
+        {
+          "path": "renders/gf_C_hyperframes.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1080x1920",
+          "fps": 30.0,
+          "duration_seconds": 15.0,
+          "file_size_bytes": 2309739,
+          "platform_target": "instagram_reels"
+        },
+        {
+          "path": "renders/formats/gf_A_hyperframes_1080x1080.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1080x1080",
+          "fps": 30.0,
+          "duration_seconds": 12.0,
+          "file_size_bytes": 2033589,
+          "platform_target": "instagram_feed"
+        },
+        {
+          "path": "renders/formats/gf_A_hyperframes_1080x1350.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1080x1350",
+          "fps": 30.0,
+          "duration_seconds": 12.0,
+          "file_size_bytes": 2669880,
+          "platform_target": "instagram_feed"
+        },
+        {
+          "path": "renders/formats/gf_A_hyperframes_1080x1920.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1080x1920",
+          "fps": 30.0,
+          "duration_seconds": 12.0,
+          "file_size_bytes": 3030995,
+          "platform_target": "instagram_reels"
+        },
+        {
+          "path": "renders/formats/gf_A_hyperframes_1200x628.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1200x628",
+          "fps": 30.0,
+          "duration_seconds": 12.0,
+          "file_size_bytes": 1350159,
+          "platform_target": "facebook_link_ad"
+        },
+        {
+          "path": "renders/formats/gf_C_hyperframes_1080x1080.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1080x1080",
+          "fps": 30.0,
+          "duration_seconds": 15.0,
+          "file_size_bytes": 1528760,
+          "platform_target": "instagram_feed"
+        },
+        {
+          "path": "renders/formats/gf_C_hyperframes_1080x1350.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1080x1350",
+          "fps": 30.0,
+          "duration_seconds": 15.0,
+          "file_size_bytes": 1993502,
+          "platform_target": "instagram_feed"
+        },
+        {
+          "path": "renders/formats/gf_C_hyperframes_1080x1920.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1080x1920",
+          "fps": 30.0,
+          "duration_seconds": 15.0,
+          "file_size_bytes": 2309739,
+          "platform_target": "instagram_reels"
+        },
+        {
+          "path": "renders/formats/gf_C_hyperframes_1200x628.mp4",
+          "format": "mp4",
+          "codec": "h264",
+          "audio_codec": "none",
+          "resolution": "1200x628",
+          "fps": 30.0,
+          "duration_seconds": 15.0,
+          "file_size_bytes": 1018058,
+          "platform_target": "facebook_link_ad"
+        }
+      ],
+      "render_grammar": "product-reveal",
+      "warnings": [
+        "Vid\u00e9os muettes (choix utilisateur) : la revue automatique signale l'absence de son.",
+        "HyperFrames : sonde `hyperframes doctor` > 20 s sur ce PC \u2014 diagnostic relanc\u00e9 avec un d\u00e9lai de 120 s (exit 0) avant rendu.",
+        "HyperFrames check : avertissements restants attendus (bords, rotation de la banni\u00e8re, petites pastilles) ; 0 erreur."
+      ],
+      "verification_notes": [
+        "ffprobe : 4 fichiers 1080x1920, 30 i/s, h264 ; A = 12 s, C = 15 s.",
+        "Contr\u00f4le visuel image par image de A (Remotion vs HyperFrames) et de C.",
+        "Prix / remises identiques \u00e0 la page (artifacts/products.json).",
+        "Carton de fin remont\u00e9 (sc\u00e8ne \u00e0 92 %) pour d\u00e9gager l'interface Instagram.",
+        "2026-11-24 d\u00e9clinaisons HyperFrames A/C en 1080x1350, 1080x1080, 1200x628 (+ masters 9:16 copi\u00e9s) : hyperframes check 0 erreur, final_review pass, ffprobe OK, planches relues"
+      ],
+      "metadata": {
+        "variants": [
+          "A-remotion",
+          "A-hyperframes",
+          "C-remotion",
+          "C-hyperframes"
+        ]
+      }
+    }
+  }
+}

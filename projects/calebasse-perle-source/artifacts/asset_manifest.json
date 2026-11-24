@@ -1,0 +1,85 @@
+{
+  "version": "1.0",
+  "assets": [
+    {
+      "id": "jar_perle",
+      "type": "image",
+      "path": "public/img/jar_perle.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "leaf_shadows",
+      "type": "image",
+      "path": "public/img/leaf_shadows.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "moss_rock",
+      "type": "image",
+      "path": "public/img/moss_rock.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "pearl",
+      "type": "image",
+      "path": "public/img/pearl.png",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "sand_pearls",
+      "type": "image",
+      "path": "public/img/sand_pearls.jpg",
+      "source_tool": "bg_remove/crop/web_download",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    },
+    {
+      "id": "ripples",
+      "type": "video",
+      "path": "public/video/ripples.mp4",
+      "source_tool": "pexels_video",
+      "scene_id": "B1",
+      "cost_usd": 0.0,
+      "license": "Pexels License"
+    },
+    {
+      "id": "splash",
+      "type": "video",
+      "path": "public/video/splash.mp4",
+      "source_tool": "pexels_video",
+      "scene_id": "B1",
+      "cost_usd": 0.0,
+      "license": "Pexels License"
+    },
+    {
+      "id": "stream",
+      "type": "video",
+      "path": "public/video/stream.mp4",
+      "source_tool": "pexels_video",
+      "scene_id": "B1",
+      "cost_usd": 0.0,
+      "license": "Pexels License"
+    },
+    {
+      "id": "comp",
+      "type": "animation",
+      "path": "Scene.tsx",
+      "source_tool": "hand_authored_atelier",
+      "scene_id": "B1",
+      "cost_usd": 0.0
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "metadata": {
+    "sources": "assets/source/sources.json + pexels_credits.json",
+    "prep": "projects/calebasse-brand/catalog/prep_log_batch2.json"
+  }
+}

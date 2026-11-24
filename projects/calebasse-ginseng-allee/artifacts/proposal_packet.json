@@ -1,0 +1,134 @@
+{
+  "version": "1.0",
+  "concept_options": [
+    {
+      "id": "main",
+      "title": "Calebasse — Racine de Ginseng (l'allée)",
+      "hook": "Une allée infinie de pots de ginseng en vert forêt : travelling avant continu, flou de profondeur, la mise au point se pose sur le pot central, contre-plongée sur « Racine de Ginseng · 人参 », brume cha",
+      "narrative_structure": "story",
+      "visual_approach": "Une allée infinie de pots de ginseng en vert forêt : travelling avant continu, flou de profondeur, la mise au point se pose sur le pot central, contre-plongée sur « Racine de Ginseng · 人参 », brume chaude qui monte, puis la macro des tranches de racine et le surnom « Le roi des herbes ».",
+      "target_platform": "instagram",
+      "target_duration_seconds": 13,
+      "key_points": [
+        "couloir de produits identiques",
+        "mise au point sur le héros",
+        "brume",
+        "plan continu",
+        "camaïeu vert"
+      ],
+      "why_this_works": "Le packshot officiel montre déjà 3 pots alignés à étiquette vert forêt (4,7★, 45 avis) : la répétition du couloir est native au produit.",
+      "grounded_in": [
+        "https://pin.it/59sJWLdvp",
+        "https://calebasse.com/produits/ren-shen-racine-de-ginseng-4679"
+      ]
+    },
+    {
+      "id": "alt1",
+      "title": "Variante produit : Cordyceps",
+      "hook": "Même grammaire, produit Cordyceps",
+      "narrative_structure": "story",
+      "visual_approach": "Même construction que la proposition principale, appliquée à Cordyceps - Dong chong xia cao",
+      "target_platform": "instagram",
+      "target_duration_seconds": 13,
+      "key_points": [
+        "même grammaire de référence",
+        "produit alternatif"
+      ],
+      "why_this_works": "Alternative étudiée — 4.6★ (10 avis)",
+      "grounded_in": [
+        "https://calebasse.com/produits/dong-chong-xia-cao-cordyceps-4422"
+      ]
+    },
+    {
+      "id": "alt2",
+      "title": "Variante produit : Reishi Extrait BIO",
+      "hook": "Même grammaire, produit Reishi Extrait BIO",
+      "narrative_structure": "story",
+      "visual_approach": "Même construction que la proposition principale, appliquée à Reishi Extrait BIO - Sérénité & longévité",
+      "target_platform": "instagram",
+      "target_duration_seconds": 13,
+      "key_points": [
+        "même grammaire de référence",
+        "produit alternatif"
+      ],
+      "why_this_works": "Alternative étudiée — 5★ (1 avis)",
+      "grounded_in": [
+        "https://calebasse.com/produits/reishi-extrait-bio-serenite-and-longevite-5304"
+      ]
+    }
+  ],
+  "selected_concept": {
+    "concept_id": "main",
+    "rationale": "Validé par l'utilisateur (produit et concept principal).",
+    "modifications": [
+      "Garde : couloir de produits identiques, mise au point sur le héros, brume, plan continu, camaïeu vert",
+      "Change : sérum → pots de racine (l'étiquette verte de la marque), ajout d'un plan macro des tranches de racine, surnom traditionnel en signature"
+    ]
+  },
+  "production_plan": {
+    "pipeline": "animation",
+    "renderer_family": "product-reveal",
+    "composition_mode": "atelier",
+    "delivery_promise": {
+      "promise_type": "motion_led",
+      "motion_required": true,
+      "tone_mode": "premium_product_ad",
+      "quality_floor": "broadcast",
+      "approved_fallback": null
+    },
+    "stages": [
+      {
+        "stage": "assets",
+        "tools": [
+          {
+            "tool_name": "image_selector",
+            "role": "photos produit (galerie Cloudinary du site) + images libres d'ingrédients/décors si besoin",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          }
+        ],
+        "approach": "vraies photos produit détourées"
+      },
+      {
+        "stage": "compose",
+        "tools": [
+          {
+            "tool_name": "video_compose",
+            "role": "rendu Remotion atelier 1080x1920",
+            "available": true,
+            "estimated_cost_usd": 0.0
+          }
+        ],
+        "approach": "Remotion (choix utilisateur)"
+      }
+    ],
+    "render_runtime": "remotion",
+    "music_source": {
+      "source_type": "none",
+      "mood_direction": "muet (choix utilisateur)",
+      "estimated_cost_usd": 0.0
+    },
+    "voice_selection": {
+      "provider": "none",
+      "rationale": "muet (choix utilisateur)",
+      "estimated_cost_usd": 0.0
+    },
+    "decision_log_ref": "C:\\Users\\nguen\\OneDrive\\Bureau\\OpenMontage\\projects\\calebasse-ginseng-allee\\decision_log.json"
+  },
+  "cost_estimate": {
+    "total_estimated_usd": 0.0,
+    "line_items": [
+      {
+        "tool": "video_compose",
+        "operation": "rendu local",
+        "estimated_usd": 0.0
+      }
+    ],
+    "budget_verdict": "within_budget"
+  },
+  "approval": {
+    "status": "approved",
+    "user_notes": "Réponse utilisateur 2026-11-23 : « oui pour tout, installe rembg, muet, d'une traite »",
+    "approved_budget_usd": 0.0
+  }
+}
